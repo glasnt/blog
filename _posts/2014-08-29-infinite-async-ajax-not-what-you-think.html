@@ -28,7 +28,7 @@ $("#txt").load("demo_ajax_load.asp");
 </pre>
 <p>And then duplicate the div to create the <code>#txt2</code> field.</p>
 <p>Open the DOM Explorer (F12 in Chrome), hit the networking tab, and press your new button.</p>
-<p><img src="/assets/media/infinite.png"/>
+<p><img src="{{site.BASE_PATH}}/assets/media/infinite.png"/>
 <p>Because it's trying to go to the same local place twice, it's not threading the requests. This is a big issue when trying to have a system that relies on being asynchronous.</p>
 <p>This will be fixed in HTTP 2.0, however. But given we're still on HTTP 1.1 and the HTML5 is all special now, I'm not sure of the timeline to have this fixed.</p>
 <p>&nbsp;</p>
