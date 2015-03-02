@@ -30,4 +30,4 @@ sidebar:
      title: talks
      url: /talks	  
 
-BASE_PATH: ""
+BASE_PATH: "/blog"
