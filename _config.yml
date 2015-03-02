@@ -1,0 +1,33 @@
+
+paginate: 5 
+paginate_path: "page_:num"
+exclude: ["Rakefile", "new_post", "development_mode"] 
+highlighter: pygments
+permalink: "/:categories/:year/:month/:day/:title.html"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: "> ./dump glasnt.thoughts"
+
+author:
+  name: glasnt
+  email: katie@glasnt.com
+  github: glasnt
+  twitter: glasnt
+  bio: "You're a kitty! <3"
+  email_md5: 0ead88677bee8cb029de77303e998415
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+archive_path: archive.html
+
+sidebar: 
+   - talks:
+     title: talks
+     url: /talks	  
+
+BASE_PATH: ""

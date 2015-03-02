@@ -1,0 +1,26 @@
+---
+layout: post
+title: Sprockets, jQuery, and asset management, oh my!
+date: 2014-09-17 01:02:00.000000000 +10:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '13362107'
+  geo_public: '0'
+  _publicize_pending: '1'
+author: 
+---
+<p>So you have a jQuery, or other JavaScript file, that uses the name jquery.css.cleaner.js. This is fine, because <a href="http://plugins.jquery.com/docs/names/">jQuery suggests using this format</a> of dot delimited names.</p>
+<p>You include it in your Rails setup, by adding the Sprocket directive <code>require jquery.css.cleaner</code> in <code>app/assets/javascript/application.js</code>. This is fine, because by including it in thejavaScript directory assumes it's JavaScript (you don't have to specify <code>bootstrap.min.js</code>, <code>bootstrap.min</code> works just fine)</p>
+<p>You run your Rails app. It fails.</p>
+<p><code>Sprockets::ContentTypeMismatch at jquery.css.cleaner is 'text/css', not 'application/javascript'</code></p>
+<p>Huh?</p>
+<p>Here's the reason why this fails. Sprockets assumes a naming scheme that allows <a href="https://github.com/sstephenson/sprockets#using-engines">multiple language processing</a> based on the filename, using dot delimited file extensions. Those that are understood, e.g. <code>.coffee</code> and <code>.css</code>, are used as directives for engine work. Since we used a specific substring of <code>.css</code> in our file, even though the actual file type is <code>.js</code>, Sprockets got really confused, and said "This is a css file, and you put it in my JavaScript list. You're doing it wrong".</p>
+<p>There are multiple solutions for this: either rename the file in a way that removes the <code>.css</code> substring, OR explicitly declare it as a JavaScript file by using <code>//= require jquery.css.cleaner.js</code></p>
+<p>After making this small change, Sprockets is happy, and you can JavaScript away.</p>
+<p><em>The script <code>jquery.css.cleaner.js</code> referenced in this post is a really nice tool for checking orphaned css elements. The version I used was improved by <a href="http://joaquinnunez.cl/blog/2009/10/06/jquery-css-cleaner/ ">Joaquín Núñez</a>.</em></p>
+<p>&nbsp;</p>

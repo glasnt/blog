@@ -1,0 +1,59 @@
+---
+layout: post
+title: How to LCA
+---
+
+It's Sunday afternoon. You're sitting in a room with a few other people that are new comers, like yourself. There is a guy up the front who apparently has a wrench named after him, giving you some information about how the conference works. Here's what they won't tell you: 
+
+## As a delegate ##
+
+### Take care of your feet ###
+
+First stop, your footsies. This conference doesn't have a catered lunch, so you will be walking to find food. The venue and the food might not be on the same site, so you will be walking a lot. You will have evening events, where you will be walking a *lot*. There will probably be hills where the conference is: you will be walking **a lot**. Make sure you have sufficient footwear and fresh socks. As tempting as it might be, in the summer heat, a single pair of thongs will not get you far. You have five days of this, and you will have to be self-propelling. 
+
+### Work out what talks you want to see ###
+
+Do you know any of the technologies that are being spoken of? Are you interested in any of the new technologies that are being presented? Do you have any hobbies that some of the talks might be related to? Do you know of any of the speakers that are presenting? These questions may help you narrow down what to see
+
+### Re-think what talks you want to see ###
+
+You will be meeting a whole lot of new people at this conference. There are a least 5 concurrent talks going side by side, so everyone will want to be going to a different talk. If you're talking with someone, and they are about to go to a talk that they find interesting, and you're not already sold on a particular one, go sit next to them in their talk. I have no been to a talk where I didn't learn at least 3 things, and afterwards you'll be able to discuss what your friend got out of the talk, if you didn't. 
+
+### Be prepared to miss out on the talks you want to see ###
+
+Glitches happen. Speakers may not be available, venues might be at capacity. Be prepared to move and change, if it happens. Most venues have fire regulations, so you might be asked to leave the room if there are no seats left. If this happens to a lot of people, there might be an overflow room where you can watch the live stream - if not, chose something else and try to enter quietly if the alternative talk is in progress. 
+
+### "Be" in a talk ###
+
+Baring solar flairs and gremlins, all talks will have a video available, and slides afterwards. Unless someone is paying you to transcribe the talk live in shorthand, don't just copy what's on the slides. Be engaged and attentive in the talk. The speaker is getting a message out to you. 
+
+The slides might be all words and expanded on by the speaker - if anything jumps out to you, then take down notes. The slides might just be pictures and a few words - listen to the content being delivered and note down anything interesting. The slides might be purposefully full of information and skipped over - note down that this has happened and find the released slides afterwards for links and in depth information. 
+
+Just because you have your laptop doesn't mean you should be on IRC, twitter, whatever social media is so hot right now - you are there to listen to the presentation, you can catch up later. Some people might be live-tweeting keynotes, but you don't have to. 
+
+### Engage nicely ###
+
+Some speakers may invite active questions as they do. Some speakers might have friends in the audience heckling for humour. Unless invited to, try not to distract the audience. If you need to talk to someone next to you, whisper, or wait til afterwards. For questions at the end of the talk, try and follow the guidelines[0]
+
+[0] [https://i.imgur.com/EF6PDMV.jpg](https://i.imgur.com/EF6PDMV.jpg)
+
+### Pace yourself ###
+
+There are a few catered events at this conference - there will be beer. You are invited to socialise and take part in drinking some beer. You do not have to drink all the beer. There are 5 days where you have to be alert and attentive. If you must drink to excess, make it the final day. Just remember you probably have a plane to catch. 
+
+### Enjoy yourself ###
+
+Your time at LCA is what you make it - meet people, talk, converse, learn, engage. Past attendees have described LCA as a time to meet with old friends, and some friendships can last a lifetime. A bit of learning doesn't ever go astray, either. 
+
+
+## Appendix - As a speaker
+
+### DON'T PANIC
+
+You will make a mistake, and you will not say something right the first time. The people in your room are there to see you, and you won't be able to bring your message to every single one of them[1]. Speak to the people in the room that are paying attention. 
+
+### DON'T PANIC
+
+Seriously, don't. Public speaking is sometimes polled as being less preferencial than outright dying, but LCA has a friendly, interested crowd that are there to learn. Embrace them.
+
+[1] unless you are the one that has a wrench named after you, then you're already awesome.

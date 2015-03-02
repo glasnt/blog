@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Top tip: Fixing a corrupt RhythmBox Database'
+date: 2014-06-25 02:38:27.000000000 +10:00
+categories: []
+tags:
+- ubuntu rhythmbox
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _edit_last: '13362107'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>For sufficiently large music collections, Rhythmbox can be a bit .. special.. when it comes to caching the index. </p>
+<p>If you find you are having issues, I stand by this "Nuke it from Orbit" process: </p>
+<p>As per <a href="http://askubuntu.com/questions/56328/">StackOverflow</a>:</p>
+<ul>
+<li>Close RhythmBox</li>
+<li>Delete the database cache file
+<pre><code>rm ~/.local/share/rhythmbox/rhythmdb.xml</code></pre>
+</li>
+<li>Set the default music folder 
+<pre><code>gsettings set org.gnome.rhythmbox.rhythmdb locations "['file:///dev/null']"</code></pre>
+</li>
+<li>Reopen RhythmBox</li>
+<li>Go directly to Edit &gt; Preference &gt; Music, and select the folder your files live in. </li>
+<li>Go go Music &gt; Import</li>
+<li>Click 'Import'</li>
+<li>Wait.</li>
+</ul>
+<p>The last step is important. I found I was waiting several hours for the database to be cached. Leave it alone. Don't try and play anything through it, just let it churn in the background.</p>
+<p>After it's complete, you should have a useful music player again. </p>

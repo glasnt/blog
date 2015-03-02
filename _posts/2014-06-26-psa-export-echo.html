@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'PSA: export != echo'
+date: 2014-06-26 06:43:46.000000000 +10:00
+categories: []
+tags:
+- bash
+- export
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _edit_last: '13362107'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>If you're trying to interrogate your PATH environment variable, do not run <code>export $PATH</code>. This will set your PATH to PATH. This will be less than ideal.</p>
+<p>Use <code>echo $PATH</code> and <code>export PATH=foobar:$PATH</code> to set.</p>
+<p>~~~ the more^H^H^H^Hless you know^H^H^H^Hbreak ~~~</p>

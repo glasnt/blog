@@ -1,0 +1,36 @@
+---
+layout: post
+title: Generating Dual Screen Wallpapers in Cinnamon/Ubuntu
+date: 2014-04-30 23:20:55.000000000 +10:00
+categories: []
+tags:
+- cinnamon
+- gyprock
+- ubuntu
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>This stuff is really hard. (It might be easier on more consumer-friendly systems, but then you don't get things like a *nix OS (looking at you, windows))</p>
+<p>You can easily do it by getting your (w x 2, h) sized wallpaper, and setting the Advanced Background settings to use "Spanned" Picture aspect setting, but how to do deal with multiple monitors that are different sizes?</p>
+<p>The manual way:</p>
+<ul>
+<li>Take a screenshot of your system (Prnt-Sc).</li>
+<li>Open in your favourite image editing suite</li>
+<li>Take the left and right sides of your image, and scale them to the non-black areas of your screenshot</li>
+<li>Save and use.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Before:</p>
+<p><img src="/assets/media/cinnamon_before.png" alt="Original Image" width="300" height="84" /></p>
+<p>After:</p>
+<p><a href="/assets/media/cinnamon_after.png"><img src="/assets/media/cinnamon_after.png" alt="Post Processed" width="300" height="139" /></a></p>
+<p>(The setup I have has my laptop lower than my big screen, hence the disparity.</p>
+<p>Now I'm thinking, how can I make this automatic using the system settings to resize and shift the smaller image...</p>
+<p>Update: This method makes for a HORRIFIC lockscreen. The image that was spanned is then set as a default picture aspect, which ruins the effect :&lt;</p>
+<p><a href="/assets/media/cinnamon_broken.png"><img src="/assets/media/cinnamon_broken.png" alt="lock failure" width="300" height="165" /></a></p>

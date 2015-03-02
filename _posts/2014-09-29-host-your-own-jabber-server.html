@@ -1,0 +1,25 @@
+---
+layout: post
+title: Host your own jabber server
+date: 2014-09-29 06:55:48.000000000 +10:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _wpcom_is_markdown: '1'
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+author: 
+---
+<p>Ever think "Gosh, I wish I had yet another service on my VPS that duplicates existing systems just so I can run it myself"? Disabled Google Plus and realized that it also takes out your Google Hangouts, and therefore Google talk?</p>
+<p>Well, you could go back to <a href="https://www.youtube.com/watch?v=ci2bFFGM8T8">carrier pigeons</a>, or you could use your existing <a href="https://www.pidgin.im/">Pidgin</a> client and run a <code>ejabberd</code> server on your own VPS. <a href="http://feeding.cloud.geek.nz/posts/running-your-own-xmpp-server-debian-ubuntu/">Francois Marier </a>has some really good documentation on how to get this happening. I was able to follow that process on Wheezy.</p>
+<p>One tip for those trying to set this up: the config file syntax is really important. If you try and start <code>ejabberd</code> and it fails (e.g. when trying to run <code>ejabberdctl</code>) make sure none of the old processes are running. Kill anything that looks like erlang in <code>ps aux</code> and then try restarting again. The logs in <code>/var/log/ejabberd</code> are helpful for the issues in the last restart, if it fails, but should you not get results in there, try restarting after clearing the server of related processes.</p>

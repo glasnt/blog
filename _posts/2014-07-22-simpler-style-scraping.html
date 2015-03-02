@@ -1,0 +1,31 @@
+---
+layout: post
+title: Simpler style scraping
+date: 2014-07-22 02:29:24.000000000 +10:00
+categories: []
+tags:
+- chrome
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  geo_public: '0'
+  _publicize_pending: '1'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>If, for <em>reasons</em>, you want to take the style of a responsive website and use it in a local file, you could: load the site, download the page (using the "Web Page, Complete") setting. And then take hours trying to remove the DOM alterations that the browser performed on your behalf.</p>
+<p>Or, you can use a simpler method.</p>
+<ul>
+<li>Disable JavaScript (in Chrome: settings &gt; advanced &gt; Privacy &gt; Content Settings &gt; Disable Javascript</li>
+<li>Load the page</li>
+<li>Save as "Web Page, Complete" in a new folder, and call the file "index.html"</li>
+<li>In the saved folder, change the "index_files" folder to "src"</li>
+<li>In the index.html file, replace all "index_files" references to "src"</li>
+</ul>
+<p>You should now have a somewhat exact copy of the site stored locally.</p>
+<p>By disabling JavaScript, nothing can alter the raw html pulled from the source site, thus altering and cluttering the DOM. After pulling, re-enabling JavaScript will allow it to act on the pulled version, which should be very similar to the original source.</p>
+<p>Be sure to remove any analytics or remote sources, depending on what the page had.</p>
+<p>Also, be sure to enable JavaScript again after you finish, or everything will look 1995 (tip: try loading a google search results without javascript. Timewarp!)</p>
+<p>&nbsp;</p>

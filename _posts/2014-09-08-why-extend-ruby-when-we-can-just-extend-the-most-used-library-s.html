@@ -1,0 +1,32 @@
+---
+layout: post
+title: Why extend ruby when we can just extend the most used library? /s
+date: 2014-09-08 01:56:38.000000000 +10:00
+categories: []
+tags:
+- musings
+- opinion
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+  _edit_last: '13362107'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>I was looking around to see if there was a way to test if a ruby object was nil or empty in one test. Something like a <code>nempty?</code> (it's a working title of the function)</p>
+<p>Turns out there is, called <code>blank?</code>, which returns true if something is an empty string, nil, and empty object, an empty array or one or many spaces.</p>
+<p>This is implemented by overloading the String class. In Ruby on Rails.</p>
+<p>See, it's not a ruby method, it's a Rails method. Something that could be used in the wider community (other examples include <code>titleize</code>) but have been implemented in one library, which is gargantuan enough.</p>
+<p>Surely others have ported this logic to helper gems, but it's just annoying to see such "vendor lock-in"(?) around in places that means it's harder to leave the ecosystem and just to the raw language constructs.</p>
+<p>Or is this just a bunch of people creating helper functions in a much more accessible ecosystem? (Rails, with a presumably easier upgrade path (CVE's, anyone) vs Ruby itself, which has its whole 1.8 vs 1.9.x vs 2.x issues)</p>

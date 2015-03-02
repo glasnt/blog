@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'FYI: $("..") vs document.getElementById("..")'
+date: 2014-09-11 05:08:52.000000000 +10:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _wpcom_is_markdown: '1'
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+  _publicize_pending: '1'
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+author: 
+---
+<p>I'm often confused by things I don't understand (like ducks). However, once I get an idea about the reasoning behind things, it makes it easier to remember.</p>
+<p>An example: the difference between <code>$("..")</code> and <code>document.getElementById("..")</code></p>
+<p>Say you have a div with an id of <code>thing</code>. You can use javascript to assign the variable <code>myThing</code> to a node defined by the id <code>thing</code> via a few methods:</p>
+<ul>
+<li>`document.getElementById("thing")`. This will return a node.</li>
+<li>`$("#thing")`. This will NOT return a node. It will return a jQuery "array" of objects with extra wrappers for helpful functions. </li>
+</ul>
+<p>If you want the node only in jQuery, or the shortest amount of characters possible, then use <code>$("#thing")[0]</code>. </p>
+<p>Note the addition of <code>#</code> in the jQuery calls. This is because you use <code>#</code> for ids, and you don't use it in the case where you are explicitly asking for "the element with the ID known as" (in the case of getElementById). Also, you use[0] <code>#</code> for ID and <code>.</code> for classes in CSS, so it's totally consistent. (A fun mnemonic if you can't remember the difference: "ID Number, ID #")</p>
+<p> [0] used, some CSS linters get upset at using <code>#</code> for ID now. This is probably for a reason, but outside of the scope of this braindump.</p>

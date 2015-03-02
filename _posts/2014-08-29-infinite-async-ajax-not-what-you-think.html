@@ -1,0 +1,35 @@
+---
+layout: post
+title: Infinite Async Ajax - not what you think
+date: 2014-08-29 06:54:46.000000000 +10:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>Since jQuery 1.8, using <code>$.ajax</code> has always assumed, and defaulted to asynchronous. Meaning that you shouldn't block loading the page based on external calls.</p>
+<p>Indeed, Rails 4 has also been thread safe. Meaning you should be able to have a threaded instance and support multiple connections without exploding.</p>
+<p>However, this doesn't mean you can pull things to your hearts content.</p>
+<p>I have a little application that calls it's own RESTful API zero to many times in a page load to get information to use. However, it's blocking on successive calls. I thought the issue was either the threading or async options mentioned about, but it's not. It's a little thing called <a title="HTTP Pipelining" href="http://en.wikipedia.org/wiki/HTTP_pipelining">HTTP Pipelining</a> that's preventing me from having <code>O(n)</code> efficiency in my code.</p>
+<p>Indeed, you should be able to set your <code>chrome://flags</code> to enable <a title="SPDY" href="http://en.wikipedia.org/wiki/SPDY">SPDY</a>, which should, apparently, fix this problem. Except that SPDY is a Google thing, and isn't cross-browser (yet), and isn't exactly a solution to a website issue (you can barely get people to stop using IE7, let alone changing dangerous settings)</p>
+<p>You can see what I mean here at <a href="http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajaxcomplete">w3schools</a>. Make the following change to the default for their ajax complete tests.</p>
+<pre>$("button").click(function(){
+$("#txt").load("demo_ajax_load.asp");
++ $("#txt2").load("demo_ajax_load.asp");
+})
+...
+</pre>
+<p>And then duplicate the div to create the <code>#txt2</code> field.</p>
+<p>Open the DOM Explorer (F12 in Chrome), hit the networking tab, and press your new button.</p>
+<p><img src="/assets/media/infinite.png"/>
+<p>Because it's trying to go to the same local place twice, it's not threading the requests. This is a big issue when trying to have a system that relies on being asynchronous.</p>
+<p>This will be fixed in HTTP 2.0, however. But given we're still on HTTP 1.1 and the HTML5 is all special now, I'm not sure of the timeline to have this fixed.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

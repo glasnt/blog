@@ -1,0 +1,30 @@
+---
+layout: post
+title: streamlining release cycles with git (version-bump|release)
+date: 2014-05-07 22:34:28.000000000 +10:00
+categories: []
+tags:
+- git
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  _oembed_63de37554172b33d3ab56840ddbce162: "{{unknown}}"
+  _oembed_a113528892475b76a18a3cae4280f674: "{{unknown}}"
+  _oembed_7c39aae60a5b90f947f7f6a3cd7d9800: "{{unknown}}"
+  _oembed_3a42d1a81f6a47a8ca8399204365e14e: "{{unknown}}"
+  _wpcom_is_markdown: '1'
+  _oembed_18db94a0fe2539c7367c035fc9582623: "{{unknown}}"
+  _oembed_26682b48defda49406ab51361a0e1e57: "{{unknown}}"
+author: 
+---
+<p>Nearly everyone who develops something in and releases it knows how versioning is supposed to work. Some might even use <a href="http://semver.org/">Semantic Versioning</a>. However, there's no really nice way in git to do such things. On top of that, the github way to releasing things is to use additional attributes to existing tags, in order to include a name and information about a specific release. Both things are not able to be done within git core. Until now.</p>
+<p>The illustrious mpalmer has developed a set of Ruby gems that can natively extend git to do versioning and releases to github. They are:</p>
+<p>https://github.com/mpalmer/git-version-bump</p>
+<p>and</p>
+<p>https://github.com/mpalmer/github-release</p>
+<p>With <code>git version-bump</code>, you can in one line bump your code by a patch, minor version, or major version. This gem has been around for a few months now. However, the recently created <code>git release</code> allows the extension of this. By using the <code>-n</code> parameter you can add a title and body to your tag as an annoation, much in the same way you add a summary and body to a git commit.</p>
+<p>Using <code>git release</code>, it takes your github credentials, generates a one time key, and using the github api, takes the annotated tag and turns it into a nicely formatted github release. Indeed, the <a href="https://github.com/mpalmer/github-release/releases/tag/v0.1.0">first release of github-release</a> was released entirely using the gem itself. Nifty!</p>
+<p>&nbsp;</p>

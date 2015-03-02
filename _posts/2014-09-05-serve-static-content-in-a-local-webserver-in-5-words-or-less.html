@@ -1,0 +1,37 @@
+---
+layout: post
+title: Serve static content in a local webserver in 5 words or less
+date: 2014-09-05 06:49:19.000000000 +10:00
+categories: []
+tags:
+- python
+- tricks
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>I've hit an issue where I want to view a copy of a website -- full of html, javascript, css, and what have you -- locally. This is fine, you can usually just go <code>file:///home/user/project/index.html</code>, and Bob's your uncle.</p>
+<p>However, due to Chrome (and presumably Firefox) and their security limitations, you cannot use ajax calls locally. This means that a <code>$.get("file.txt",function(d){})</code> call in that local website directory you have won't work.</p>
+<p>There are ways around this. You could convert the text in your <code>file.txt</code> into a javascript object and then parse that. But I like doing things in a non-destructive way. And I found it in an old <a title="&lt;3 StackOverflow" href="http://serverfault.com/a/8616/12173">serverfault post</a>. Simple invoke the power of python -</p>
+<pre>python -m SimpleHTTPServer PORT</pre>
+<p>Then you can have your cross-site scripting that's actually a localhost, and eat it too[0]</p>
+<p>For Python3, use</p>
+<pre>python -m http.server PORT</pre>
+<p>The <code>-m</code> flag refers running a library module as a script. You can use this trick to do other cool things, like parsing pretty json to the terminal, using <code>python -m json.tool filename</code></p>
+<p>NB. This post refers to "5 words or less" because</p>
+<pre> $echo "python -m SimpleHTTPServer PORT"  | wc -w
+ 4
+</pre>
+<p>[0] Consumption of local webservers not recommended</p>

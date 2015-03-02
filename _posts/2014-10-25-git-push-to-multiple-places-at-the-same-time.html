@@ -1,0 +1,22 @@
+---
+layout: post
+title: "`git push` to multiple places at the same time"
+date: 2014-10-25 21:21:37.000000000 +11:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+  _edit_last: '13362107'
+author: 
+---
+<p>If you have a multi-server production setup, or something, you can do this kinda fancy trick with the <code>git remote</code> configurations to push to multiple remote urls at once.</p>
+<p>Just edit the <code>[remote "web"]</code> section of your <code>.git/config</code> file to add more than one <code>url</code> target</p>
+<p><code>[remote "web"]<br />
+url = ssh://server.example.org/home/ams/website.git<br />
+url = ssh://other.example.org/home/foo/website.git</code></p>
+<p>Source: <a href="http://toroid.org/ams/git-website-howto">http://toroid.org/ams/git-website-howto</a></p>

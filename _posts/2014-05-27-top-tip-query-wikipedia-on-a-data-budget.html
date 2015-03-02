@@ -1,0 +1,26 @@
+---
+layout: post
+title: 'Top tip: query wikipedia on a data budget'
+date: 2014-05-27 05:37:10.000000000 +10:00
+categories: []
+tags:
+- dns
+- ubuntu
+- wikipedia
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  geo_public: '0'
+  _publicize_pending: '1'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>If you need to win an argument and you have a severely throttled internet connection, or you're on 3G, try this method:</p>
+<ul>
+<li>Bring up an interface that will allow you to run <code>dig</code> (e.g. an ssh into a machine, or a sufficiently able terminal session on your mobile)</li>
+<li>run <code>dig +short txt [query].wp.dg.cx</code></li>
+</ul>
+<p>You'll get the first ~400 characters of the wikipedia page in a DNS txt record, which should be sufficient to win the most basic word definition debates brought up on car trips.</p>
+<p>Using the mobile wikipedia page can take several hundred kilobytes of data transfer but using this method I was able to ssh into my personal server and get the wiki information in a tenth of the time, and all for the low, low cost of 6 kilobytes.</p>

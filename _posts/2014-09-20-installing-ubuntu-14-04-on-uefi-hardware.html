@@ -1,0 +1,45 @@
+---
+layout: post
+title: Installing Ubuntu 14.04 on UEFI Hardware
+date: 2014-09-20 12:13:31.000000000 +10:00
+categories: []
+tags:
+- ubuntu
+status: publish
+type: post
+published: true
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  geo_public: '0'
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+author: 
+---
+<p>About 12 months ago I bought a shiny new netbook, and tried to dual boot it with Ubuntu 12.10, or there abouts, with mixed results.</p>
+<p>It worked.. okay, but for some reason, I couldn't upgrade to 13.04 when it came out, and once Windows 8.1 got it's teeth into things, well, that was the end of that.</p>
+<p>However, after a few months of Ballmer pain, I decided to attempt to get Ubuntu working on it again.</p>
+<p>And it look all of 10 minutes. Most of that was downloading new updates.</p>
+<p>Canonical/Ubuntu have done a lot of work to make sure that hardware can just work, and it does. This machine is working well. Mind you, I did opt to completely remove Windows 8. I'm pretty sure at this stage this is a good thing (I do have a backup of the recovery partition [that 20G filesystem that eats into the 128GB SSD] in case of Enterprise)</p>
+<p>All that aside, there are still a few things that should be done to any fresh Ubuntu install, in my humble opinion:</p>
+<ul>
+<li>Remove <a href="http://en.wikipedia.org/wiki/Zeitgeist_(free_software)">zeitgeist</a>.</li>
+<li>Settings &gt; Security and Privacy: Disable the Search and History settings</li>
+<li>Install the basics: `inkscape mplayer konsole build-essential gedit vim git pidgin`</li>
+<li>Disable sound on Pidgin</li>
+<li>Install Chrome, Dropbox from their respective outlets.</li>
+<li>Settings &gt; Appearance &gt; Behavior: Autohide Launcher. Or remove Unity all together. Your choice.</li>
+<li>Rename `/usr/share/sounds/ubuntu/stereo/system-ready.ogg` to something else. Then you don't get the drums at start up .(There is no settings-driven way to stop this in 14.04 apart from de-referencing the sound asset)</li>
+</ul>
+
+<b>Update 2015-01-29</b> - A few more things on this: 
+<ul>
+	<li> For the love of all things holy, install on USB with UEFI enabled. You will get but better results
+	<li> For the love of sriacha, install an LTS version. Do not do what I tried to do and go "Oh, Utopic sounds fun.." No. Trusty has out of the box hardware support for this laptop. Utopic doesn't. Staring at a full-brightness screen doesn't do anything good for your eyes
+	<li> I have untold respect for the people who make and package hardware drivers. I know for sure I would have revereted back to virtual machines on a Windows base if this hadn't worked. I would have been very sad if it came to that, however. 
+</ul>

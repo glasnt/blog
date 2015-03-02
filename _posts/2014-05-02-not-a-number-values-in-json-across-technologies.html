@@ -1,0 +1,27 @@
+---
+layout: post
+title: Not a Number values in JSON across technologies
+date: 2014-05-02 01:54:55.000000000 +10:00
+categories: []
+tags:
+- Json
+- NaN
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13362107'
+  _publicize_pending: '1'
+  geo_public: '0'
+  _wpcom_is_markdown: '1'
+author: 
+---
+<p>TL;DR: Not all technologies like being lazy/strict.</p>
+<p>So I have a controller in Ruby on Rails that asks an API for a set of data from time X to time Y. The dataset returned may only contain data from X to Y-Zminutes. So I pad this out to NaN values. This allows my Rickshaw graphs to show a gap in data where the data doesn't exist.</p>
+<p>Or so I thought.</p>
+<p>Turns out, <code>render json: data</code> in Rails uses it's own <code>to_json</code> implementation which specifically casts NaN to Null instead. Which, within d3, is scaled as 0. So Not a Number ends up as 0. Not cool.</p>
+<p>I tried using a system to create my own <code>jsonize</code> function, but this worked.. so much so that the $.getJSON call in jQuery, because that doesn't allow NaN in JSON feeds.</p>
+<p>Balls.</p>
+<p>To get around this, I injected a lack of data as nil in Ruby, which casts to null in to_json, which I then have as a conditional in the scaling function within rickshaw to use NaN instead of calling the scale function, which allows me to display a non-value in a graph.</p>
+<p>All this to show the fact that a data stream doesn't zero out, it actually doesn't have data.</p>
+<p>Post Script: Turns out that NaN and d3 don't mix very well at all... so what I've had to do is have nulls all the way down, and then inject an extra conditional to do nothing to a null on scaling. That way I have 1,644 less console errors (no seriously).</p>
