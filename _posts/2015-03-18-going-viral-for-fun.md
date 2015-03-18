@@ -50,7 +50,7 @@ Be wary that attack vectors are found, mitigated against, and evolve. The things
 
 <small>I was fortunate enough to be able to see this presentation live.<small>
 
-<small>I know Ben has a very engaging speaking style, but I have never seen a presentation like this before. There were some technical issues that made the talk stall a bit: Ben's own laptop wasn't able to use used with the conference hall projector; he attempted to use my own laptop, but the HDMI cabling at the front of the room wasn't working, however, the one in the back of the room was. He was able to use a third laptop, but because of the live demonstration, not all the prerequisite components were installed, and some live bug fixes had to be completed during the presentation. </small>
+<small>I know Ben has a very engaging speaking style, but I have never seen a presentation like this before. There were some technical issues that made the talk stall a bit: Ben's own laptop wasn't able to be used with the conference hall projector; he attempted to use my own laptop, but the HDMI cabling at the front of the room wasn't working, however, the one in the back of the room was. He was able to use a third laptop, but because of the live demonstration, not all the prerequisite components were installed, and some live bug fixes had to be completed during the presentation. </small>
 
 <small>However, this was at [PHP Australia](http://phpconference.com.au). The room was full of people who develop PHP, and even the original creator of PHP and some of the current core developers. Throughout the talk people were suggesting bug fixes, apache config changes, packages to install and tests to try and get things working. I have never been in such an environment, and I doubt I ever will. </small>
  
