@@ -7,7 +7,7 @@ Over the Easter long weekend, I was lucky enough to get my hands on a raspberry.
 
 ## Hardware
 
-Actually getting a raspberry is hard. There are a lot of prickles in trying to obtain the little gem of goodness from the manufacturer. I was able to get around this by letting my fingers do the walking, and getting my hands dirty, to secure the best bargin.
+Actually getting a raspberry is hard. There are a lot of prickles in trying to obtain the little gem of goodness from the manufacturer. I was able to get around this by letting my fingers do the walking, and getting my hands dirty, to secure the best bargain.
 
 ## Software
 
@@ -15,7 +15,7 @@ The great thing about raspberries is they respond really well to software. I was
 
 ## Casing
 
-The main problem is that there is no default casing for the pie. There are some tried and true home methods, which I ended up opting for over a store-bought, pre-rolled verison. I did try and add some embellishments to the top casing for ventilation, with varying effect. 
+The main problem is that there is no default casing for the pie. There are some tried and true home methods, which I ended up opting for over a store-bought, pre-rolled version. I did try and add some embellishments to the top casing for ventilation, with varying effect. 
 
 ## Overall performance
 
@@ -52,7 +52,7 @@ or DIY
 
 ### Assembly
 
-*If going DIY casing, follow your assembly instructions, or use my TL;DR: sift dry ingredients + sugar,  and rub butter into this mixure. The result should resemble breadcrumbs. Cut in one egg, roll the dough into a disc, and refrigerate for one hour*
+*If going DIY casing, follow your assembly instructions, or use my TL;DR: sift dry ingredients + sugar,  and rub butter into this mixture. The result should resemble breadcrumbs. Cut in one egg, roll the dough into a disc, and refrigerate for one hour*
 
 Preheat the oven to 180C
 
