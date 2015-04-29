@@ -3,7 +3,7 @@ layout: post
 title: Font Spaceout
 ---
 
-So, I've ranged at Ubuntu Unity long enough, I thought I'd try and give cinnamon another chance. Thankfully, I found a nice stable community-managed [PPA for cinnamon](https://launchpad.net/~tsvetko.tsvetkov/+archive/ubuntu/cinnamon) that I was able to get successfully installed, and configured, in no time flat. 
+So, I've raged at Ubuntu Unity long enough, I thought I'd try and give cinnamon another chance. Thankfully, I found a nice stable community-managed [PPA for cinnamon](https://launchpad.net/~tsvetko.tsvetkov/+archive/ubuntu/cinnamon) that I was able to get successfully installed, and configured, in no time flat. 
 
 There was just one major problem. 
 
