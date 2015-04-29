@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elementary, my dear Watson
+title: Captive Portal Assistant
 ---
 
 
