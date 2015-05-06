@@ -7,8 +7,7 @@ I was recently lucky enough to have been able to participate in a day-long works
 
 I learnt so much though Damien's mentoring, and the discussions with the other participants. 
 
-I've collated all my notes, which are [available in full](https://github.com/glasnt/notes/tree/master/speakerworkshop). Alternatively, I have listed below the "TL;DR".
-
+I've collated all my notes, which are [available in full](https://github.com/glasnt/notes/tree/master/speakerworkshop). Alternatively, I have listed below the "TL;DR" below. 
 
 
 	 - You are the post powerful person in the room. Do what you like, as long as it's good.
@@ -40,7 +39,7 @@ I've collated all my notes, which are [available in full](https://github.com/gla
 	  - palms should face outward, and be inviting
 
 	 - Presenter presentation
-	  - makeup is ok, if it makes you comfortable and confident (also helpful if talk is recorded)
+	  - make-up is ok, if it makes you comfortable and confident (also helpful if talk is recorded)
 	  - hair - up is very formal, but just don't touch it during
 
 	 - There is always more to learn
