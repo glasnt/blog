@@ -45,4 +45,4 @@ Systems like these are designed to introduce more variables to reduce the footpr
 
 As for the whole sqlite3 local database thing.. I was originally surprised that the GAuth application doesn't include it's own passcode or other authentication before showing whatever codes are configured. It relies only on the phone-based access security, which could be nothing. 
 
-Of course, no security measure is infallible - if an authorized person can enter, any person can enter. But this is something to keep in mind in the current era where we have so much of our lives now to interwoven to our physical devices. 
+Of course, no security measure is infallible (even [RSA](http://arstechnica.com/security/2011/06/rsa-finally-comes-clean-securid-is-compromised/)) - if an authorized person can enter, any person can enter. But this is something to keep in mind in the current era where we have so much of our lives now to interwoven to our physical devices. 
