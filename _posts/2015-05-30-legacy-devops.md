@@ -4,11 +4,11 @@ title: Legacy DevOps
 ---
 
 
- > [@joshsimmons](https://twitter.com/joshsimmons/status/566770904483368960) :  Perl folk, I'm prepping a talk: Becoming a Web Dev. Why might a newbie go Perl? TY! context [https://t.co/4NdlUCBUAL](https://t.co/4NdlUCBUAL)
+ > [@joshsimmons](https://twitter.com/joshsimmons/status/566770904483368960) Perl folk, I'm prepping a talk: Becoming a Web Dev. Why might a newbie go Perl? TY! context [https://t.co/4NdlUCBUAL](https://t.co/4NdlUCBUAL)
  > 
- > [@glasnt](https://twitter.com/glasnt/status/566774115433209856) :  @joshsimmons To understand and extend "legacy" systems, eg nagios (cruel, maybe, but it's how I learnt perl)
+ > [@glasnt](https://twitter.com/glasnt/status/566774115433209856) @joshsimmons To understand and extend "legacy" systems, eg nagios (cruel, maybe, but it's how I learnt perl)
  >
- > [@joshsimmons](https://twitter.com/joshsimmons/status/566774855282880514) : @glasnt Ah ha! Exactly what I was looking for, thank you :-)
+ > [@joshsimmons](https://twitter.com/joshsimmons/status/566774855282880514) @glasnt Ah ha! Exactly what I was looking for, thank you :-)
 
 ---
 
