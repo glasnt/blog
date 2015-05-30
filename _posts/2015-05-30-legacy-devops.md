@@ -12,8 +12,7 @@ title: Legacy DevOps
 
 ---
 
-
-This conversation is a few months old now, but it was the seed of what I'm calling "Legacy DevOps". The old rhetoric that COBOL and TORFRAN programmers will always have work trying to keep critical systems online is not as unfamiliar to me any more. 
+This conversation is a few months old now, but it was the seed of what I'm calling "Legacy DevOps". The old rhetoric that COBOL and FORTRAN programmers will always have work trying to keep critical systems online is not as unfamiliar to me any more. 
 
 In the last week I've implemented changes to a [16 year old monitoring system](https://twitter.com/glasnt/status/603311310235967488) and a process interfacing with a [10 year old ticketing systems](https://twitter.com/glasnt/status/603332170900381696). The latter required pulling up some of the Perl concepts I learnt years ago, but it didn't take as long as I thought it would to fix. (Side note: it feels *amazing* when you fix that one thing that was bugging [heh] you and your co-workers for so long). 
 
