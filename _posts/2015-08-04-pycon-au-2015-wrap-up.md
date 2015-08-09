@@ -17,19 +17,19 @@ Yes. That's what makes the Python so great - they understand that it's not the l
 
 Heck, this weekend I learnt that not only does Ruby on Rails and Django sound like similar things, the core developers actually share information about when they find security issues and how they fix them, because the codebases are so similar. 
 
-Speaking of security, there were some really interesting talks related to security our applications and our data: Tom Eastman's [Playing to Lose](http://2015.pycon-au.org/schedule/30088/view_talk?day=sunday) and Carina C. Zona's [Consequences of an Insightful Algorithm](https://www.youtube.com/watch?v=NheE6udjfGI) discuss very interesting practical and ethical issues that we need to take into account when dealing with data collection and application hosting. 
+Speaking of security, there were some really interesting talks related to security our applications and our data: Tom Eastman's [Playing to Lose](https://www.youtube.com/watch?v=EQVaNTRqIjY) and Carina C. Zona's [Consequences of an Insighytful Algorithm](https://www.youtube.com/watch?v=NheE6udjfGI) discuss very interesting practical and ethical issues that we need to take into account when dealing with data collection and application hosting. 
 
 Some other amazing talks that I was fortunate enough to attend were: 
 
  * [Designed for education: a Python solution](https://www.youtube.com/watch?v=gaFk0Sya_HI) by Carrie Anne Philbin - Naming functions is hard, even harder when children use your functions and they are still learning to read 
- * OpenStack: A vision for the future by Monty Taylor - we need more Shakespeare in our lives, and many people working on similar themes to make multiple solutions makes for a more complete ecosystem
- * The one true way of doing Django deployments... by Tom Eastman - there is no real way, and saying words that we rarely have to verbally articulate is hard. "Production should be boring. Production should be stable. The tech shouldn't excite you.. except for Django"
- * Money, Money, Money - Writing software, in a rich (wo)man's world by Russell Keith-Magee - (just watch the video on this one. I couldn't tweet it fast enough to take any notes)
- * Ansible, Simplicity, and the Zen of Python by Todd Owen - "Oh master, isn't it wonderful that a laborious process can be automated [in Puppet] in just four days?"
- * Adventures in pip land by Robert Collins - "Find links has been deprecated from pip but can't be removed. Deprecated but can't be removed. Let that sink in." 
- * Talking to Browsers with CORS by Michael Krotscheck - because XML 'features' from the 1990's need to be fixed.
+ * [OpenStack: A vision for the future](https://www.youtube.com/watch?v=_cfKwZWjFDw) by Monty Taylor- we need more Shakespeare in our lives, and many people working on similar themes to make multiple solutions makes for a more complete ecosystem
+ * [The one true way of doing Django deployments...](https://www.youtube.com/watch?v=1ABPQyANid0) by Tom Eastman - there is no real way, and saying words that we rarely have to verbally articulate is hard. "Production should be boring. Production should be stable. The tech shouldn't excite you.. except for Django"
+ * [Money, Money, Money - Writing software, in a rich (wo)man's world](https://www.youtube.com/watch?v=mY8B2lXIu6g) by Russell Keith-Magee - (just watch the video on this one. I couldn't tweet it fast enough to take any notes)
+ * [Ansible, Simplicity, and the Zen of Python](https://www.youtube.com/watch?v=JlrkizEBjXk) by Todd Owen - "Oh master, isn't it wonderful that a laborious process can be automated [in Puppet] in just four days?"
+ * [Adventures in pip land](https://www.youtube.com/watch?v=tqVWzndh374) by Robert Collins - "Find links has been deprecated from pip but can't be removed. Deprecated but can't be removed. Let that sink in." 
+ * [Talking to Browsers with CORS](https://www.youtube.com/watch?v=a9ze1XilXSI) by Michael Krotscheck - because XML 'features' from the 1990's need to be fixed.
 
 
-All the videos are being uploaded to [Youtube](https://www.youtube.com/user/PyConAU)
+**Update 2015-08-09** All the videos are now up on [Youtube](https://www.youtube.com/user/PyConAU)
 
 So are you missing PyCon AU already? Upset that you couldn't make it? Want another? The speaker schedule for [Kiwi PyCon](https://nzpug.org/schedule/talks/) was released overnight. Some of the talks from AU are getting a reprise, and there are some very shiny looking new talks that look very interesting. It'll be an awesome weekend.
