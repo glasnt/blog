@@ -29,7 +29,7 @@ In my slide deck, there are no slides until they are loaded in. They get pulled 
 
 I know that you can print reveal.js out to PDF, but I can never remember how to do it. The way is to append `?print-pdf` to the query string of the slidedeck, then `File > Print` to PDF. The webpage will look weird, but the preview should look sane. This does not include fragments, however. 
 
-## Markdowna and the cost of fragments
+## Markdown and the cost of fragments
 
 In one deck I did, I ended up having 15 hand-crafted transitional inkscape images because I couldn't use fragments and the CSS was annoying me. You can do fragments in reveal.js by using `class="fragment"` on any node. But reveal.js also has an awesome markdown plugin, which means you can use `data-markdown=file` to pull in data. Except there's no nice way I can see to flag part of the markdown as a fragment. 
 
