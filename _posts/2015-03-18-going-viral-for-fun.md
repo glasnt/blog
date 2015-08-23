@@ -3,6 +3,8 @@ layout: post
 title: Going Viral for Fun, Not Profit
 ---
 
+Update: The video for this talk is [now available](https://www.youtube.com/watch?t=346&v=ZCwbILP_drA)
+
 > **Notice**
 > 
 > *This is a blog post about the educational aspect of the talk by [Ben Dechrai](https://bendechrai.com/) entitled [Going Viral for Fun, not Profit](http://lanyrd.com/2015/phpaustralia/sdhcyz/). It does not include any code samples on how to make a virus. Making a virus is destructive, and is not a very nice thing to do, or to set into the world. Learning about how they work, and how to mitigate against them, however, is a good thing.*
