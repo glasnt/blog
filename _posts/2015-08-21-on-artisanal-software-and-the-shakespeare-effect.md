@@ -10,6 +10,7 @@ Now days, I can't go to a conference or even see a list of video records without
 I've been using a [fork of a fork](https://github.com/glasnt/projection) of a slide deck technology that can only be classed as 'artisanal'. It's a nice style, I have a lot of control over it and it does a whole lot of things nice. Specifically, I can define all my slides as different files, and include those in the order that I was from a pre-defined `list.txt` file, which gets loaded in at run time if I launch my deck by serving the files locally using a basic `python3 -m http.server` invocation. 
 
 However, there are a few problems with this stack: 
+
  * there's no concept of fade-ins - each slide is static, and any transitions have to be hand-crafted using incremental changes in slides. 
  * there's no speaker notes - I've found that sometimes my thoughts fall away, and there's only so much on-screen prompting I can give myself without the audience getting too far ahead of the story
  * there's no PDF output - having the ability to upload the deck in a grokable way that can be shared around is priceless for the people that were there to get the references and links out of the talk. 
