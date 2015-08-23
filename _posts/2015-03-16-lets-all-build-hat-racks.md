@@ -30,5 +30,5 @@ References:
 
  - [Leslie's original blog post](http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/)
  - [#LABHR update](http://hawthornlandings.org/2015/02/23/the-weekly-writing-update/)
- - [Paul Fenwick's post on the subject](pjf.id.au/tech/2015/02/15/why-non-code-contributions-matter.html)
+ - [Paul Fenwick's post on the subject](http://pjf.id.au/tech/2015/02/15/why-non-code-contributions-matter.html)
 
