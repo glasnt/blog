@@ -22,7 +22,7 @@ I'd actually first heard about /dev/world via seeing a promotional video for the
 
 The one main take away from this conference is that Keynote has an 'Anvil' transition, and it is highly overused. :p
 
-### Talks of note
+### Talks of Note
 
 With so many talks across two streams, here are just some of my highlights, which I recommend you watch the videos for: 
 
@@ -30,7 +30,7 @@ With so many talks across two streams, here are just some of my highlights, whic
 
 **Maintaining Sanity and Code - Bogo Giertler**
 
- > "Friendships die in code review" - [@giertler, #devworld](https://twitter.com/glasnt/status/638148270066417664)
+"Friendships die in code review" - [@giertler, #devworld](https://twitter.com/glasnt/status/638148270066417664)
 
 ---
 
@@ -38,7 +38,7 @@ With so many talks across two streams, here are just some of my highlights, whic
 
 Yes, Jon was able to make the game in a dash under 40 minutes. 
 
- > "Lag is the thing you hate the most when you create a multi-player game.. It's the thing you learn to really despise" - [@desplesda #devworld](https://twitter.com/glasnt/status/638161915831693312)
+"Lag is the thing you hate the most when you create a multi-player game.. It's the thing you learn to really despise" - [@desplesda #devworld](https://twitter.com/glasnt/status/638161915831693312)
 
 ---
 
@@ -58,7 +58,7 @@ I'm always interested in how you can use other languages in toolchains, and Josh
 
 Skeuomorphs!
 
- > "You don't need ridges on an iPad keyboard, cos you can't feel them" skeuomorphs in < iOS7 [@The_McJones #devworld](https://twitter.com/glasnt/status/638252499900588032)
+"You don't need ridges on an iPad keyboard, cos you can't feel them" skeuomorphs in < iOS7 [@The_McJones #devworld](https://twitter.com/glasnt/status/638252499900588032)
 
 ---
 
@@ -83,8 +83,10 @@ Jon did a repeat performance to fill in from another speaker who was ill, but hi
 
 **Surveillance in a Mobile World - Tom Karpiniec**
 
- > Speakers opinion: "If you run a forum without an anti-harassment policy, that's just as bad as having a forum that's unencrypted" [#devworld](https://twitter.com/glasnt/status/638588274353704960)
+Speakers opinion: "If you run a forum without an anti-harassment policy, that's just as bad as having a forum that's unencrypted" [#devworld](https://twitter.com/glasnt/status/638588274353704960)
 
 ---
 
 Videos from /dev/world are being uploaded to the [AUC_ANZ](https://www.youtube.com/channel/UCXbRfF4X_3HV_8fndF_gT7Q/videos)
+
+[My entire tweet stream from /dev/world](https://twitter.com/search?f=tweets&vertical=default&q=from%3Aglasnt%20%23devworld&src=typd)
