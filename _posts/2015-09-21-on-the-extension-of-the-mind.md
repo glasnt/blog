@@ -15,10 +15,10 @@ But I don't know right at that second. So saying "Yes (I know)" is invalid. What
 
 This is known as the "Extended Mind Thesis". The classic example of this involves telling the time: 
 
- Alice: "Do you know the time?"
- Betty: "Yes"
- Betty looks at watch
- Betty: "It's 3:30"
+ - Alice: "Do you know the time?"
+ - Betty: "Yes"
+ - Betty looks at watch
+ - Betty: "It's 3:30"
 
 Betty didn't know the time in the instance she was asked. But, she had a watch on, so she know she had immediate access to the inormation. The time required for her to say "No, but I have a watch on, let me look at it" would be longer than the time it would take to actually get the information, so saying "Yes" is quicker, and for values of 'immediate knowledge acquisition', accurate - she does know the time, because she was a device dedicated to keeping track of this information.  
 
