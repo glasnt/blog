@@ -4,6 +4,7 @@ title: On the live-tweeting of talks
 ---
 
 > "Are you ever not at a conference?" - twitter
+> 
 > "No, sometimes I sleep" - @glasnt
 
 Actually, that's not exactly true. Do you want to know my secret?
@@ -16,15 +17,15 @@ But on the subject of conferences: some people may have noticed that I tend to l
 
 I like to repay that favour by live-tweeting what I can. I do this at local meetups, conferences, talks, smaller presentations; a few may have noticed a lot of "OH" comments as well.
 
-The only negative I get about these kind of comments is that people don't understand when I'm quoting a presentor, when it's my own opinion, or when it's just a random overheard comment. I oft get people trying to attack something I've tweeted when I'm in 'journalist' mode.
+The only negative feedback I get when I live-tweet is from people who don't understand when I'm quoting a presentor, when it's my own opinion, or when it's just a random overheard comment. I oft get people trying to attack something I've tweeted when I'm in 'journalist' mode.
 
 So, here's a quick go-to guide about how you should be interpreting my tweets.
 
-Note: this is just for me; others may or may not follow my examples:
+Note: this is just for me; others may or may not follow my examples. I try and follow these rules, but in a fast-paced talk, it might be hard to keep up the proper formats. 
 
 ----
 
-# Interpreting a glasnt tweet
+# Interpreting live-tweeting
 
 ## Direct Quotes
 
@@ -54,7 +55,9 @@ If there's no attribution, then it's most probably information I'm sharing. I ac
  > OH: Out of context statement that appears somewhat humourous
 
  > OH: "Person A says something"
+ > 
  > 'Person B replies'
+ > 
  > "Person A, denoted by the same quote marks as earlier, retaliates"
 
 These are "overheard" statements. They oft go without attribution for anonymity. They are mostly humourous quips that I like to share. These can sometimes be me, but most of the time I'm not that funny. They go without a hashtag, but if you're really clever you could work out if they happened at a conference or meetup based on the content before and after the tweet.
