@@ -3,7 +3,9 @@ layout: post
 title: On Brainstorming and Crayons
 ---
 
-> TFW you yoyo between having too much to talk about and too little? Yeah, that feeling - @glasnt
+> TFW you yo-yo between not having enough to talk about and having too much to talk about for an upcoming presentation?
+> 
+> Yeah, that feeling. - [@glasnt](https://twitter.com/glasnt/status/655580156061286400)
 
 [OSDC](https://2015.osdc.com.au) is coming up next week, and I'm doing a talk. I submitted three: two that I've given before, and a new one that I thought would be a fun exercise if it got accepted, but it was really a spur of the moment decision. Guess which one got accepted?
 
