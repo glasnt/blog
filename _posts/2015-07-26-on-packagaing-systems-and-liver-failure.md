@@ -13,7 +13,7 @@ So I thought it was a totally good idea to make the python package demo code for
 
 ### I'm not actually a python programmer
 
-Yes, I've I can code python, but I feel that to call yourself an X language/technology programmer, you need to have more than just a fundamental understanding of the syntax. You should at least know how to make a full widget in whatever encapsulation system your language comes with. For Python, that's packages. This is one reason why I call myself a ruby programmer and not a Rails programmer (I mean, what's the deal with ActiveRecord /JerrySpringer).
+Yes, I can code python, but I feel that to call yourself an X language/technology programmer, you need to have more than just a fundamental understanding of the syntax. You should at least know how to make a full widget in whatever encapsulation system your language comes with. For Python, that's packages. This is one reason why I call myself a ruby programmer and not a Rails programmer (I mean, what's the deal with ActiveRecord /JerrySpringer).
 
 ### Pypi requires pypi
 
@@ -34,4 +34,4 @@ As cliche as it sounds, I often find I'm productive with coffee, and creative wi
 
 ### So, what did you make?
 
-Horrible awful MVP code that is probably riddled with bugs and doens't work on your system, that I'll be using at PyCon next week to demonstate a point. 
+Horrible awful MVP code that is probably riddled with bugs and doesn't work on your system, that I'll be using at PyCon next week to demonstate a point. 
