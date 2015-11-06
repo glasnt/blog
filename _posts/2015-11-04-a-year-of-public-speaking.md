@@ -24,7 +24,7 @@ It wasn't a year without incident, however. But, I'm stubborn, and I blatantly r
 
 The first talk I wrote was about a little hobby project I was working on. This was presented along with an open source project for work. I gave these twice.. and then I was made redundant. But that just meant I had reason to gave a talk about 'Life after Death' in OSS :D 
 
-And then, oh gosh, and then [Leslie Hawthorn](hawthornlandings.org) and [Jack Skinner](https://developerjack.com) happened. Jack asked me to do a talk for the PHP Australia warmup. This would make Talk #8. I thought I could do a 5-minute description of a concept that Leslie had just [just blogged about](hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/). 
+And then, oh gosh, and then [Leslie Hawthorn](http://hawthornlandings.org) and [Jack Skinner](https://developerjack.com) happened. Jack asked me to do a talk for the PHP Australia warmup. This would make Talk #8. I thought I could do a 5-minute description of a concept that Leslie had just [just blogged about](http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/). 
 
 Since then, I've given the lightning talk version of Hat Rack six times, and a full version four times, including once as a keynote.
 

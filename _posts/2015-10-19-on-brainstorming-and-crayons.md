@@ -13,9 +13,9 @@ I've given a few "JavaScript Rant" lightning talks before, but this one is going
 
 I know a lot of things about this domain, and I know a lot of things that I'm apologetically ignorant of, but putting these ideas together into a linear sequence is hard.
 
-I've spent a day with Damien Conway learning how to [speak good](www.youtube.com/watch?v=W_i_DrWic88), and one of the things that he suggested was a tool that I've used a few times since: paper and crayons.
+I've spent a day with Damien Conway learning how to [speak good](https://www.youtube.com/watch?v=W_i_DrWic88), and one of the things that he suggested was a tool that I've used a few times since: paper and crayons.
 
-Well, not crayons. I find them hard to write with. But have you seen the old-school [cyber-crayons](www.crayoncollecting.com/ccolor27.htm)? Gosh! What I do enjoy, however, is a fresh clean notepad and a good pen. If I have these things, I'm not inhibited by the free-flowing of thoughts coming out of my head.
+Well, not crayons. I find them hard to write with. But have you seen the old-school [cyber-crayons](http://www.crayoncollecting.com/ccolor27.htm)? Gosh! What I do enjoy, however, is a fresh clean notepad and a good pen. If I have these things, I'm not inhibited by the free-flowing of thoughts coming out of my head.
 
 So yesterday, armed with two different colours of pens, I set to work. I located an old paperpad from a conference long ago, which had some advertisement plastered on the front, but the back of each sheet was pristine white. I took a bunch of these, and wrote down all the things I could about the subject into sections. I ripped these into chunks, and sorted them into piles of similarly themed information nuggets.
 
