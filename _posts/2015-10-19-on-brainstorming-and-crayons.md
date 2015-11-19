@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Brainstorming and Crayons
+subtitle: Scribble scribble scribble...
 ---
 
 > TFW you yo-yo between not having enough to talk about and having too much to talk about for an upcoming presentation?

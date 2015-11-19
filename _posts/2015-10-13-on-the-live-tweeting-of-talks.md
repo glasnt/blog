@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the live-tweeting of talks
+subtitle: 🐦
 ---
 
 > "Are you ever not at a conference?" - twitter

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A year of public speaking
+subtitle: So, I had a little bit of a year...
+author: Katie McLaughlin
 ---
 
 So, I had a little bit of a year
@@ -90,7 +92,7 @@ I have also tried my darnest never to miss a talk because I'm preparing my own. 
 
 I haven't been to an event where I haven't learnt something. And I've been to even more than I've listed here. Yes, I've been to conferences where I haven't spoken. For example, the PHP conferences, I was involved in the community-hosted warmup events, but not the conference proper. But for anything I attend, I am there because I want to learn. I'm there for the people and the knowledge, not the beer and the pizza. 
 
-As cliche as it is, I've learnt so much over the year, and upskilled in *so* many areas. I've gained some lifelong friends, and I'm now an member of so many communities (including PHP, because I was on FacesOfTheElePHPant!). 
+As cliche as it is, I've learnt so much over the year, and upskilled in *so* many areas. I've gained some lifelong friends, and I'm now an member of so many communities (including PHP, because I was on [FacesOfTheElePHPant](http://www.facesoftheelephpant.com/post/129143418936)!). 
 
 ### The Future
 

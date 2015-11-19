@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On .dmg and anti-patterns
+subtitle: Thoughts on OSX from an Ubuntu user
 ---
 
 So I've been using a MacBook Pro as my work machine for about a month now, and things aren't going too badly.

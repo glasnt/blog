@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 How many people actually have ledgiable handwriting? How hard is it to be able to take a pen and be able to draw a series of symbols that another person can interpret and understand their meaning?
 
 Being able to use a pencil to write words is a skill that is trained from age 2 or whenever you find those crayons and a large white wall to scribble on. And yet it takes many years before you're allowed to start using a pen (if you were educated in a school which had a handwriting test before you were granted a 'pen licence', usually by age 10).
