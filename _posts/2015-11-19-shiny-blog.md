@@ -20,11 +20,12 @@ However, instead, I could have just used the embedded tweet option. Click on any
 
 Which means I can do something like this: 
 
-<placeholder>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I gave my blog a bit of a spruce up <a href="https://t.co/73UBzrkZzF">https://t.co/73UBzrkZzF</a></p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/667292111562108928">November 19, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Shiny Twitter Cards previews! :D
 
-### Twitter Cards 
+### Twitter Cards
+
 
 You know how you can add a `<meta>` content to your page and that can appear in the google search listing? Well, it's the same with twitter, except they are nice and use the `twitter:` namespace. 
 
@@ -34,10 +35,10 @@ You can read all about how to [get this working for your site](https://dev.twitt
     <!-- Twitter Cards! -->
 
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@YOURUSERNAME" />
+    <meta name="twitter:site" content="@glasnt" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.subtitle }}" />
-    <meta name="twitter:image" content="http://yoursite.com/image_for_post" />
+    <meta name="twitter:image" content="http://glasnt.com/glasnt.png" />
 
 Note that for the `twitter:site` page, if you want to see your data in the [Twitter Analytics](https://analytics.twitter.com) website, you have to add your username. For `twitter:image`, I've used a placeholder image, because I don't normally have images. However, for say a photoblog, the content of your posted image would work well here.
 
