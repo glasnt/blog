@@ -3,10 +3,8 @@ layout: post
 title: Kiwi PyCon 2015 Wrap Up
 ---
 
-
- > "You have teeth. Are you good at them?" An actual question I just got asked by someone on stage. -[@chrisjrn](https://twitter.com/chrisjrn/status/640013112104480768)
- > 
- > Well, we are talking about contributions, to FLOSS. - [@tveastman](https://twitter.com/tveastman/status/640013338911490048)
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chrisjrn">@chrisjrn</a> <a href="https://twitter.com/glasnt">@glasnt</a> Well, we are talking about contributions, to FLOSS.</p>&mdash; Tom Eastman (@tveastman) <a href="https://twitter.com/tveastman/status/640013338911490048">September 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 The problem with being friends with the organisers of conferences, and being of a highly encouragiable nature like I am, is that I often get roped into things. 

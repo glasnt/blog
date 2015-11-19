@@ -6,9 +6,8 @@ title: So I accidentally ended up speaking at an Apple conference...
 ... and it was pretty awesome. 
 
 
- > `#devworld` was wow. Such app, very awesome. - [@glasnt](https://twitter.com/glasnt/status/638618296992972800)
- > 
- > <img src="https://pbs.twimg.com/media/CNzT9DAUAAERaoe.jpg">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/devworld?src=hash">#devworld</a> was wow. Such app, very awesome. <a href="http://t.co/PYzRGPMgLp">pic.twitter.com/PYzRGPMgLp</a></p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/638618296992972800">September 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I'm not an Apple developer, but I was lucky enough to be able to attend the recent /dev/world conference. I also was able to go to the pre-conference drinks, where I was able to meet a few of the speakers and organisers. 
 
