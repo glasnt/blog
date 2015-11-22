@@ -3,27 +3,27 @@ layout: post
 title: So I accidentally ended up speaking at an Apple conference...
 ---
 
-... and it was pretty awesome. 
+... and it was pretty awesome.
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/devworld?src=hash">#devworld</a> was wow. Such app, very awesome. <a href="http://t.co/PYzRGPMgLp">pic.twitter.com/PYzRGPMgLp</a></p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/638618296992972800">September 1, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm not an Apple developer, but I was lucky enough to be able to attend the recent /dev/world conference. I also was able to go to the pre-conference drinks, where I was able to meet a few of the speakers and organisers. 
+I'm not an Apple developer, but I was lucky enough to be able to attend the recent /dev/world conference. I also was able to go to the pre-conference drinks, where I was able to meet a few of the speakers and organizers.
 
-It eventuated that the organisers found out that I did public speaking, and that they had an issue where a speaker was unable to attend at the last minute. A small amount of being 'voluntold' later, and I was put on the bill for the conference. 
+It eventuated that the organizers found out that I did public speaking, and that they had an issue where a speaker was unable to attend at the last minute. A small amount of being 'voluntold' later, and I was put on the bill for the conference.
 
-/dev/world is awesome. If you have anything to do with Apple, or iOS/OSX development, I highly suggest getting yourself to one of these events. The closest thing to owning an Apple product is having a now-defunct iPod Nano cc. 2007. But even I could enjoy and learn from the two days. 
+/dev/world is awesome. If you have anything to do with Apple, or iOS/OSX development, I highly suggest getting yourself to one of these events. The closest thing to owning an Apple product is having a now-defunct iPod Nano cc. 2007. But even I could enjoy and learn from the two days.
 
-But it's not just an Apple centric conference. Software development is language and operating system agnostic, and there are still many themes that cross the boundaries. 
+But it's not just an Apple centric conference. Software development is language and operating system agnostic, and there are still many themes that cross the boundaries.
 
-I'd actually first heard about /dev/world via seeing a promotional video for the 'world famous' /dev/world quiz. It was a very good way to socialise over dinner, and even though my team may have not done as well as others, it was a very enjoyable evening. Not only was the quiz and dinner lovely, Paul Fenwick gave a keynote, which is always a wonder to behold. 
+I'd actually first heard about /dev/world via seeing a promotional video for the 'world famous' /dev/world quiz. It was a very good way to socialise over dinner, and even though my team may have not done as well as others, it was a very enjoyable evening. Not only was the quiz and dinner lovely, Paul Fenwick gave a keynote, which is always a wonder to behold.
 
 The one main take away from this conference is that Keynote has an 'Anvil' transition, and it is highly overused. :p
 
 ### Talks of Note
 
-With so many talks across two streams, here are just some of my highlights, which I recommend you watch the videos for: 
+With so many talks across two streams, here are just some of my highlights, which I recommend you watch the videos for:
 
 ---
 
@@ -35,7 +35,7 @@ With so many talks across two streams, here are just some of my highlights, whic
 
 **Let's Make a Multiplayer Game in Forty Minutes - Jon Manning**
 
-Yes, Jon was able to make the game in a dash under 40 minutes. 
+Yes, Jon was able to make the game in a dash under 40 minutes.
 
 "Lag is the thing you hate the most when you create a multi-player game.. It's the thing you learn to really despise" - [@desplesda #devworld](https://twitter.com/glasnt/status/638161915831693312)
 
@@ -43,7 +43,7 @@ Yes, Jon was able to make the game in a dash under 40 minutes.
 
 **User Testing: Finding That One Thing Meatloaf Won't do for Love - Nic Wittson**
 
-Getting fresh, new users to test your code is as important as getting expert users to test, and cross-platform test, that regression issues don't appear in your codebase. 
+Getting fresh, new users to test your code is as important as getting expert users to test, and cross-platform test, that regression issues don't appear in your codebase.
 
 ---
 
@@ -64,7 +64,7 @@ Skeuomorphs!
 
 **Social Interaction Over Shared Devices: Designing Interactive Story Apps for Children - Betty Sargeant**
 
-Betty's talk was very good at explaining to the audience how the different users of our products have completely different requirements from what we expect. Her discussion about making interactive experience for children on mobile devices reinforces the fact that the choices we make as developers need to take into account our audience and their expectations. 
+Betty's talk was very good at explaining to the audience how the different users of our products have completely different requirements from what we expect. Her discussion about making interactive experience for children on mobile devices reinforces the fact that the choices we make as developers need to take into account our audience and their expectations.
 
 ---
 
@@ -74,9 +74,9 @@ I really like SVG and vector graphics, so PaintCode is right up my alley. James 
 
 ---
 
-**Jon Manning Round Two** 
+**Jon Manning Round Two**
 
-Jon did a repeat performance to fill in from another speaker who was ill, but his commentary on the gamification of social media and imersive gameplay was something to behold. 
+Jon did a repeat performance to fill in from another speaker who was ill, but his commentary on the gamification of social media and immersive gameplay was something to behold.
 
 ---
 
