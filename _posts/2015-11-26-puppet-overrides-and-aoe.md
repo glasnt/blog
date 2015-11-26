@@ -12,3 +12,5 @@ So, if you have ten instances of a command, you can override the defaults on all
 This also extends to other classes. For example, `Archive::Download { timeout => 300 }` will allow you to extend the default timeout for all calls to `archive::download`, even if they are wrapped within other classes. 
 
 The mnemonic to remember this is the rubyism for constants, e.g. `Class::Thing` vs `module::thing`. At least I'm pretty sure it is. There's still a lot of rubyisms in Puppet, even if they are changing the base language server side.
+
+Update: as an aside, errors in a giant `puppet apply` can be found by `grep (err) <filename>`. Also, `--detailed-exitcodes` might be a helpful flag depending how complex your setup is. 
