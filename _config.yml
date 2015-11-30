@@ -10,6 +10,8 @@ base_author: "Katie McLaughlin"
 github_username: glasnt
 twitter_username: glasnt
 
+google_analytics: "UA-18568982-1"
+
 rss_path: feed.xml
 categories_path: categories.html
 archive_path: archive.html
