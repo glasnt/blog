@@ -7,7 +7,6 @@ subtitle: Two talks, two important messages
 
 There were two standout talks from YOW! Sydney 2015.
 
-
 # Sometimes the Questions are Complicated, but the Answers are Simple -- Indu Alagarsamy
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Up now, <a href="https://twitter.com/Indu_alagarsamy">@Indu_alagarsamy</a> shares her simple solutions to the issue of diversity <a href="https://twitter.com/hashtag/yow15?src=hash">#yow15</a> <a href="https://t.co/kq4xtjlkzf">pic.twitter.com/kq4xtjlkzf</a></p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/675096899280613376">December 10, 2015</a></blockquote>
@@ -126,6 +125,8 @@ Back to the Content Security Policy, I asked Troy after his talk about his use o
 Troy explains there are trade-offs. Using a Content Delivery Network (CDN) for common libraries means that there's added speed benefits to the site: it might already be cached client side; it's one less thing your server doesn't have to serve out; etc.
 
 However, if you are concerned, you can use Sub Resource Integrity (SRI) to associate a file with an expected checksum. That way you can know that the file is what you expect to be served without serving it yourself.  
+
+---------
 
 [My entire tweet stream from #yow15](https://twitter.com/search?q=from%3Aglasnt%20%23yow15&src=typd)
 
