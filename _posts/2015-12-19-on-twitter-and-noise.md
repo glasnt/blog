@@ -55,7 +55,7 @@ Ideally, I'd like to see the following:
 
 Given Twitter's history of [killing third-party applications](http://www.metrotwit.com/2014/03/sunsetting-metrotwit-all-good-things-must-come-to-an-end/) which may have had more refined abilities to limit notifications and such, to not implement these on the native web and mobile platforms is extremely frustrating.
 
-
+*Description of the mobile functionality is based on the native Android application available at the time of this article*
 
 
 
