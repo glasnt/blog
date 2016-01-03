@@ -9,6 +9,8 @@ subtitle: "No, grandpa, double click!"
 > In all seriousness, teaching elderly family members the dangers of remote access tech support scams is important.
 > 
 > If you're going to install Team Viewer for remote help, make sure teach how to identify it's you and not someone else: phone call, sms, etc
+> 
+> - glasnt, via [twitter](https://twitter.com/glasnt/status/681651991408283648)
 
 Part of the Christmas holiday period for many tech-savvy people is the traditional tech-support event. You go to an aunt or uncles or grandparent's house, 
 you mention a word that sounds like a technology they've heard of (facebook, cable, printer), and then you are roped into giving free
