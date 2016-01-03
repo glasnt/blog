@@ -32,6 +32,7 @@ check the bank statements of the relative in question, and they didn't appear to
 fact the company was listed as being based in the UK, changed Australian GST and billed in USD. 
 
 I highly recommend that if you want to be a positive force in the technical adventures of your relatives, you initate an education plan something like the following: 
+
  * Show them how you're installing TeamViewer, and demonstrate how you can remote in with your machine and/or phone
   - Use a password!
   - Tip: if you get a licence for TeamViewer, you can have a name and profile picture popup, but iirc free licences do not have this feature
