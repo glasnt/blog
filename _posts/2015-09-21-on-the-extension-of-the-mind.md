@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the extension of the mind
-subtitle: Where does out cache end?
+subtitle: Where does our cache end?
 ---
 
 I write down a lot of things. A lot. I try not to go anywhere with a notepad and pen, because I never know when there's something I want to take a note of. Jotting something down in my phone doesn't have the same feel, but for instant information recording, my notepad is my best bet. 
