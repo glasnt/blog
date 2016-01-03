@@ -36,9 +36,12 @@ I highly recommend that if you want to be a positive force in the technical adve
  * Show them how you're installing TeamViewer, and demonstrate how you can remote in with your machine and/or phone
   - Use a password!
   - Tip: if you get a licence for TeamViewer, you can have a name and profile picture popup, but iirc free licences do not have this feature
+  
  * Work out a process to use if they require your help
   - Let them call you. Make sure you say when you are remoting in. Have them watch you remote in. 
+  
  * Make sure they know what a technical support scam is, and how they shouldn't let anyone they don't know or trust access their machine, either remotely or physically. 
+ 
  * Review the basics - remote tech support is hard, but doubly so if you ask them to power on their machine and only the monitor gets turned on.
  
 Once you have all this down, then you can start cleaning up their desktop and such what.
