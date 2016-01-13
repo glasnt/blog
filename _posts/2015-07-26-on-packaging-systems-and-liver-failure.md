@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On packagaing systems and liver failure
+title: On packaging systems and liver failure
 ---
 
  > Because re-factoring my demo code a week out from #pyconau is totally a good idea? :D (No, it really is, the old code was ~awful~) - [@glasnt](https://twitter.com/glasnt/status/624860896263667712)
