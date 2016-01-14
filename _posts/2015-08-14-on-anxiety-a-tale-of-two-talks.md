@@ -51,4 +51,10 @@ And for conference organsisers - I know conferences are hard to organise, but yo
 
 ----
 
+Update, August 2015: Through the support of a good friend of mine, I was able to present the black deck [at a local meetup](http://www.meetup.com/SydPHP/events/223175230/). It was good to be able to get it off my chest. A recording for this presentation will not be available. 
+
+----
+
 I strongly suggest checking out [BlueHackers](http://bluehackers.org/) and [> Prompt](http://mhprompt.org/) for resources and advice on mental health specifically within the tech industry. If you need to talk to someone, [LifeLine](https://www.lifeline.org.au/) is always there to help, but if life is in danger, call emergency services.
+
+
