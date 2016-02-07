@@ -67,15 +67,15 @@ All I'm going to do is take the `silly_description_checksum` function, and add a
 
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/02b070aa8d30acc53d44e4495d56dcc5f7d4cc11)
 
-```
-  basil ~/git/blog/assets [gh-pages] basil /tmp $ lanyard.py 
-  Traceback (most recent call last):
-    File "lanyard.py", line 44, in <module>
-      silly_desc_parse = silly_description_checksum(silly_desc)
-    File "lanyard.py", line 38, in silly_description_checksum
-      salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
-    File "<string>", line 1, in <module>
-  NameError: name 'os' is not defined
+```bash
+basil ~/git/blog/assets [gh-pages] basil /tmp $ lanyard.py 
+Traceback (most recent call last):
+  File "lanyard.py", line 44, in <module>
+    silly_desc_parse = silly_description_checksum(silly_desc)
+  File "lanyard.py", line 38, in silly_description_checksum
+    salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
+  File "<string>", line 1, in <module>
+NameError: name 'os' is not defined
 ```
 
 #### Attempt two
@@ -85,7 +85,7 @@ Well, let's add that import
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/73f2d9e5362e0cb43f38a2999ca0e34d01ff2537)
 
 
-```
+```bash
 basil /tmp $ lanyard.py 
 Traceback (most recent call last):
 File "lanyard.py", line 45, in <module>
@@ -186,15 +186,15 @@ I know that the registration software is running on linux.conf.au, so let's try 
 
 ```
 basil /tmp $ host linux.conf.au
-linux.conf.au has address 192.55.98.190                                                                                                
-linux.conf.au mail is handled by 1 linux.org.au.                                                                                       
+linux.conf.au has address 192.55.98.190
+linux.conf.au mail is handled by 1 linux.org.au.
 ```
 
 Mmmm, I have an IP address. I wonder if that resolves to anything else?
 
 ```
 basil /tmp $ host 192.55.98.190
-190.98.55.192.in-addr.arpa domain name pointer zookeepr1.linux.org.au.                                                                 
+190.98.55.192.in-addr.arpa domain name pointer zookeepr1.linux.org.au.
 ```
 
 
