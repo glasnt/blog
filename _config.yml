@@ -1,7 +1,6 @@
 paginate: 5 
 paginate_path: "page_:num"
 exclude: ["Rakefile", "new_post", "development_mode"] 
-highlighter: pygments
 permalink: "/:categories/:year/:month/:day/:title.html"
 
 header-img: "img/header_image.jpg"
