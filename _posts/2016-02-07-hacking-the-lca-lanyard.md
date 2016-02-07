@@ -57,7 +57,54 @@ Oh, hello there. Zookeepr is it? Let's dive into your code, and see what we can 
 
 Oh. Oh my. 
 
-Looking about, it looks like [this bit of code](https://github.com/zookeepr/zookeepr/blob/3040eec8df44e6b4aba5d3312c8d1bcb6bb34fbb/zkpylons/lib/helpers.py#L293) generates the silly description checksum. But how do we work out what exactly this bit of code is doing?
+Looking about, it looks like [this bit of code](https://github.com/zookeepr/zookeepr/blob/3040eec8df44e6b4aba5d3312c8d1bcb6bb34fbb/zkpylons/lib/helpers.py#L293) generates the silly description checksum.
+
+```python
+
+
+def silly_description_checksum(desc):
+    import hashlib, math
+    haiku = "Come to Ballarat"\
+          "LCA Under the stars"\
+          "Comets is landing..."
+
+    #This is meant to be difficult to read, no telling me its indistinguishable from my normal code - Josh
+    def fun(cion):
+        e = 0.0
+        a = 4.1963944517268459E+00
+        b = -5.5753297516829114E+00
+        c = 2.7916995626938470E+00
+        d = -6.5696680861318413E-01
+        f = 7.2840990594877031E-02
+        g = -3.0390408978587477E-03
+
+        e = g
+        e = e * cion + f
+        e = e * cion + d
+        e = e * cion + c
+        e = e * cion + b
+        e = e * cion + a
+        e = 1.0 / e
+        return e
+
+    false = ""
+    true = False
+    for ny in range(1,9):
+        if (ny == 5) or (ny == 8):
+            false=false+(haiku[int(math.floor(fun(ny)+1))],haiku[int(math.ceil(fun(ny)+1))])[true]
+        else:
+            false=false+(haiku[int(math.floor(fun(ny)))],haiku[int(math.ceil(fun(ny)))])[true]
+        true = not true
+    false=false.lower()+"("+")"
+
+    # Some assistance provided here. All we're doing is taking the silly input string and hashing it with some mysterious salt. Mmmmmm salt
+    salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
+    return  hashlib.sha1(salted.encode('latin1')).hexdigest()
+
+```
+
+
+But how do we work out what exactly this bit of code is doing?
 
 We can reduce this function down into stand alone Python code to try and simplify it.
 
@@ -202,7 +249,7 @@ A ha! `zookeepr1.linux.org.au`.
 
 This looks like a webserver, one of possibly more than one, in a system under a main domain. 
 
-Given this naming scheme, I'm going to guess that the server itself is called `zookeepr`.
+Given this naming scheme, I'm going to guess that the server itself is called `zookeepr1`.
 
 So let's change the last bit of the code [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/d389869ff21c28807b1a6dba1c07913b63bb0378): 
 
@@ -248,7 +295,7 @@ By using the Inspect tool as before, you can change the elements on the page by 
 
 So I can change the old code into this:
 
-<img src="http://i.imgur.com/tpfTYUV">
+<img src="http://i.imgur.com/tpfTYUV.png">
 
  
 So then, if I POST the form, I get my result.
@@ -275,3 +322,6 @@ Bare in mind that this is a software hack. There's always the option of hacking 
 ----
 
 Thank you to [Trent](https://twitter.com/lathiat) for some initial pointers in my investigation, and [Paul](https://twitter.com/pjf) and [Brenda](https://twitter.com/br3nda) for their customisations to my lanyard. 
+
+
+[Full revision history of hacking the code](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/revisions)
