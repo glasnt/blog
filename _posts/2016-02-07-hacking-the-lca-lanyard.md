@@ -67,8 +67,7 @@ All I'm going to do is take the `silly_description_checksum` function, and add a
 
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/02b070aa8d30acc53d44e4495d56dcc5f7d4cc11)
 
-{% highlight bash %}
-
+```
   basil ~/git/blog/assets [gh-pages] basil /tmp $ lanyard.py 
   Traceback (most recent call last):
     File "lanyard.py", line 44, in <module>
@@ -77,8 +76,7 @@ All I'm going to do is take the `silly_description_checksum` function, and add a
       salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
     File "<string>", line 1, in <module>
   NameError: name 'os' is not defined
-
-{% endhighlight %}
+```
 
 #### Attempt two
 
@@ -87,15 +85,15 @@ Well, let's add that import
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/73f2d9e5362e0cb43f38a2999ca0e34d01ff2537)
 
 
-{% highlight bash %}
+```
 basil /tmp $ lanyard.py 
 Traceback (most recent call last):
-  File "lanyard.py", line 45, in <module>
-    silly_desc_parse = silly_description_checksum(silly_desc)
-  File "lanyard.py", line 39, in silly_description_checksum
-    salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
+File "lanyard.py", line 45, in <module>
+  silly_desc_parse = silly_description_checksum(silly_desc)
+File "lanyard.py", line 39, in silly_description_checksum
+  salted = desc + haiku+eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)).encode(rot_26)
 NameError: global name 'rot_26' is not defined
-{% endhighlight %}
+```
 
 What's this `rot_26`? Let's search this sucker...
 
@@ -109,11 +107,11 @@ So let's add the alias and see how that works.
 
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/f29f4de64c31142eb074a8b3ca081e422bb0c21d)
 
-{% highlight bash %}
+```
 basil /tmp $ lanyard.py 
 Unsolved.
 4c707619c4fc836a558eb661e43cf662a7e88600 doesn't match ffb8b60a1e43f2fd0f2953b0f7430964727e134e
-{% endhighlight %}
+```
 
 At least we're compiling now!
 
@@ -121,9 +119,9 @@ At least we're compiling now!
 
 Some things I know about programming: 
 
- * You're not supposed to run code you don't trust
- * Things with `eval` in them are possibly trying to hide things from you
- * Python uses `True` and `False`, not `true` and `false` like Ruby. 
+* You're not supposed to run code you don't trust
+* Things with `eval` in them are possibly trying to hide things from you
+* Python uses `True` and `False`, not `true` and `false` like Ruby. 
 
 So when I see `eval(false+chr(0x5B)+chr(0x31)+chr(0x5D))`, I start to thing something silly is going on
 
@@ -132,34 +130,33 @@ So when I see `eval(false+chr(0x5B)+chr(0x31)+chr(0x5D))`, I start to thing some
 So, what just is this string supposed to be?
 
 
-{% highlight bash %}
-    print(eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)))
-{% endhighlight %}
+```
+  print(eval(false+chr(0x5B)+chr(0x31)+chr(0x5D)))
+```
 
 
-{% highlight bash %}
+```
 basil /tmp $ lanyard.py
 basil
 basil /tmp $
-{% endhighlight %}
+```
 
 `basil`? But.. I'm basil...
 
-{% highlight bash %}
-    print(false+chr(0x5B)+chr(0x31)+chr(0x5D)
-{% endhighlight %}
+```
+  print(false+chr(0x5B)+chr(0x31)+chr(0x5D)
+```
 
-{% highlight bash %}
-
+```
 basil /tmp $ python lanyard.py                                                                                 
 os.uname()[1]
-{% endhighlight %}
+```
 
 Oh, you cheeky thing! It's trying to get my `os.uname` from the system!
 
 If I run this code locally, I get something that looks like this 
 
-{% highlight bash %}
+```
 basil /tmp $ python
 Python 2.7.6 (default, Jun 22 2015, 17:58:13) 
 [GCC 4.8.2] on linux2
@@ -168,14 +165,14 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> os.uname()
 ('Linux', 'basil', '3.13.0-76-generic', '#120-Ubuntu SMP Mon Jan 18 15:59:10 UTC 2016', 'x86_64')
 >>> 
-{% endhighlight %}
+```
 
 But, it's adding `[1]` to the end, which is pointing to the array index 1: 
 
-{% highlight python %}
+```
 >>> os.uname()[1]
 'basil'
-{% endhighlight %}
+```
 
 So, this will return `basil` on my machine, because my machine is called basil. But this code isn't running on my machine when it's generating the sillystring, it's running on a web server. 
 
@@ -187,18 +184,18 @@ So how do I get the webserver's name?
 
 I know that the registration software is running on linux.conf.au, so let's try and work out what server that is: 
 
-{% highlight bash %}
+```
 basil /tmp $ host linux.conf.au
 linux.conf.au has address 192.55.98.190                                                                                                
 linux.conf.au mail is handled by 1 linux.org.au.                                                                                       
-{% endhighlight %}
+```
 
 Mmmm, I have an IP address. I wonder if that resolves to anything else?
 
-{% highlight bash %}
+```
 basil /tmp $ host 192.55.98.190
 190.98.55.192.in-addr.arpa domain name pointer zookeepr1.linux.org.au.                                                                 
-{% endhighlight %}
+```
 
 
 A ha! `zookeepr1.linux.org.au`. 
@@ -209,7 +206,7 @@ Given this naming scheme, I'm going to guess that the server itself is called `z
 
 So let's change the last bit of the code [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/d389869ff21c28807b1a6dba1c07913b63bb0378): 
 
-{% highlight python %}
+```
 ...
 
     server = "zookeepr1"
@@ -218,12 +215,12 @@ So let's change the last bit of the code [(link to code)](https://gist.github.co
     return  hashlib.sha1(salted.encode('latin1')).hexdigest()
 
 ...
-{% endhighlight %}
+```
 
-{% highlight bash %}
+```
 basil /tmp $ python lanyard.py 
 Solved!
-{% endhighlight %}
+```
 
 Gotcha!
 
@@ -233,11 +230,11 @@ So, if I want to generate my own, I should just be able to input whatever I want
 
 [(link to code)](https://gist.github.com/glasnt/8fa0d305f5af15d8a87f/57d1ba239488c919462280f9b276e9f76bcb44cf)
 
-{% highlight bash %}
+```
 basil /tmp $ python lanyard.py 
 ONE COMPLETELY VALID QUESTION
 83e9839da2f94a0d0f6e11cf7bb0cd5f506b3923
-{% endhighlight %}
+```
 
 So, now what do I do?
 
