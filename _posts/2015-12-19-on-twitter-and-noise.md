@@ -4,7 +4,7 @@ title: On Twitter and Noise
 subtitle: OMG my phone is exploding, send help
 ---
 
-Yesterday I posted a screenshot of a [dinky app](www.starwars.com/games-apps/star-wars-crawl-creator) on [Twitter](https://twitter.com/glasnt/status/677632129224822784). It was a little bit popular. 
+Yesterday I posted a screenshot of a [dinky app](http://www.starwars.com/games-apps/star-wars-crawl-creator) on [Twitter](https://twitter.com/glasnt/status/677632129224822784). It was a little bit popular. 
 
 ![Star Work Force](https://pbs.twimg.com/media/CWdu1IbWUAEmpM5.png)
 
