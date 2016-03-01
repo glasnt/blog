@@ -6,14 +6,17 @@ permalink: "/:categories/:year/:month/:day/:title.html"
 header-img: "img/header_image.jpg"
 title: "musings"
 base_author: "Katie McLaughlin"
-github_username: glasnt
-twitter_username: glasnt
+github_username: "glasnt"
+twitter_username: "glasnt"
+
+future: true
+timezone: "Australia/Sydney"
 
 google_analytics: "UA-18568982-1"
 
-rss_path: feed.xml
-categories_path: categories.html
-archive_path: archive.html
+rss_path: "feed.xml"
+categories_path: "categories.html"
+archive_path: "archive.html"
 
 BASE_PATH: "/blog"
 baseurl: "/blog"
