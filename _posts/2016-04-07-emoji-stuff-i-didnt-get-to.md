@@ -26,6 +26,8 @@ The fact that a lot of the private space mappings didn't match across networks m
 
 If you were at DjangoCon Europe, you may have seen the talk abstracts in the programme
 
+![programme](http://i.imgur.com/ENUrHQl.png)
+
 These were printed on a Windows machine, probably Windows 8.1. How do I know? Because of the emoji used. The 'responsibility' emoji looks like he's got a case of warts, which is a tell-tale sign of a Microsoft emoji. 
 
 Also, you'll notice in the middle of the abstract, a blank box at the end of one line. This is supposed to be 'Thinking Face', an emoji standardised in Unicode 7.0, and not available on a lot of platforms, even if they support emoji via Unicode 6.0. 
