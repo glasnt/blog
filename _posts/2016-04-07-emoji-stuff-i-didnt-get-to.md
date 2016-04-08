@@ -43,7 +43,7 @@ In addition, the coloured signs in the hallways didn't even include the emoji at
 Twitter gets a lot of things right on the web in terms of emoji implementation: 
  
  * they have their own set of emoji - twemoji
- * they are available on github
+ * they are available on [GitHub](https://github.com/twitter/twemoji)
  * they are used as a replacement for any emoji on the web
  * for direct messages that are only emoji (to a limit of 10), they will display in a larger size
  * the alt-text for the emoji are the unicode characters, which means they can be copy-pasted exactly
