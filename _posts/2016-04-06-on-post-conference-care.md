@@ -17,7 +17,7 @@ What I'm going through now is 'post conf blues' -- it's a thing that a few of my
 
 This morning I didn't want to get out of bed. I have a job where I can work-from-home occasionally if required, so I could sleep in to get over jetlag. But I didn't want to face that. For the last week I've been getting up at a reasonable time, going to an increasily familiar venue in a strange city, sitting and listening to amazing people talk about things they are passionate in, getting meals and snacks provided for me, and being able to find someone to hangout out with without much more effort than asking 'what are your plans for tonight?'
 
-At home, I have a job, I have a mortgage, I have responsibilities, I have to go out and find food for myself, and I have to put in a lot of effort. Sure, I mean as a speaker I put quite a lot of effort on top of my regular routine working on my next conference talk, but I have the ability to work on that when I feel I can. Everything else takes spoons. 
+At home, I have a job, I have a mortgage, I have responsibilities, I have to go out and find food for myself, and I have to put in a lot of effort. Sure, I mean as a speaker I put quite a lot of effort on top of my regular routine working on my next conference talk, but I have the ability to work on that when I feel I can. Everything else takes [spoons](https://en.wikipedia.org/wiki/Spoon_theory). 
 
 And after a conference, that sudden shift in dynamic is hard. Really hard. 
 
