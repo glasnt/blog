@@ -33,12 +33,14 @@ I was originally told that there was a theme of emoji at DjangoCon, and after me
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140681500@N07/25548352173/in/album-72157666534110876/" title="Day 2 at DjangoCon Europe 2016"><img src="https://farm2.staticflickr.com/1449/25548352173_98f196c25a_z.jpg" width="640" height="427" alt="Day 2 at DjangoCon Europe 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140681500@N07/25783265643/in/album-72157666534110876/" title="Day 2 at DjangoCon Europe 2016"><img src="https://farm2.staticflickr.com/1572/25783265643_839c0f5448_z.jpg" width="640" height="426" alt="Day 2 at DjangoCon Europe 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-My ["token emoji"](https://glasnt.com/talks/2016_03_DjangoConEU) talk was extremely well received, by all accounts, and it was a pleasure to give. 
+My ["token emoji talk"](https://djangocon.eu/speakers/11) was extremely well received, by all accounts, and it was a pleasure to give. 
 
 According to some, one of the examples in my talk has been turned into a meme added to the enclave of themes of Django, among the great memes such as stroopwafel (which are absolutely tasty!)
  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/djangocon?src=hash">#djangocon</a> <a href="https://t.co/nhMavRz0bj">pic.twitter.com/nhMavRz0bj</a></p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/715900621082132481">April 1, 2016</a></blockquote>
+
 
 
 And as always, the lightning talks at Django/Python conferences can come up with absolute gems... 
@@ -56,8 +58,11 @@ Georgina and Sheryll were wonderful, trying to keep up with the fast speakers, a
 ----
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/140681500@N07/25878124840/in/album-72157666534110876/" title="Day 2 at DjangoCon Europe 2016"><img src="https://farm2.staticflickr.com/1665/25878124840_fa7b0067a5_z.jpg" width="640" height="427" alt="Day 2 at DjangoCon Europe 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-DjangoCon Europe was outstanding. I have eternal gratitude to the organisers, volunteers, attendees and new friends; as especially to the Django Software Foundation, who's financial aid helped me get all the way over to the other side of the world for an unforgettable week.
+DjangoCon Europe was outstanding. I have eternal gratitude to the organisers, volunteers, attendees and new friends; as especially to the Django Software Foundation, which granted me financial aid that helped me get all the way over to the other side of the world for an unforgettable week.
+
 
 -----
 
 You can see my entire tweetstream from DjangoCon Europe [here](https://twitter.com/search?q=from%3Aglasnt+%23djangocon)
+
+The *incredible* photos from the event can be found [on Flickr](https://www.flickr.com/photos/140681500@N07/albums/with/72157666534110876)
