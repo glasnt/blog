@@ -27,6 +27,8 @@ But of course, this power does have limitations. Especially searching for parame
 
 
 
-[1] https://twitter.com/freakboy3742/status/715918646674067456
+[1] ["You're not old, you're just in production](https://twitter.com/freakboy3742/status/715918646674067456)
+
 [2] Because using 'biennial' here would be confusing.
-[3] https://twitter.com/pjf/status/725609532991238144
+
+[3] [I fixed a thing](https://twitter.com/pjf/status/725609532991238144)
