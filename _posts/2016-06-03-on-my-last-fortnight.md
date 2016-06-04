@@ -6,6 +6,7 @@ title: On my last fortnight
 I've had an incredible trip the last fortnight. Before I write up a technical overview of the conferences I went to, I thought I'd do a light recollection post. 
 
 In the last two weeks I've: 
+
  - Been a contestant on jeophpardy
  - Attended a conference which is literally centered around eating hotdogs
  - Heard about how to you can tell if a pair of Levis are original or colour washed
