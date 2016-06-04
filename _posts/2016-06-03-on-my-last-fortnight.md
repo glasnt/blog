@@ -22,10 +22,12 @@ In the last two weeks I've:
  - Met dozens of incredible people
  - Acquired so many stickers
  - Got to see many old friends from far away lands
+ - Been serenaded by one of my best friends
  - Given 2.5 hours worth of talks
  - Staffed an open source project booth for I've-lost-my-voice hours
- - Chaired a session of a conference
+ - Chaired a session of a conference, which included using a cool secret-service earpiece
  - Helped dozens of people get their first contributions to open source
+ - Been serenaded &lt;3
  - Eaten a microwaved burger on a train that topped a 'fresh' made one
  - Earned far too many Untappd badges
  - Learnt so many things
