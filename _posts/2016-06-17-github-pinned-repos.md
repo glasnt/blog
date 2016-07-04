@@ -14,7 +14,7 @@ But now, you no longer have to rely on The Algorithms choosing what repos you di
 
 You used to have two lists. One of your 'popular' repos, by star count, and the other based on repos you'd contributed code to in some order based on recent contributions and the popularity of the repo you contributed to. 
 
-Now, you're presented with a list to choose from. These include any repo you've committed code to, and also repos you've logged issues to. 
+Now, you're presented with [a list to choose from](https://github.com/blog/2191-pin-repositories-to-your-github-profile). These include any repo you've committed code to, and also repos you've logged issues to. 
 
 This means you can now, finally, customise your profile properly. 
 

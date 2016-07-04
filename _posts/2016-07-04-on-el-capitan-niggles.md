@@ -18,7 +18,7 @@ The [solution as describe when El Cap was in beta](http://apple.stackexchange.co
 
 ## Application Setting Resets
 
-I use iTerm 2, recently updated to iTerm 3. Since the upgrade, I've had to re-set a bunch of custom configurations, including removing scrollbars. I'm not sure if that's El Cap or iTerm itself, but I'm fairly sure the scrollbars only reappeared after the OS upgarde. 
+I use iTerm 2, recently updated to 3.0. Since the upgrade, I've had to re-set a bunch of custom configurations, including removing scrollbars. I'm not sure if that's El Cap or iTerm itself, but I'm fairly sure the scrollbars only reappeared after the OS upgarde. 
 
 ## Application Defaults
 
