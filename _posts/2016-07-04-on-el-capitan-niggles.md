@@ -3,6 +3,8 @@ layout: post
 title: On El Capitan Niggles
 ---
 
+*note: I currently use OSX on my work machine, and because buildchains, I'm a few months late in upgrading. So I didn't have to live through the apparent patching and repatching of El Cap. But as a late adopter, this should have "just worked", right?*
+
 You'd think that upgrading from one operating system, Yosemite, on a dedicated hardware platform to the new operating system, El Capitan, would be a completely seamless experience. But it's not. It's not as bad as [some upgrades](2014-09-20-installing-ubuntu-14-04-on-uefi-hardware.html), but it's not niggle-free. 
 
 
@@ -37,3 +39,11 @@ I use iTerm for it's gridding ability. I've used the maximise setting for browse
 But now, you can have split-screen view, where you can have not one, but TWO apps maximised on the screen. 
 
 I am looking forward to a full grid system that I don't have to pay to install. 
+
+# Oh god I just noticed the change in system default font
+
+It used to be Helvetica Neue, but now it's a font called San Fransico, which is [not available for general use](http://apple.stackexchange.com/a/208854), but is [changeable](http://osxdaily.com/2015/10/15/change-default-system-font-mac-os-x-el-capitan-lucida-grande/) if you want to revert to the old-old system default font. 
+
+I tried changing the font, and I ended up not liking Lucida Grande, so I reverted the changes, only to have a wonderful lockscreen that had **no** working font. The entire thing was replacement characters. That scared the bejesus out of me.
+
+I really don't want to have to relocate to this San Francisco font. But I'll guess I'll live with it. Sierra is just around the corner, so I might as well not futz around with things too much before then? 
