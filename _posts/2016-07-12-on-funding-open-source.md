@@ -3,9 +3,9 @@ layout: post
 title: On Funding Open Source
 ---
 
-Just because you can use something for free doesn't mean you can't help make it better. Your time is valuable, but a lot of open source projects could really use your financial backing as well. Countless hours goes into sustaining these services behind the scenes, often at the financial expense. 
+Just because you can use something for free doesn't mean you can't help make it better. Your time is valuable, but a lot of open source projects could really use your financial backing as well. Countless hours goes into sustaining these services behind the scenes, often at the financial expense. Sustained financial support can turn a hobby project into a job for a maintainer, or a community into a company that can in turn support other projects. 
 
-If your product is based on a CMS like Django, have you considered making a donation to the [Django Software Foundation](https://www.djangoproject.com/fundraising/)?
+If your product is based on a web framework like Django, have you considered making a donation to the [Django Software Foundation](https://www.djangoproject.com/fundraising/)?
 
 If your company does a lot of work in a particular language or platform, have you considered sponsoring your local regional conference for that languages, such as [linux.conf.au](https://linux.conf.au/sponsors/)? Many sponsorship packages have perks that include one or more tickets to the conference itself, so you can give financial assistance to the event plus send some of your employees for some training/networking/learning time.
 
