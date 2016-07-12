@@ -13,8 +13,8 @@ If you have documentation for your product that's hosted on ReadTheDocs.org, hav
 
 As an individual, you can always help out too. One time donations are useful, but subscriptions help projects plan for the future. Many events also have higher-level tickets, like the [PyCon AU Contributor ✨ ticket](https://2016.pycon-au.org/sponsors/contributor) which help support the conference, and help other people attend. 
 
-And don't forget the advocacy. Initiatives like like [CallBackWomen](http://www.callbackwomen.com/donate.html) are invaluable for finding out about talks and conferences that should be on your radar. 
+And don't forget the advocacy. Initiatives like [CallBackWomen](http://www.callbackwomen.com/donate.html) are invaluable for finding out about talks and conferences that should be on your radar. 
 
 If you can, please think about supporting something in Open Source that helps make your live easier.  
 
-*Disclaimer: I support -- either with my time and or financially -- every initiative, event, and organisation linked to on this page.*
+*Disclaimer: I support -- either with my time and/or financially -- every initiative, event, and organisation linked to on this page.*
