@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On funding open source
+title: On Funding Open Source
 ---
 
 Just because you can use something for free doesn't mean you can't help make it better. Your time is valuable, but a lot of open source projects could really use your financial backing as well. Countless hours goes into sustaining these services behind the scenes, often at the financial expense. 
