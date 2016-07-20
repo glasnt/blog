@@ -67,7 +67,7 @@ This is fine, but then you get issues when calling `@app.get`, since that doesn'
 ```diff
 -@app.get('/page')
 -def page():
-+@app.route('/page', method=["GET"])
++@app.route('/page', methods=["GET"])
 +def page(request):
 ```
 Note the inclusion of `request`; the `route` isn't a void method in Klein, but you don't have to do anything with `request`, so it's just 'syntaxic sugar` in a conversion.
