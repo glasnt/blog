@@ -50,6 +50,8 @@ At this point, the string is raw Unicode. The emoji character uses the operating
 
 As far as I'm aware, this is entirely **client-side JavaScript**, but is not available as open-sourced code.
 
+**A note on autocorrect**: autocorrecting of shortcodes, and emoticons (`:)`, `o_O`) can lead to issues. The interpretation of emoticons may not be universal, for example, `:$` may mean 'embarrased' to some, but 'money mouth' to others. Also, `:100:` is the shortcode for 💯, but is also used a lot in IPv6 addresses. Allow for disabling of autocorrecting, and store the raw text serverside as not to lose meaning. 
+
 ## Solve for Emoji: Output
 
 Output is harder.
@@ -107,7 +109,7 @@ I've seen no client-side solution that includes the title texts. This is probabl
 
 It should be relatively easy to implement such a solution for whichever web platform used, given all the Unicode data is public, and Twemoji and EmojiOne are sufficiently licensed to allow for use in such implementations.
 
-A proof of concept for such an implementation is available for Python at [github.com/glasnt/emojificate](https://github.com/glasnt/emojificate). Technical details relating to the implementation are provided in the README.
+A proof of concept for such an implementation is available for Python in the [emojificate](https://github.com/glasnt/emojificate) package. Technical details relating to the implementation are provided in the README.
 
 
 ## Final Summation
@@ -117,3 +119,5 @@ With an ever-changing Unicode standard, having a solution that works on a platfo
 -----
 
 [0] If this means people stop using known-broken versions of Android, et al, by promoting that you'll get new emoji with your security updates, then I'm all for it.
+
+Update 2018-08-08: added "A note on autocorrect"
