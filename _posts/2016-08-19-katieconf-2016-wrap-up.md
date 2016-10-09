@@ -29,12 +29,18 @@ There are far too many conferences that have issues with under-representation. K
 
 Python and Django conferences get this right. PyCon AU 2016 had ~20-25% female speakers. PyCon US 2016 and DjangoCon US 2016 both had around 40%. And DjangoCon Europe 2016 boasted 52% female speakers. This is wonderful. I wish more communities did this.
 
-KatieConf has also had a real world effect. There have been mutterings of an AnaConf or a SarahConf, but there is a [JessConf](https://jessconf.org) already being organised. Run by Jess Frazelle, it's to be held on [Jessie Island](https://en.wikipedia.org/wiki/Jessie_Island) off the coast of Queensland on Nover 31st 2016 (*30 days has September*...)
+KatieConf has also had a real world effect. There have been mutterings of an AnaConf or a SarahConf, but there is a [JessConf](https://jessconf.org) already being organised. Run by Jess Frazelle, it's to be held on [Jessie Island](https://en.wikipedia.org/wiki/Jessie_Island) off the coast of Queensland on November 31st 2016 (*30 days has September*...)
 
 What is not a joke is what PyCon UK have done with the idea. They have a [£500 Scholarship](http://2016.pyconuk.org/news/20160630-katieconf) from the Django Society UK, which does towards helping fund KatieConf speakers or attendees to attend PyCon UK. This is fantastic!
 
 So, KatieConf 2017.
 
+**[Update, see footer]**
+
 I can now announce that Katie Conf has been submitted as a potential miniconf for [linux.conf.au 2017](https://linux.conf.au). If successful, this will mean that KatieConf 2017 will be run in mid January 2017 in Hobart as a part of Linux Conference Australia. This will be co-organised with [Jacinta Catherine Richardson](https://twitter.com/jarichaust) and [Lana Catherine Brindley](https://twitter.com/Loquacities), both well respected members of the Australian open source community in their own right.
 
 You can follow [KatieConf on twitter](https://twitter.com/katieconf) or checkout the [KatieConf website](https://katieconf.xyz) for updates. Also, [@CallbackWomen](https://twitter.com/callbackwomen) is a wonderful resource for promoting conferences that encourage diverse speaker speaker lineups, and that promotes female speakers.
+
+-----
+
+**Update:** KatieConf was accepted as a miniconf for linux.conf.au 2017 as [WOOTConf](https://linux.conf.au/schedule/presentation/7/). No longer limited by name, it's a one-day single track event that will actually properly really be happening January 16, 2017, in Hobart, Tasmania. More information on the [website](https://2017.katieconf.xyz/)
