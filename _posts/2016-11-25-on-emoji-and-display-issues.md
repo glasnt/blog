@@ -62,7 +62,7 @@ In the printed copy of the program guide, it was just spaces.
 
 Although, the AV team got a wonderful version. 
 
-And the MC for my talk got *another* version, which meant she introduced my talk as "The Power, lightning bolt, and responsibility, square, of unicode adoption, square". &ltg;
+And the MC for my talk got *another* version, which meant she introduced my talk as "The Power, lightning bolt, and responsibility, square, of unicode adoption, square". &lt;3
 
 
 
