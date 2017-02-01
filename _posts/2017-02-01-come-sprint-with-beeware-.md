@@ -37,6 +37,8 @@ Does this sound like something you'd be interested in?
 
 Please, [email us!](mailto:contact@pybee.org)
 
+Tell us about yourself! Who you are, what you do, why you want to go to PyCon and what makes you interested in Python. 
+
 We need to allocate our tickets early, so please email us **by February 12, 2017**
 
 If you have any questions, just ask [myself](https://twitter.com/glasnt) or [Russell](https://twitter.com/freakboy3742)!
