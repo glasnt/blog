@@ -3,6 +3,9 @@ layout: post
 title: Come Sprint with BeeWare!
 ---
 
+**The tickets for PyCon US 2017 have been given away. We look forward to seeing everyone who can make it to the conference at Booth 103!**
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want to to go <a href="https://twitter.com/pycon">@PyCon</a>, can’t afford it? <a href="https://twitter.com/PyBeeWare">@PyBeeWare</a> has 2 tickets to give away. Email contact@pybee.org and tell us why you want to bee there!</p>&mdash; PyBee (@PyBeeWare) <a href="https://twitter.com/PyBeeWare/status/826023330398351361">January 30, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
