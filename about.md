@@ -52,6 +52,12 @@ Writer](http://xkcd.com/simplewriter/))
 
 ------------------------------------------------------------------------
 
+## Speaking
+
+See [glasnt.com/talks](http://glasnt.com/talks)
+
+------------------------------------------------------------------------
+
 ## Volunteer Work
 
 linux.conf.au
@@ -59,6 +65,7 @@ linux.conf.au
  - 2017
    - WOOTCONF Miniconf organiser
    - Session Chair
+   - Paper's Committee
  - 2016
    - Functional Programming miniconf organiser
 
@@ -76,16 +83,18 @@ PyCon AU
    -   Financial Aid Committee
    -   Diversity Staff
 
+PyCon US
+
+ - 2017
+   - Session Chair
+   - PyLadies Auction - Guest Auctioneer
+ - 2016
+   - Session Chair
+
 DjangoCon AU
  
  - 2017 
    - Organiser
-
-DevOpsDays Sydney
-
-  - 2016
-    - Organiser
-    - Master of Ceromonies
 
 DjangoCon US
 
@@ -102,7 +111,16 @@ KiwiPyCon
  - 2015
    - Track Runner, Heckler Supresser
 
-OSCON 2017, Room Host
+DevOpsDays Sydney
+
+  - 2016
+    - Organiser
+    - Master of Ceremonies
+
+OSCON
+
+ - 2017
+   - Room Host
 
 
 OSDC
