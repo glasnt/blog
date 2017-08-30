@@ -62,6 +62,9 @@ See [glasnt.com/talks](http://glasnt.com/talks)
 
 linux.conf.au
 
+ - 2018
+   - Paper's Committee
+   - Community Liason
  - 2017
    - WOOTCONF Miniconf organiser
    - Session Chair
@@ -76,12 +79,13 @@ PyCon AU
    - Specialist Track Co-ordinator (DjangoCon AU)
  - 2016
    - Paper's Committee
-   -   Financial Aid Committee
-   -   Code of Conduct Committee
+   - Financial Aid Committee
+   - Code of Conduct Committee
+   - Session Chair
 
  - 2015
-   -   Financial Aid Committee
-   -   Diversity Staff
+   - Financial Aid Committee
+   - Diversity Staff
 
 PyCon US
 
@@ -101,6 +105,7 @@ DjangoCon US
  - 2017 
    - Mentor
    - Paper Review Group
+   - Session Chair
  - 2016
    - Paper Review Grouo
 
