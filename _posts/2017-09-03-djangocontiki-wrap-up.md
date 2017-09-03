@@ -22,7 +22,7 @@ All these wonderful people went to both conferences, and it was amazing to spend
 
 Some highlights of the combination DjangoCon (and, you know, a PyCon AU in the middle of it):
 
- * Running a DjangoCon[0]
+ * Running a DjangoCon<sup>[0](#footnote_0)</sup>
  * Auctioning off a bright pink hoodie
  * Keynoting PyCon AU ([there's a video!](https://www.youtube.com/watch?v=prFaJugC95Y))
  * Running not one, but two BeeWare sprints
@@ -33,7 +33,7 @@ Some highlights of the combination DjangoCon (and, you know, a PyCon AU in the m
  * Giving my emoji talk at DjangoCon US, meaning I've presented it at all three DjangoCons 
  * Going to Olive Garden (... what?)
  * FINALLY getting to see Tracy Osborn speak live
- * FINALLY getting to see Josh Simmons speak live [1]
+ * FINALLY getting to see Josh Simmons speak live<sup>[1](#footnote_1)</sup>
  * Oh, and I'm [running a conference](https://youtu.be/GffouSrsHxg?t=1442). Oops.
 
 Want to help out with PyCon AU 2018? [Ping me](mailto:katie+pyconau@glasnt.com)
@@ -46,6 +46,6 @@ Want to help out with PyCon AU 2018? [Ping me](mailto:katie+pyconau@glasnt.com)
 
 
 
-[0]: Okay, in the scheme of things, DjangoCon AU is nothing more than a miniconf, but still
+<a name="footnote_0"></a>0: Okay, in the scheme of things, DjangoCon AU is nothing more than a miniconf, but still
 
-[1]: Even through all three of us are serial conference goers, I've never mananged to see either of their talks until this last trip
+<a name="footnote_1"></a>1: Even through all three of us are serial conference goers, I've never mananged to see either of their talks until this last trip
