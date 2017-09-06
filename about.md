@@ -7,6 +7,8 @@ header-img: "img/about-bg.jpg"
 
 ## Speaker Bio
 
+<a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
+
 > Katie has worn many different hats over the years. She has been a
 > software developer for many languages, systems administrator for
 > multiple operating systems, and speaker on many different topics.
@@ -35,12 +37,11 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
- * Linux Australia - [Board Member](https://linux.org.au/council).
-2016-2017 (1 year)
- * KatieConf - [Founder](https://katieconf.xyz). 2016 - Present
- * BeeWare - [Senior Apiarist](http://pybee.org/community/team/). 2016 - Present
- * Meetup Mixup - Co-founder, Organiser. 2015 - Present
- * Open Source Developers' Club - Tresurer. 2014-2015 (1 year)
+ * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
+ * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - Present
+ * Linux Australia - [Board Member](https://linux.org.au/council), 2016-2017 (1 year)
+ * Meetup Mixup - Co-founder, Organiser, 2015 - Present
+ * Open Source Developers' Club - Tresurer, 2014-2015 (1 year)
 
 ------------------------------------------------------------------------
 
