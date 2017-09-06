@@ -2,7 +2,13 @@ require 'time'
 
 desc 'create a new draft post'
 task :post, [:title]  do |t, args|
+    
     title = args[:title]
+    if title.nil?
+      puts "I need a title, silly :)"
+      exit 1
+    end
+
     slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
 
     file = File.join(File.dirname(__FILE__),'_posts',slug + '.md')
