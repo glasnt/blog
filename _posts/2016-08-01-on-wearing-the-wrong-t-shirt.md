@@ -28,6 +28,7 @@ Polyglot programmers are rare, and are able to share knowledge and experience ac
 And I've not gotten called up on it before. I've had slow claps, giggles and the odd hearty chuckle, but I've never been told off or accused of not being a 'team player', which is fantastic. If I ever had those kind of comments, you bet I'd have something to say about it.
 
 And it's not just my wardrobe. There's more than a few Python developers with PHP framework stickers, and PHP developers with Python project stickers on their laptops.
+
 ---
 
 If anyone has an Internet Explorer shirt, or a Microsoft Shirt, in a ladies XL, please let me know. [linux.conf.au](https://linux.conf.au) is coming up :)
