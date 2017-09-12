@@ -18,9 +18,6 @@ The thing with kiwicon is that it's a security conference. Indeed it was my firs
 
 If you didn't already know, Wellington is in New Zealand, and NZ has weather. It also has earthquakes. So as much as people might quip that kiwicon was a rocking conference, the Crüe did an amazing job of making sure that people were OK, the venues were safe, and everything was fine. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A delayed start back because the radiation samples broke the lighting desk. Seriously. <a href="https://twitter.com/hashtag/kiwicon?src=hash">#kiwicon</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/799056650636115969">November 17, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Also, a presenter from every kiwicon broke the lighting rig with uraniam ore. Oops. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A delayed start back because the radiation samples broke the lighting desk. Seriously. <a href="https://twitter.com/hashtag/kiwicon?src=hash">#kiwicon</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/799056650636115969">November 17, 2016</a></blockquote>
@@ -36,7 +33,7 @@ Wellington is pretty af, and although I've had fleeting visits in the past, it w
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;What are you looking at?&quot; - Takahē <a href="https://twitter.com/hashtag/zealandia?src=hash">#zealandia</a> <a href="https://t.co/hJrcOHRsS7">pic.twitter.com/hJrcOHRsS7</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/800141112845287424">November 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Also, yes, this is a real bird. You should go to [Zealandia](https://www.visitzealandia.com/) if you ever have the change, and do the walking tour. It's amazing. 
+Also, yes, this is a real bird. You should go to [Zealandia](https://www.visitzealandia.com/) if you ever have the chance, and do the walking tour. It's amazing. 
 
 ------
 
