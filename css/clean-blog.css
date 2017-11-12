@@ -1,8 +1,10 @@
 body {
-  font-family: 'Bitter', 'Times New Roman', serif;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   font-size: 20px;
   color: #404040;
 }
+b {font-weight: black}
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -16,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Oswald', Helvetica, Arial, sans-serif;
+  font-family: 'Bitter', serif;
   font-weight: 700;
 }
 h1 {
