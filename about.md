@@ -43,6 +43,12 @@ Writer](http://xkcd.com/simplewriter/))
  * Meetup Mixup - Co-founder, Organiser, 2015 - Present
  * Open Source Developers' Club - Tresurer, 2014-2015 (1 year)
 
+## Memberships
+
+ * Django Software Foundation - [Individual Member](https://www.djangoproject.com/foundation/individual-members/), Aug 2017 - Present
+ * Open Source Initiative - Feb 2017 - Present
+ * Python Software Foundation - Contributing Member, May 2016 - Present
+
 ------------------------------------------------------------------------
 
 ## Awards
