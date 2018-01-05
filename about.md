@@ -5,6 +5,8 @@ description: "Oh hi!"
 header-img: "img/about-bg.jpg" 
 ---
 
+<style>.row a{text-decoration: underline !important}</style>
+
 ## Speaker Bio
 
 <a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
