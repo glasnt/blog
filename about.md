@@ -39,10 +39,11 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
+ * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - Present
  * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
  * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - Present
- * Linux Australia - [Board Member](https://linux.org.au/council), 2016-2017 (1 year)
  * Meetup Mixup - Co-founder, Organiser, 2015 - Present
+ * Linux Australia - [Board Member](https://linux.org.au/council), 2016-2017 (1 year)
  * Open Source Developers' Club - Tresurer, 2014-2015 (1 year)
 
 ## Memberships
@@ -55,9 +56,11 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Awards
 
+ * (Nominated) [2017 Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/)
  * [O'Reilly Open Source Award,
 2017](https://www.oreilly.com/ideas/oreilly-open-source-awards-oscon-2017)
  * [ACM ICPC 2008](https://icpc.baylor.edu/worldfinals/teams/2008) World Finalist
+
 
 ------------------------------------------------------------------------
 
