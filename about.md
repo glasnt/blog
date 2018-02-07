@@ -120,7 +120,7 @@ DjangoCon US
    - Paper Review Group
    - Session Chair
  - 2016
-   - Paper Review Grouo
+   - Paper Review Group
 
 KiwiPyCon
 
