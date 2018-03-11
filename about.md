@@ -58,7 +58,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Awards
 
- * Nominated [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source) **Voting open until Feb 21 2018**
+ * Finalist [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
  * Nominated [2017 Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/)
  * [O'Reilly Open Source Award,
 2017](https://www.oreilly.com/ideas/oreilly-open-source-awards-oscon-2017)
