@@ -49,10 +49,10 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Memberships
 
- * Django Software Foundation - [Individual Member](https://www.djangoproject.com/foundation/individual-members/), Aug 2017 - Present
+ * Django Software Foundation - [Individual Member](https://www.djangoproject.com/foundation/individual-members/), 2017 - Present
  * OpenSource.com - [Contributor Club](https://opensource.com/users/glasnt), 2018
- * Open Source Initiative - [Individual Member](https://opensource.org/members), Feb 2017 - Present
- * Python Software Foundation - [Contributing Member](https://wiki.python.org/psf/KatieMcLaughlin), May 2016 - Present
+ * Open Source Initiative - [Individual Member](https://opensource.org/members), 2016 - Present
+ * Python Software Foundation - [Contributing Member](https://wiki.python.org/psf/KatieMcLaughlin), 2016 - Present
 
 ------------------------------------------------------------------------
 
