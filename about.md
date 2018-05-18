@@ -119,6 +119,8 @@ DjangoCon AU
 
 DjangoCon US
 
+ - 2018
+   - Mentor
  - 2017 
    - Mentor
    - Paper Review Group
