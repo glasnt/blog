@@ -3,7 +3,7 @@ layout: post
 title: On what I'd like to see at PyCon AU 2018
 ---
 
-The [Call For Proposals for PyCon AU 2018](https://2018.pycon-au.org/speak/) is open right now, closing May 2018, 2018.
+The [Call For Proposals for PyCon AU 2018](https://2018.pycon-au.org/speak/) is open right now, closing May 28, 2018.
 
 If you're having writer's block trying to think of a talk to submit, I have a few ideas below. These are the sorts of things that, as an attendee, I would like to see at the conference. 
 
