@@ -75,6 +75,13 @@ See [glasnt.com/talks](http://glasnt.com/talks)
 
 ## Volunteer Work
 
+DjangoCon Europe
+
+ - 2018
+   - Paper Reviewer
+   - Session Chair
+   - Co-Lightning talk Host (one session)
+
 linux.conf.au
 
  - 2018
