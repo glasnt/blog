@@ -41,6 +41,7 @@ Writer](http://xkcd.com/simplewriter/))
 
  * PyCon AU - [Site Chair](http://2018.pycon-au.org), 2018 - 2019
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - Present
+ * Python Software Foundation - Director, 2018 - Present
  * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
  * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - Present
  * Meetup Mixup - Co-founder, Organiser, 2015 - Present
