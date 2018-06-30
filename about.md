@@ -50,6 +50,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Memberships
 
+ * PSF Fellow ([2018](https://www.python.org/psf/fellows/))
  * OpenSource.com - [Contributor Club](https://opensource.com/users/glasnt), 2018
  * Django Software Foundation - [Individual Member](https://www.djangoproject.com/foundation/individual-members/), 2017 - Present
  * Open Source Initiative - [Individual Member](https://opensource.org/members), 2016 - Present
