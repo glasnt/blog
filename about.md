@@ -187,3 +187,7 @@ What does 'glasnt' mean?
 >
 > -- thicknavyrain, [xkcd
 > forums](http://forums.xkcd.com/viewtopic.php?p=2459622&sid=d80eabca0b4c6d72037037def2bb8ad3#p2459622)
+ 
+
+------------------------------------------------------------------------
+<sub>Header image by [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/)</sub>
