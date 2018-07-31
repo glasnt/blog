@@ -3,7 +3,7 @@ layout: post
 title: How to get started administrating Celery
 ---
 
-*Normally my posts start with a story or a scoping, but I'm able to create one of those today. So instead, you get rough notes. I apoligise for any confusion*
+*Normally my posts start with a story or a scoping, but I'm unable to create one of those today. So instead, you get rough notes. I apoligise for any confusion*
 
 Further reading: [Management Command Line Utility Docs](http://docs.celeryproject.org/en/latest/userguide/monitoring.html#management-command-line-utilities-inspect-control)
 
