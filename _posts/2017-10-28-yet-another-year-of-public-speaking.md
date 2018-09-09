@@ -24,7 +24,7 @@ Yes, that's now on my LinkedIn profile. If you got it, flaunt it.
 
 I got to speak at some amazing Bucket List events: OSCON, Community Leadership Summit, and DjangoCon US. I've also earnt my place in the small group of people that have given not only a talk at every DjangoCon, but the same talk (okay, because PyCon AU and DjangoCon AU are the same event, and I only spoke at PyCon AU, it still counts, but it totally counts still)
 
-On top of speaking less, I've been organising more. On top of my normal co-organisation of Meetup Mixup, I was an organiser for [DevOps Days Sydney 2016](https://www.devopsdays.org/events/2016-sydney/welcome/), [WOOTConf 2017](https://opensource.com/article/17/1/women-open-technology-miniconf), and [DjangoCon AU 2017](https://2017.djangocon.com.au). I've also put my hat in the ring to run PyCon AU 2018 **and** 2018. Phew!
+On top of speaking less, I've been organising more. On top of my normal co-organisation of Meetup Mixup, I was an organiser for [DevOps Days Sydney 2016](https://www.devopsdays.org/events/2016-sydney/welcome/), [WOOTConf 2017](https://opensource.com/article/17/1/women-open-technology-miniconf), and [DjangoCon AU 2017](https://2017.djangocon.com.au). I've also put my hat in the ring to run PyCon AU 2018 **and** 2019. Phew!
 
 I'm going to be speaking less from now on. (She says, having two pending talks to present, internationally no less, before the end of January). But I have more responsibilities now. I'm running a proper conference as the Site Chair. I'm not in the wings any more, I'm up front. I've also got a demanding job now, as a Site Reliability Engineer for Divio. It's a small team with Responsibilities, so running at a 0 days annual leave balance isn't going to work any more. 
 
@@ -45,7 +45,7 @@ In no particular order, a selection of the things my speaking and community work
  * Be invited to speak at a conference not in my native programming language (RubyConf AU 2017)
  * Turned down events (it's HARD, but SelfCare is paramount)
  * Go see the shipwreck of which an open source project of mine is a namesake (Batavia)
- * Give a cover version talk that was a parady of one of my own talks (Emoji Archeology 101)
+ * Give a cover version talk that was a parody of one of my own talks (Emoji Archeology 101)
  * Watch a parody talk delivered about a cover talk I've given (I am Not Tom Eastman) (technically Sept '16)
  * Spend time with amazing, interesting, vibrant people who are all dear to my heart
  * Slowly work my way out of a deep depression by spending time with aforementioned people
