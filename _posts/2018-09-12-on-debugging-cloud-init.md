@@ -36,6 +36,9 @@ If you're running `aws ec2 run-instances` (or the boto3 equivalent), your `--use
 
 Comparing `/var/lib/cloud/instance/user-data.txt` and `/var/lib/cloud/instance/cloud-config.txt` I can see that my multiple `runcmd` blocks were ignored, and only my last declared block was run. 
 
-Which is great when debugging I was trying to work out why the `write_content` functionaity was working, but not the `runcmd`. 
+Which is great when debugging I was trying to work out why the `write_content` functionaity was working, but not (most) of the `runcmd`. 
+
+Update: turns out this is a limitation in `yaml` itself. You can't declare multiple keys of the same name. This also explains why I had 'valid' yaml but was declaring `write_files` instead of `write_content`. Thanks Noah for the clarification!
+
 
 
