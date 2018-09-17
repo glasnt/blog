@@ -22,9 +22,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,900|Bitter" rel="stylesheet">
 
-    <!-- #VoteYes -->
     <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_body.css">
-
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,12 +32,11 @@
     <![endif]-->
 
     <!-- Twitter Cards! -->
-
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@glasnt" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.subtitle }}" />
-    <meta name="twitter:image" content="http://glasnt.com/katie.png" />
+    <meta name="twitter:description" content="{{ page.content | truncate: 100 }}" />
+    <meta name="twitter:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
     {% if site.google_analytics %}
     <!-- Asynchronous Google Analytics snippet -->
     <script>
