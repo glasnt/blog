@@ -35,7 +35,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@glasnt" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.content | truncate: 100 }}" />
+    <meta name="twitter:description" content="{{ page.content | strip_html | truncate: 100 }}" />
     <meta name="twitter:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
     {% if site.google_analytics %}
     <!-- Asynchronous Google Analytics snippet -->
