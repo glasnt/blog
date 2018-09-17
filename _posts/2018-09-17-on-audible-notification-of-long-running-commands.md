@@ -119,6 +119,17 @@ You could extend this further, should you wish:
 
 * Maybe have some logic based on the exit code. Have the command say "Successful" or "Failed" based on the exit code. 
 * Output some more useful statistics for you, perhaps capturing any known output and reading that back to you (maybe if it's a long running Python script, outputting the last `Error`?)
+* Have an audio file play instead of `say`.[0]
 
 Personally, this current format works for me, because I'm used to randomly hearing unexpected disembodied voices tell me statistics in this format, so keeping to the same basic format helps me quickly pick up that I'm about to be given statistics about something. 
+
+
+[0] [Curtis made this suggestion](https://twitter.com/BunkyFob/status/1041538464175419392), and I couldn't help but implement it: 
+* Extract the audio you want from a YouTube clip (because mp3 websites haven't been a thing for at least a decade)
+  - `youtube-dl https://www.youtube.com/watch?v=vY1TegT4XAE -x`
+* Open the file in QuickTime Player, and use `⌘-T` (Command-T) to Trim the sound file to whatever length you want
+* Where we invoked `say` above, replace with `afplay`
+  - `afplay ~/Music/tralala.m4a`
+
+Now you can have Baymax say "Tra-la-la-la-la" when your command has finished running. 
 
