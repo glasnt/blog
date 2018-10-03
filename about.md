@@ -130,6 +130,7 @@ DjangoCon US
 
  - 2018
    - Mentor
+   - Session Chair
  - 2017 
    - Mentor
    - Paper Review Group
