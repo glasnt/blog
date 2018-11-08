@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick Tip: AWS Automatic IPs
+title: "Quick Tip: AWS Automatic IPs"
 ---
 
 
