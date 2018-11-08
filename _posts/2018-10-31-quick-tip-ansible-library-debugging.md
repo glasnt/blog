@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Quick Tip: Ansible Library Debugging"
+---
+
 If you're in a pinch trying to work out why your Ansible library scripts aren't working, you may be somewhat displeased when you finally work out that `print()` doesn't work inline. 
 
 However, you can always use logging, but that's somewhat convoluted to setup. 
