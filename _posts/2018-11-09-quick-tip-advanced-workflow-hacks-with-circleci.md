@@ -12,7 +12,7 @@ However, there are more advanced things you can do.
 
 Such as: replicating an entire Travis-style matrix for things like tox builds. 
 
-[Here's one I've prepared earlier](https://github.com/aldryn/aldryn-newsblog/blob/a19fc2e7513f7ce4078de70d8cb8b7ccf5719f32/.circleci/config.yml). Let me explain it some: 
+[Here's one I've prepared earlier](https://gist.github.com/glasnt/45f446d3db156267ced001390788fa07). Let me explain it some: 
 
 `workflows` defines a number of `jobs`, where some of those jobs requires others. However, while normally you'd have to replicate yaml sections over and over, I've incorporated a little-known feature of yaml: aliases. It allows you to declare sections of yaml you want to reuse. The syntax for this may not work in all yaml parsers, but this works in CircleCI. 
 

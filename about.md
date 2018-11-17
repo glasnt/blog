@@ -77,12 +77,50 @@ See [glasnt.com/talks](http://glasnt.com/talks)
 
 ## Volunteer Work
 
+_In alphabetical order_
+
+DevOpsDays Sydney
+
+  - 2016
+    - Organiser
+    - Master of Ceremonies
+
+DjangoCon AU
+ 
+ - 2017 
+   - Organiser
+
 DjangoCon Europe
 
  - 2018
    - Paper Reviewer
    - Session Chair
    - Co-Lightning talk Host (one session)
+
+DjangoCon US
+
+ - 2018
+   - Mentor
+   - Session Chair
+ - 2017 
+   - Mentor
+   - Paper Review Group
+   - Session Chair
+ - 2016
+   - Paper Review Group
+
+KiwiCon
+ 
+ - 2018
+   - Volunteer
+
+KiwiPyCon
+
+ - 2016
+   - Track Co-ordinator
+ - 2015
+   - Track Runner, Heckler Supresser
+
 
 linux.conf.au
 
@@ -95,6 +133,23 @@ linux.conf.au
    - Paper's Committee
  - 2016
    - Functional Programming miniconf organiser
+
+OSCON
+
+ - 2017
+   - Room Host
+
+
+OSDC
+
+ - 2014
+   - Volunter
+
+
+PurpleCon
+
+ - 2018
+   - Volunteer
 
 PyCon AU
 
@@ -121,46 +176,8 @@ PyCon US
  - 2016
    - Session Chair
 
-DjangoCon AU
- 
- - 2017 
-   - Organiser
-
-DjangoCon US
-
- - 2018
-   - Mentor
-   - Session Chair
- - 2017 
-   - Mentor
-   - Paper Review Group
-   - Session Chair
- - 2016
-   - Paper Review Group
-
-KiwiPyCon
-
- - 2016
-   - Track Co-ordinator
- - 2015
-   - Track Runner, Heckler Supresser
-
-DevOpsDays Sydney
-
-  - 2016
-    - Organiser
-    - Master of Ceremonies
-
-OSCON
-
- - 2017
-   - Room Host
 
 
-OSDC
-
- - 2014
-   - Volunter
 
 ------------------------------------------------------------------------
 
