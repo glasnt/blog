@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compatible Release cause in Pip Requirements
+title: Compatible Release clause in Pip Requirements
 ---
 
 TIL this exists. 
