@@ -7,6 +7,10 @@ header-img: "img/about-bg.jpg"
 
 <style>.row a{text-decoration: underline !important}</style>
 
+## TLDR
+
+[International Keynote Speaker](https://tw.pycon.org/2018/en-us/events/keynotes/). [PSF Fellow](https://www.python.org/psf/members/#fellows). [Award-winning writer](https://opensource.com/article/19/2/community-awards-2019). `cat` Lady. Adorkable. Verifiable Cutie. 
+
 ## Speaker Bio
 
 <a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
