@@ -9,7 +9,7 @@ title: Another year of public speaking
 >
 > ~ time passes ~
 >
-> Talk 42, October 2016: The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨, SydPHP
+> Talk 46, October 2016: The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨, SydPHP
 
 Well, this has been another year. Not as many conferences or talks this year,
 but according to TripIt, I've done 78,000kms and visited 8 countries.

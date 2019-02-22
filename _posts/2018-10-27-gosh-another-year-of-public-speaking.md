@@ -9,11 +9,11 @@ title: Gosh, another year of public speaking
 
 ...
 
-> Talk 61, November 2017: Protect yourself against the bees 🐝, BSides WLG
+> Talk 67, November 2017: Protect yourself against the bees 🐝, BSides WLG
 > 
 > ~ time passes ~
 > 
-> Talk 74, October 2018: Turning wat into why, All Things Open
+> Talk 80, October 2018: Turning wat into why, All Things Open
 
 
 So yes, this has been my most quiet year to date, but the talks I have done have been big. 

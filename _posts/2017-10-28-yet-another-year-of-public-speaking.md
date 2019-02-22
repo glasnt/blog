@@ -5,11 +5,11 @@ title: Yet Another Year Of Public Speaking
 
 Rounding out a [trilogy](http://glasnt.com/blog/2015/11/04/a-year-of-public-speaking.html) of [summaries](http://glasnt.com/blog/2016/10/24/another-year-of-public-speaking.html)
 
-> Talk 43, October 2016: The state of web and online communities, Syd PHP
+> Talk 47, October 2016: The state of web and online communities, Syd PHP
 >
 > ~ time passes ~
 >
-> Talk 60, October 2017: ... Bees?, GitHub Constellation Sydney
+> Talk 66, October 2017: ... Bees?, GitHub Constellation Sydney
 
 
 Good grief, it's been another year. And what a year. 
