@@ -43,7 +43,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
- * PyCon AU - [Site Chair](http://2018.pycon-au.org), 2018 - 2019
+ * PyCon AU - [Conference Director](http://2018.pycon-au.org), 2018 - 2019
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - Present
  * Python Software Foundation - Director, 2018 - Present
  * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
@@ -128,6 +128,9 @@ KiwiPyCon
 
 linux.conf.au
 
+ - 2019
+   - Paper's Committee
+   - Code of Conduct Committee
  - 2018
    - Paper's Committee
    - Community Liason
@@ -143,7 +146,6 @@ OSCON
  - 2017
    - Room Host
 
-
 OSDC
 
  - 2014
@@ -157,8 +159,10 @@ PurpleCon
 
 PyCon AU
 
+ - 2019
+   - Conference Director
  - 2018
-   - Site Chair
+   - Conference Director
  - 2017
    - Paper's Committee
    - Specialist Track Co-ordinator (DjangoCon AU)
@@ -167,7 +171,6 @@ PyCon AU
    - Financial Aid Committee
    - Code of Conduct Committee
    - Session Chair
-
  - 2015
    - Financial Aid Committee
    - Diversity Staff
@@ -179,8 +182,6 @@ PyCon US
    - PyLadies Auction - Guest Auctioneer
  - 2016
    - Session Chair
-
-
 
 
 ------------------------------------------------------------------------
