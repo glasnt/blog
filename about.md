@@ -64,6 +64,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Awards
 
+ * [OpenSource.com 2019 People's Choice Award](https://opensource.com/article/19/2/community-awards-2019)
  * Finalist [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
  * Nominated [2017 Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/)
  * [O'Reilly Open Source Award,
