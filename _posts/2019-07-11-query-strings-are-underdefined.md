@@ -3,8 +3,6 @@ layout: post
 title: Query Strings are underdefined
 ---
 
-# Query Strings are underdefined. 
-
 Far too many moons ago in early 2015, in one of the first talks I ever gave[0], in between talking about a web-based data visualistation I built from scratch, I had a bit of a rant about query strings. 
 
 
