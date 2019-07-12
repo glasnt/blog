@@ -47,7 +47,7 @@ My time-series data visualisation tool was a mixture of a Rails backend and a Ja
 
 Because it's time series data, there's always a shared y-axis: time.
 
-From there, I could add neat [d3](https://d3js.org/) elements to allow me to zoom into sections of time, nice bootstrap widgets to help me select the timeframe, and neat splines for separating different metrics across the left-hand and right-hand x-axis. 
+From there, I could add neat [d3](https://d3js.org/) elements to allow me to zoom into sections of time, nice bootstrap widgets to help me select the timeframe, and fancy splines for separating different metrics across the left-hand and right-hand x-axis. 
 
 ## What I wanted to do
 
@@ -81,13 +81,13 @@ I still used keys and values, with `&` and `=`, but I leveraged the *values*, no
 
 I used one of the only characters that weren't reserved, and that still exist on a en_US keyboard layout: `~`. 
 
-In my project, `metric` was a special key, and I knew that a `metric` would come with a value that included a 3-element triple of `~` separated values in a known order: source, metric, and graph type. By knowing I would probably have more than one metric, I could parse these values separately in my query string, then pass the rest onto the native parsing functionality for the standard key/value pairs for things like settings, start and end times, and the like
+In my project, `metric` was a special key, and I knew that a `metric` would come with a value that included a 3-element triple of `~` separated values in a known order: source, metric, and graph type. By knowing I would probably have more than one metric, I could parse these values separately in my query string, then pass the rest onto the native parsing functionality for the standard key/value pairs for things like settings, start and end times, and the like.
 
 ## How I then had more problems
 
 Having to have this decoder in both the front-end and back-end meant I had to write it twice: once in Ruby and once in JavaScript. 
 
-If memory services, there were Bugs(tm). 
+If memory serves, there were Bugs™️. 
 
 In the recording I did mention that I was going to start looking changing the backend to Haskell (to match the rest of the stack) and then write the decoder logic in Haskell, and compile it into JavaScript. 
 
@@ -105,7 +105,7 @@ I also had issues where different part of my stack had different limits as to ho
 
 Since working on this project and giving this talk, and reviewing this write-up now, I can see the seeds of some of my other work in this. My talk about [interesting parts of JavaScript](https://youtu.be/hAnCiTpxXPg?t=3318), the talk about [how writing business logic once and deploying it server and client side would be really neat](https://youtu.be/1YmbZQjty3Y?t=442), heck, even the keynote about how I [gracefully handled the abandonment of that project](https://www.youtube.com/watch?v=prFaJugC95Y).. 
 
-All of the work I present about is about things that I have learnt and that I want to help teach people about. And a bunch of the drive I have to continue to do this is based on wanting to help people learn from the pain I've suffered. A lot of it is frustration based, but some of it is legit sorrow based on things that I tried to make but never did. 
+All of the work I present about is based on my lived experiences: things that I have learnt, and that I want to help teach people about. And a bunch of the drive I have to continue to do this is based on wanting to help people learn from the pain I've suffered. A lot of it is frustration based, but some of it is legit sorrow based on things that I tried to make but never did. 
 
 But little tales about the wonders of RFC3986 are useful artefacts to come out of that grief. 
 
