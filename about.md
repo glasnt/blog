@@ -84,6 +84,11 @@ See [glasnt.com/talks](http://glasnt.com/talks)
 
 _In alphabetical order_
 
+All Things Open
+  
+  - 2018
+    - OpenSource.com Booth helper
+
 DevOpsDays Sydney
 
   - 2016
@@ -178,10 +183,16 @@ PyCon AU
 
 PyCon US
 
+ - 2019
+   - PyLadies Auction - Guest Auctioneer
+   - BeeWare Booth Co-organiser
+   - PSF Booth Staff
  - 2017
    - Session Chair
    - PyLadies Auction - Guest Auctioneer
+   - BeeWare Booth Co-organiser
  - 2016
+   - BeeWare Booth Co-organiser
    - Session Chair
 
 
