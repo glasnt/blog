@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Half a decade of public speaking
+description: The fifth in a series of summaries of my year of giving conference talks.
 ---
 
 Previous articles: [2015](https://glasnt.com/blog/2015/11/04/a-year-of-public-speaking.html), [2016](https://glasnt.com/blog/2016/10/24/another-year-of-public-speaking.html), [2017](https://glasnt.com/blog/2017/10/28/yet-another-year-of-public-speaking.html), [2018](https://glasnt.com/blog/2018/10/27/gosh-another-year-of-public-speaking.html)
