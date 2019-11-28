@@ -30,7 +30,7 @@ With four swivel wheels, two front pockets, a handle and a tag for ownership inf
 
 ![sam luggage]({{path}}/luggage_1f9f3_4_sam.png)
 
-Looking at the profile on the single pair of wheels, be sure to load this into the overhead compartment with the wheels facing away from you, and take extra case to ensure the case doesn't slip out as you open the overhead after landing, as damn this case looks like it will move. Swiftly. Into your face. This hardshell looks like a hazard. 3/10
+Looking at the profile on the single pair of wheels, be sure to load this into the overhead compartment with the wheels facing away from you, and take extra care to ensure the case doesn't slip out as you open the overhead after landing, as damn this case looks like it will move. Swiftly. Into your face. This hardshell looks like a hazard. 3/10
 
 ## Whatsapp
 
