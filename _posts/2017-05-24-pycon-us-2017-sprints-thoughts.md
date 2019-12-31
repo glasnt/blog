@@ -24,7 +24,6 @@ Evening events are much enjoyed opportunities to quietly hang out. I had some mo
 People are slowly leaving. Making sure you can give them one last hug before they leave is a thing. It hurts to miss doing that. But most of us will see each other again soon, so we have that to look forward to. 
 
 
-redirect_from: /2017/05/24/pycon-us-2017-sprints-thoughts.html
 ---
 
 

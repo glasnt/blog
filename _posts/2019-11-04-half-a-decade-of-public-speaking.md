@@ -14,14 +14,12 @@ Last time on Public Speaking Summaries:
 > I am looking forward to a break coming up soon. It’s sorely needed. 
 
 
-redirect_from: /2019/11/04/half-a-decade-of-public-speaking.html
 ---
 
 
 Five years ago today I gave my first conference presentation. 
 
 
-redirect_from: /2019/11/04/half-a-decade-of-public-speaking.html
 ---
 
 

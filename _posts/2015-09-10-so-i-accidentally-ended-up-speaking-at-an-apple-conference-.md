@@ -29,7 +29,6 @@ The one main take away from this conference is that Keynote has an 'Anvil' trans
 With so many talks across two streams, here are just some of my highlights, which I recommend you watch the videos for:
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -38,7 +37,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 "Friendships die in code review" - [@giertler, #devworld](https://twitter.com/glasnt/status/638148270066417664)
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -49,7 +47,6 @@ Yes, Jon was able to make the game in a dash under 40 minutes.
 "Lag is the thing you hate the most when you create a multi-player game.. It's the thing you learn to really despise" - [@desplesda #devworld](https://twitter.com/glasnt/status/638161915831693312)
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -58,7 +55,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 Getting fresh, new users to test your code is as important as getting expert users to test, and cross-platform test, that regression issues don't appear in your codebase.
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -67,7 +63,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 I'm always interested in how you can use other languages in toolchains, and Josh's talk was just the ticket for getting away from Swift.
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -78,7 +73,6 @@ Skeuomorphs!
 "You don't need ridges on an iPad keyboard, cos you can't feel them" skeuomorphs in < iOS7 [@The_McJones #devworld](https://twitter.com/glasnt/status/638252499900588032)
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -88,7 +82,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 Betty's talk was very good at explaining to the audience how the different users of our products have completely different requirements from what we expect. Her discussion about making interactive experience for children on mobile devices reinforces the fact that the choices we make as developers need to take into account our audience and their expectations.
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -97,16 +90,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 I really like SVG and vector graphics, so PaintCode is right up my alley. James didn't even have any slides. It was all a live demo, apart from the one title slide, which he reproduced in PaintCode anyway :)
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
----
-
-
-**Jon Manning Round Two**
-
-Jon did a repeat performance to fill in from another speaker who was ill, but his commentary on the gamification of social media and immersive gameplay was something to behold.
-
-
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 
@@ -115,7 +98,6 @@ redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-confe
 Speakers opinion: "If you run a forum without an anti-harassment policy, that's just as bad as having a forum that's unencrypted" [#devworld](https://twitter.com/glasnt/status/638588274353704960)
 
 
-redirect_from: /2015/09/10/so-i-accidentally-ended-up-speaking-at-an-apple-conference-.html
 ---
 
 

@@ -41,7 +41,6 @@ Not only were there incredible talks, the workshops were also fun as well. I eve
 BuzzConf is an amazing family friendly tech festival that I encourage you to participate in next year. Even if camping is not your thing, just packing some warm clothes and cash for the food tents made for an amazing weekend of learning and fun. 
 
 
-redirect_from: /2016/12/28/buzzconf-wrap-up.html
 ---
 
 

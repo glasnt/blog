@@ -35,7 +35,6 @@ An absolute pet topic of mine, I'd love to see more Wats around the place: thing
 F-Strings, mypy, 3.7, all the new shiny stuff that some of us haven't heard of -- if you have been playing around (or helping to develop!) these new functions, I want to hear all about it. 
 
 
-redirect_from: /2018/04/28/on-what-i-d-like-to-see-at-pycon-au-2018.html
 ---
 
 

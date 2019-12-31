@@ -15,7 +15,6 @@ datasette serve SQLITE_DB.db
 lets you introspect a JSON file in datasette, like magic ✨🎩✨
 
 
-redirect_from: /2019/05/12/snap-together-a-new-datasette.html
 ---
 
 

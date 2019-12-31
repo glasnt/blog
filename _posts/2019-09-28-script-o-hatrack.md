@@ -18,7 +18,6 @@ These scripts must be run within:
  * `git -C path/to/django/django`.
 
 
-redirect_from: /2019/09/28/script-o-hatrack.html
 ---
 
 
@@ -31,7 +30,6 @@ The formatting:
 The `--pretty` [formats](https://git-scm.com/docs/pretty-formats) for Author Name and Author Email (noting that users who commit via GitHub can choose to hide their email, but their username can be parsed from the placeholder email), returning unique lisings sorted alphabetically ignoring case. 
 
 
-redirect_from: /2019/09/28/script-o-hatrack.html
 ---
 
 

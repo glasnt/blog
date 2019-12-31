@@ -14,7 +14,6 @@ It was an absolute pressure cooker of amazing community leaders, all discussing 
 This post serves as a braindump of some of those conversations. 
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 
@@ -22,7 +21,6 @@ redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 
@@ -31,7 +29,6 @@ Think about why you run events.
 Is it for generating revenue for your product/community, to then spend in other places? Is it to create an environment of like-minded people to meet and network and create? 
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 
@@ -44,7 +41,6 @@ More on stickers:
  * Choose automotive grade vinyl
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 
@@ -62,7 +58,6 @@ T-shirts
 
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 
@@ -81,7 +76,6 @@ Running world class events
 
 
 
-redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
 
 

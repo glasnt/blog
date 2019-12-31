@@ -23,7 +23,6 @@ It might be an 'assistant', but it behaves like a 90's ad-ware "YOU DOWNLOADED M
 
 
 
-redirect_from: /2015/04/30/captive-portal-assistant.html
 ---
 
 

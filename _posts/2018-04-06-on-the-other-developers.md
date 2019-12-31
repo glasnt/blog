@@ -35,7 +35,6 @@ Just because someone doesn't know your stack doesn't mean they don't know anythi
 
 
 
-redirect_from: /2018/04/06/on-the-other-developers.html
 ---
 
 

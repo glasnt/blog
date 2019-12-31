@@ -72,7 +72,6 @@ Let's have mutual empathy, and work towards the shared goal of continued learnin
 
 
 
-redirect_from: /2019/07/30/on-proposing-to-conferences.html
 ---
 
 

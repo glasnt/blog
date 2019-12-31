@@ -45,7 +45,6 @@ I absolutely love meeting new people, and having people ask me about things I kn
 I know that speaking is a commitment, and I can stop any time, but right now -- this is the time when I'm having the twin-feelings of 'why can't I be at conferences every day?' and 'why do I keep putting myself through this?'.
 
 
-redirect_from: /2016/04/06/on-post-conference-care.html
 ---
 
 
@@ -54,7 +53,6 @@ Right now, this is my state of mind. I may end up removing this post later if I 
 But just writing this down is good for me. If I end up taking out bits of this post, then that's my own self-censorship. I hope that something in this helps someone else, at the very least. 
 
 
-redirect_from: /2016/04/06/on-post-conference-care.html
 ---
 
 

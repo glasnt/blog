@@ -47,7 +47,6 @@ If you want a talk that better explains what BeeWare is all about, watch Russell
 "Jaw is on the floor and is going to be there for the next 15 minutes." - [@skimbrel](https://twitter.com/skimbrel/status/737802418369372160)
 
 
-redirect_from: /2016/06/10/pycon-us-wrap-up.html
 ---
 
 

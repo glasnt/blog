@@ -14,7 +14,6 @@ redirect_from: /2015/05/30/legacy-devops.html
  > [@joshsimmons](https://twitter.com/joshsimmons/status/566774855282880514) @glasnt Ah ha! Exactly what I was looking for, thank you :-)
 
 
-redirect_from: /2015/05/30/legacy-devops.html
 ---
 
 
@@ -25,7 +24,6 @@ In the last week I've updates process that interface with a [16 year old monitor
 But here's the pinch: we're coming to a point where *Perl* is legacy. Yes yes, I'm sure Python programmers already know, and joke, about this; but how long until Python code becomes synonymous with Legacy? Ask a node.js developer, I'm sure they'll tell you that time is now. 
 
 
-redirect_from: /2015/05/30/legacy-devops.html
 ---
 
 
@@ -34,7 +32,6 @@ redirect_from: /2015/05/30/legacy-devops.html
 _I've just received word that the Emperor has dissolved the MIT computer science program permanently._ - [xkcd #297 "Lisp Cycles"](http://xkcd.com/297/)
 
 
-redirect_from: /2015/05/30/legacy-devops.html
 ---
 
 

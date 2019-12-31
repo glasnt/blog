@@ -33,7 +33,6 @@ And I've not gotten called up on it before. I've had slow claps, giggles and the
 And it's not just my wardrobe. There's more than a few Python developers with PHP framework stickers, and PHP developers with Python project stickers on their laptops.
 
 
-redirect_from: /2016/08/01/on-wearing-the-wrong-t-shirt.html
 ---
 
 
