@@ -4,6 +4,7 @@ title: Teaching infrastructure is hard.
 description: In which I have feelings about how automation hinders learning.
 
 redirect_from: /2019/11/01/teaching-infrastructure-is-hard.html
+card: https://cards-hkkw5geraq-uc.a.run.app/blog/teaching-infrastructure-is-hard.png
 ---
 
 

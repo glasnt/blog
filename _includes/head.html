@@ -32,11 +32,16 @@
     <![endif]-->
 
     <!-- Twitter Cards! -->
-    <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@glasnt" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{%if page.description%}{{page.description}}{%else%}{{ page.content | strip_html | truncate: 100 }}{%endif%}" />
+    {% if page.card %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{% if page.card%}{{page.card}}{%else%}http://glasnt.com/blog/img/header-thumbnail.png{%endif%}" />
+    {% else %}
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
+    {% endif %}
     {% if site.google_analytics %}
     <!-- Asynchronous Google Analytics snippet -->
     <script>
