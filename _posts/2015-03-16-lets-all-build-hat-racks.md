@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Lets all build hat racks
+
+redirect_from: /2015/03/16/lets-all-build-hat-racks.html
 ---
+
 
 *This article is the accompaniment for [Hat Racks, SydPHP March 2015 Lightning Talks](http://glasnt.com/talks/SydPHP_Mar2015_Hat_Rack/HatRack.pdf)*
 

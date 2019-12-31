@@ -2,7 +2,10 @@
 layout: post
 title: On Signal to Noise
 subtitle: Security with exposure
+
+redirect_from: /2015/12/09/on-signal-to-noise.html
 ---
+
 
 Signal is an interesting application that allows the usability of text messaging with the convenience of privacy and security of the information. I've previously written up instructions for [dataretention.solutions](https://dataretention.solutions/secure-communications/installing-textsecure-on-android/) for how to get it working. Whisper Systems, the people behind Signal, have recently merged TextSecure (previously the name they called the Android product) and Red Phone (same thing, but for phone calls), which helps streamline the uptake process for users who may not know a key-party from a keysigning party. 
 

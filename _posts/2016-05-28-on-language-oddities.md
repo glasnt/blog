@@ -2,7 +2,10 @@
 layout: post
 title: On Language Oddities
 subtitle: wat. 
+
+redirect_from: /2016/05/28/on-language-oddities.html
 ---
+
 
 
 _This post serves as an accompaniment to "JavaScript is Awe-ful" talk, and as a list of obscure language oddities_

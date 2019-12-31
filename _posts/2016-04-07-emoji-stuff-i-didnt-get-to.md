@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Emoji Stuff I Didn't Get To
+
+redirect_from: /2016/04/07/emoji-stuff-i-didnt-get-to.html
 ---
+
 
 I only had half an hour at [DjangoCon Europe](https://djangocon.eu) to tell [a story of emoji](https://opbeat.com/events/djangocon-eu-2016/#the-power-and-responsibility-of-unicode-adoption), so there was a heap of little facts and minor tales I had to remove. 
 

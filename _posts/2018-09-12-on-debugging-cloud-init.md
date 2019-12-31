@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On debugging cloud-init
+
+redirect_from: /2018/09/12/on-debugging-cloud-init.html
 ---
+
 
 I've been spending time with Packer and cloud-init in the week, trying to create a re-built AMI to help enquicken the deployment process of a otherwise ansible process from fresh AMI procedure. 
 

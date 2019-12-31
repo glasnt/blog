@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On becoming a Core Contributor
+
+redirect_from: /2016/06/08/on-becoming-a-core-contributor.html
 ---
+
 
 During the PyCon US 2016 sprints, BeeWare welcomed it's third Core Contributor, [Philip James](https://twitter.com/phildini). Phil has [written up his experience](https://www.wordfugue.com/tips-becoming-core-contributor/) of getting the commit bit, and so I thought, as Core Contributor #2, I'd also write down my journey. 
 

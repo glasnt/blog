@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Feelings about unique usernames on the internet, a somewhat practical recovery guide.
+
+redirect_from: /2019/07/17/feelings-about-unique-usernames-on-the-internet.html
 ---
+
 My internet friend [edent](https://twitter.com/edent) wrote a lovely missive
 about how he was able to get [his username on (nearly) every
 site](https://shkspr.mobi/blog/2019/07/how-i-got-my-username-on-nearly-every-site/).

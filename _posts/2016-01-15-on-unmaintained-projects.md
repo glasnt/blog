@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Unmaintained Projects
+
+redirect_from: /2016/01/15/on-unmaintained-projects.html
 ---
+
 
 Open source software development is a double-edged sword. If you make something that's half-decent, people want to use your time and resources to solve their problems. There's a large amount of debate about how to [Pay the Piper](https://github.com/pybee/paying-the-piper) and working [how to make open source sustainable.](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58)
 

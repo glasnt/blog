@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Funding Open Source
+
+redirect_from: /2016/07/12/on-funding-open-source.html
 ---
+
 
 Just because you can use something for free doesn't mean you can't help make it better. Your time is valuable, but a lot of open source projects could really use your financial backing as well. Countless hours goes into sustaining these services behind the scenes, often at the financial expense. Sustained financial support can turn a hobby project into a job for a maintainer, or a community into a company that can in turn support other projects. 
 

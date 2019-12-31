@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Archiving Projects
+
+redirect_from: /2017/12/17/on-archiving-projects.html
 ---
+
 
 I've spoken about maintaining projects before, but I don't think I've written about it. 
 

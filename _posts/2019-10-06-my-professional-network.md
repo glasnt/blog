@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Why I won't connect with your Professional Network on LinkedIn
+
+redirect_from: /2019/10/06/my-professional-network.html
 ---
+
 
 *This post serves to articulate my reasons for ignoring your LinkedIn connection.*
 

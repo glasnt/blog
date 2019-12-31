@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Internet Games
+
+redirect_from: /2016/04/30/on-internet-games.html
 ---
+
 
 Did you know that back in the day[1] there used to be a thing where people would compete to see who could search the internet for things the fastest?
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Talk Retirement
+
+redirect_from: /2016/06/07/on-talk-retirement.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My <a href="https://twitter.com/hashtag/pycon2016?src=hash">#pycon2016</a> <a href="https://twitter.com/hashtag/LABHR?src=hash">#LABHR</a> talk is now online <a href="https://t.co/oPyFhVnXVz">https://t.co/oPyFhVnXVz</a><br><br>Thus ends my world tour of thanking people for being awesome. 👏💜</p>&mdash; Katie McLaughlin (@glasnt) <a href="https://twitter.com/glasnt/status/737682909461544960">May 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

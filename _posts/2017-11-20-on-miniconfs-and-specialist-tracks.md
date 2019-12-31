@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Miniconfs and Specialist Tracks
+
+redirect_from: /2017/11/20/on-miniconfs-and-specialist-tracks.html
 ---
+
 Up until a few months ago the only conference organising I did was little behind the scenes work: stacking chairs, helping hand out swag, general information, occasionally introducing a talk, that sort of thing. 
 
 But if you’re interested in the world of conference organising, a good way to get started is to host a MiniConf or Specialist Track

@@ -1,7 +1,10 @@
 ---
 title: "Facebook status: Missing: 'is'"
 layout: post
+
+redirect_from: /2007/12/14/facebook-status-missing-is.html
 ---
+
 
 
 ![Katie is missing is](http://i.imgur.com/dOq4ugQ.png)

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Anxiety - A tale of two talks
+
+redirect_from: /2015/08/14/on-anxiety-a-tale-of-two-talks.html
 ---
+
 
 I was recently invited to present at a conference. I submitted two papers, and both were accepted. 
 

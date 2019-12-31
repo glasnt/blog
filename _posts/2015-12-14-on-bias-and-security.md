@@ -2,7 +2,10 @@
 layout: post
 title: On Bias and Security
 subtitle: Two talks, two important messages
+
+redirect_from: /2015/12/14/on-bias-and-security.html
 ---
+
 
 
 There were two standout talks from YOW! Sydney 2015.

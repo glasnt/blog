@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Default Tools and where to find them
+
+redirect_from: /2015/02/10/default-tools-and-where-to-find-them.html
 ---
+
 
 Working with Docker is really fun. As soon as you want to debug something, you try the old `netstat` or `ps`, and these commands don't exist. You try `apt-get install ps` only to realise you're not on the right distro for `apt-get`, and even when you get that command right, you can't find `ps`. **Then** you remember to `apt-get update` then install, only to find again `ps` doesn't exist. Gah!
 

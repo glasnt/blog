@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Artisanal Software and the Shakespeare Effect
+
+redirect_from: /2015/08/21/on-artisanal-software-and-the-shakespeare-effect.html
 ---
+
 
 I've been playing a bit recently with changing up the software I use for my slideshow presentations. I remember back in 1997 being super impressed when a kid in my class had PowerPoint 1997 as opposed to the 1995 version. He had rotation zoom in WordArt graphics, and it was the beesknees. 
 

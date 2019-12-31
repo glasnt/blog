@@ -2,7 +2,10 @@
 layout: post
 title: Shiny Blog, and Twitter Cards
 subtitle: Hey, look, this gets embedded in a Twitter Card!
+
+redirect_from: /2015/11/19/shiny-blog.html
 ---
+
 
 
 You might have noticed that this blog got just a little bit shinier.

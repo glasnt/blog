@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Yet Another Year Of Public Speaking
+
+redirect_from: /2017/10/28/yet-another-year-of-public-speaking.html
 ---
+
 
 Rounding out a [trilogy](http://glasnt.com/blog/2015/11/04/a-year-of-public-speaking.html) of [summaries](http://glasnt.com/blog/2016/10/24/another-year-of-public-speaking.html)
 

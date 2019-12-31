@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Solving the cross-platform emoji problem - opensource.com
+
+redirect_from: /2017/04/07/solving-the-cross-platform-emoji-problem-opensource-com.html
 ---
+
 
 Oh hey, I have another article up on [opensource.com](https://opensource.com), this time about my upcoming OSCON talk!
 

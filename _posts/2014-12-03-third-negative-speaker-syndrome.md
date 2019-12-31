@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Third Negative Speaker Syndrome
+
+redirect_from: /2014/12/03/third-negative-speaker-syndrome.html
 ---
+
 
 In an attempt to consolidate my feedback from various small and longer form talks I've presented over the past month, I've come to the conclusion that I appear to be suffering from the "Third Negative Speaker" Syndrome.
 

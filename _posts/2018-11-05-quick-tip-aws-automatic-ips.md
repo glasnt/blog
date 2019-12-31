@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Quick Tip: AWS Automatic IPs"
+
+redirect_from: /2018/11/05/quick-tip-aws-automatic-ips.html
 ---
+
 
 
 Hiding away in your `VPC > Subnet` details is a little flag editable under the `Modify auto-assign IP settings` action: 

@@ -1,7 +1,10 @@
 ---
 title: The New Facebook Changes - Why people hate everything
 layout: post
+
+redirect_from: /2009/03/13/the-new-facebook-changes.html
 ---
+
 
 Well, for those that have a Facebook account and actually use it on a regular basis, you may have noticed that it has changed a bit. The home page is looking different, groups and pages have had a face lift, and everyone's thumbnail picture now has rounded edges so you can't cut yourself.
 

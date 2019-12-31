@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On post-conference care
+
+redirect_from: /2016/04/06/on-post-conference-care.html
 ---
+
 
 __Content Warning: personal anecdote, feels, discussing depression__
 
@@ -41,13 +44,19 @@ I absolutely love meeting new people, and having people ask me about things I kn
 
 I know that speaking is a commitment, and I can stop any time, but right now -- this is the time when I'm having the twin-feelings of 'why can't I be at conferences every day?' and 'why do I keep putting myself through this?'.
 
+
+redirect_from: /2016/04/06/on-post-conference-care.html
 ---
+
 
 Right now, this is my state of mind. I may end up removing this post later if I feel I can't stand by what I've written, and that's completely valid. Talking about these kinds of things is hard.
 
 But just writing this down is good for me. If I end up taking out bits of this post, then that's my own self-censorship. I hope that something in this helps someone else, at the very least. 
 
+
+redirect_from: /2016/04/06/on-post-conference-care.html
 ---
+
 
 If you want to reach out to someone, why not send them a [happiness packet?](https://happinesspackets.io/) They could probably do with a nice message to say thank you.
 

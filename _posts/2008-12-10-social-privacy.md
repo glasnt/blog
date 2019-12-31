@@ -1,7 +1,10 @@
 ---
 title: Social Privacy
 layout: post
+
+redirect_from: /2008/12/10/social-privacy.html
 ---
+
 
 If you are one of the 130 million people worldwide that use Facebook, you may know of the magical knowledge that can be obtained from this networking website. You can find friends from long ago, images from that party you missed on the weekend, or even if that girl you liked in high school has found a partner or not.
 

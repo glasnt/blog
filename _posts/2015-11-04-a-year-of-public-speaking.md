@@ -3,7 +3,10 @@ layout: post
 title: A year of public speaking
 subtitle: So, I had a little bit of a year...
 author: Katie McLaughlin
+
+redirect_from: /2015/11/04/a-year-of-public-speaking.html
 ---
+
 
 So, I had a little bit of a year
 

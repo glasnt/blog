@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Captive Portal Assistant
+
+redirect_from: /2015/04/30/captive-portal-assistant.html
 ---
+
 
 
 So I installed [Pantheon](https://wiki.archlinux.org/index.php/Pantheon) as a test to see if it was a better window manager than Unity (it wasn't). I thought I un-installed it. I ended up going with [Cinnamon](cinnamon.linuxmint.com) on top of my existing Ubuntu 14.04 install.
@@ -19,7 +22,10 @@ All I did was installed Pantheon. It depends on `elementary-desktop`, which, I a
 It might be an 'assistant', but it behaves like a 90's ad-ware "YOU DOWNLOADED ME, NOW BUY ME". I understand that elementary-os asks for purchase. That's fine, open source software needs to be funded somehow. But this is a little bit on the creepy side for me. 
 
 
+
+redirect_from: /2015/04/30/captive-portal-assistant.html
 ---
+
 
 Below is a copy of the code I found in my `/etc/` folder that I believe to be the culprit. I have attached it here for educational purposes.
 

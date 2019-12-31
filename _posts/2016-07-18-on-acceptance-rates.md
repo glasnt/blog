@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On acceptance rates
+
+redirect_from: /2016/07/18/on-acceptance-rates.html
 ---
+
 
 This is a hard one to write, but I need to get this one out of my head and onto paper^H^H^H^H^ bits.
 

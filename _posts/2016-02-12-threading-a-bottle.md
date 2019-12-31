@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Threading a Bottle
+
+redirect_from: /2016/02/12/threading-a-bottle.html
 ---
+
 
 It turns out that working with Ruby gets you a lot of things for free. 
 

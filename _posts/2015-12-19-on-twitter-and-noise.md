@@ -2,7 +2,10 @@
 layout: post
 title: On Twitter and Noise
 subtitle: OMG my phone is exploding, send help
+
+redirect_from: /2015/12/19/on-twitter-and-noise.html
 ---
+
 
 Yesterday I posted a screenshot of a [dinky app](http://www.starwars.com/games-apps/star-wars-crawl-creator) on [Twitter](https://twitter.com/glasnt/status/677632129224822784). It was a little bit popular. 
 

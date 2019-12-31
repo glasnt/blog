@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ruby makes you a lazy programmer
+
+redirect_from: /2015/01/22/ruby-makes-you-a-lazy-programmer.html
 ---
+
 
 In ruby, `def one; 1; end` is valid. 
 

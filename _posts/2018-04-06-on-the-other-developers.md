@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On the 'other' developers
+
+redirect_from: /2018/04/06/on-the-other-developers.html
 ---
+
 
 
 *This blog post is musings, which may flesh out into something concrete. YMMV*
@@ -31,7 +34,10 @@ I'm still evolving this idea in my head, trying to work out a good term for this
 Just because someone doesn't know your stack doesn't mean they don't know anything. 
 
 
+
+redirect_from: /2018/04/06/on-the-other-developers.html
 ---
+
 
 *Directions I may take this dicussion in the future*
  * *Training vs Education*

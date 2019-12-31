@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Notes from DevOps Days AU/NZ
+
+redirect_from: /2019/10/27/notes-from-devops-days-au-nz.html
 ---
+
 
 The following are my raw notes from [DevOpsDays AU](https://devopsdays.org/events/2019-sydney/welcome/) and [NZ](https://devopsdays.org/events/2019-auckland/) 2019.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hat Racks and LinkedIn
+
+redirect_from: /2015/04/29/hat-racks-and-linkedin.html
 ---
+
 Following on from [#LABHR](http://bit.do/LABHR), one of the main ways to show and endorse someone's efforts in non-code contributions is to recommend them via LinkedIn.
 
 LinkedIn allows two separate ways of endorsing or recommending someone. They are called 'Recommendations' and 'Endorsements'. 

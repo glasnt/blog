@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 2019 Luggage Review
+
+redirect_from: /2019/11/29/luggage-review.html
 ---
+
 
 
 Those that know me know that I travel a lot. I know what to think about when choosing luggage: international vs domestic carry-on limits, the benefits of two vs four ("swivel") wheels, hard vs soft cases, and other considerations. In this post, I take that knowledge and apply it to the luggage currently available on the emoji market: 🧳 U+1F9F3. 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: PyCon US Wrap-up
+
+redirect_from: /2016/06/10/pycon-us-wrap-up.html
 ---
+
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Please remember to phrase your question on the form of a question&quot; - <a href="https://twitter.com/brandon_rhodes">@brandon_rhodes</a> <a href="https://twitter.com/hashtag/pycon?src=hash">#pycon</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/737318505360433152">May 30, 2016</a></blockquote>
@@ -43,7 +46,10 @@ If you want a talk that better explains what BeeWare is all about, watch Russell
 
 "Jaw is on the floor and is going to be there for the next 15 minutes." - [@skimbrel](https://twitter.com/skimbrel/status/737802418369372160)
 
+
+redirect_from: /2016/06/10/pycon-us-wrap-up.html
 ---
+
 
 
 If you want a talk that's part TLDR about HTTP, part standup, watch Sumana's ["HTTP Can Do That?!"](https://www.youtube.com/watch?v=HsLrXt2l-kg) talk. 

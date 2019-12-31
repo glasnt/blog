@@ -1,7 +1,10 @@
 ---
 title: In webspace, noone can hear you scream.
 layout: post
+
+redirect_from: /2009/05/04/noone-can-hear-you-scream.html
 ---
+
 So, you make a list, or have a rant about something. You place it on your website, be it LiveJournal, Myspace, your Blogspot or a seperate website all together. Will it get noticed? It depends where you put it.
 
 A trend with social aggregaters like Digg and Reddit is that they will pick up content from known sites, such as TechCrunch, BoingBoing, etc, including all the newspaper websites, but they won't necessarily like what they see.

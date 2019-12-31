@@ -1,7 +1,10 @@
 ---
 layout: post
 title: wget is like, meh
+
+redirect_from: /2015/02/03/wget-is-like.html
 ---
+
 
 So I found this out today..
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Reset all of the Docker
+
+redirect_from: /2015/02/04/reset-all-of-the-docker.html
 ---
+
 **Warning: this post contains blat scripts**
 
 

@@ -1,7 +1,10 @@
 ---
 title: "This is where the Subject or 'Title' goes..."
 layout: post
+
+redirect_from: /2007/11/06/This-is-where-the-subject-goes.html
 ---
+
 
 .. and here is where something interesting will go children. 
 

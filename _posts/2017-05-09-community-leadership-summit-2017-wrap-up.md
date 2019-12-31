@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Community Leadership Summit 2017 Wrap up
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 This past weekend I was fortunate enough to keynote the Community Leadership Summit (CLS) in Austin, Texas
 
@@ -10,18 +13,27 @@ It was an absolute pressure cooker of amazing community leaders, all discussing 
 
 This post serves as a braindump of some of those conversations. 
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Consider the form factor of your physical award trophies. Can recipients get them through airport security? <a href="https://twitter.com/hashtag/CLS17?src=hash">#CLS17</a> <a href="https://twitter.com/sherrierohde">@sherrierohde</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/860872807449862145">May 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 Think about why you run events. 
 
 Is it for generating revenue for your product/community, to then spend in other places? Is it to create an environment of like-minded people to meet and network and create? 
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ROI on stickers. TLDR stickers good. <a href="https://twitter.com/hashtag/CLS17?src=hash">#CLS17</a> <a href="https://twitter.com/mbbroberg">@mbbroberg</a> <a href="https://t.co/XLDXkHKsJh">pic.twitter.com/XLDXkHKsJh</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/860879347556679680">May 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -31,7 +43,10 @@ More on stickers:
  * If you're creating hex stickers, [stick to the standard](http://hexb.in/sticker.html)
  * Choose automotive grade vinyl
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 T-shirts
 
@@ -46,7 +61,10 @@ T-shirts
  * Cotton Bureau [Blank](https://blank.cottonbureau.com/) might be interesting, watch this space
 
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 Running world class events
 
@@ -62,6 +80,9 @@ Running world class events
  
 
 
+
+redirect_from: /2017/05/09/community-leadership-summit-2017-wrap-up.html
 ---
+
 
 My entire tweet stream from [#cls17 is available on twitter](https://twitter.com/search?f=tweets&vertical=default&q=from%3Aglasnt%20%23cls17&src=typd)

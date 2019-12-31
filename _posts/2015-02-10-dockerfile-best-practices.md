@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Dockerfile Best Practices
+
+redirect_from: /2015/02/10/dockerfile-best-practices.html
 ---
+
 
 This needs it's own post: [Dockerfile Best Practices](http://crosbymichael.com/dockerfile-best-practices.html)
 

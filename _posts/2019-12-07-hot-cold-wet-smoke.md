@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Packing for anything: Hot, Cold, Wet, and Smoke."
+
+redirect_from: /2019/12/07/hot-cold-wet-smoke.html
 ---
+
 
 I travel a lot. Mostly for work, but sometimes for fun. 
 
@@ -39,6 +42,9 @@ Even if you're travelling where you don't think you'll need it. Even if you're s
 
 A mask packs down small, and can stay in your day back with that pocket poncho you got earlier.  Because if you do need one and you're travelling, everyone else will probably be looking for one too. So have one, just in case. 
 
+
+redirect_from: /2019/12/07/hot-cold-wet-smoke.html
 ---
+
 
 Stay safe, wherever you go <3

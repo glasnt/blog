@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ruby, Spaces, and String Interpolation
+
+redirect_from: /2015/05/15/ruby-spaces-and-string-interpolation.html
 ---
+
 
 And the tablets were passed down from high upon the mountain, <br>
 onto the waiting masses, where the decision as to the <br>

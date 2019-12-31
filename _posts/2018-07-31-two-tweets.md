@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Two tweets, a tale about opinions
+
+redirect_from: /2018/07/31/two-tweets.html
 ---
+
 
 In the last few days, I've tweeted a comment and a question, both of which received replies that have caused some problematic thoughts that I needed to get out of my head. 
 

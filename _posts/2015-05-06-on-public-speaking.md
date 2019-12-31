@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Public Speaking
+
+redirect_from: /2015/05/06/on-public-speaking.html
 ---
+
 
 I was recently lucky enough to have been able to participate in a day-long workshop with the amazing [Damien Conway](http://damian.conway.org/About_us/Bio_general.html) courtesy of [Yow!'s Women in Tech competition](http://yownights.yowconference.com.au/). 
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Travis for humans
+
+redirect_from: /2014/11/24/travis-for-humans.html
 ---
+
 
 A general note about the awesomeness of [Travis-CI](https://travis-ci.org). 
 

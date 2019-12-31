@@ -2,7 +2,10 @@
 layout: post
 title: On People being Incredible
 subtitle: 👏 👏
+
+redirect_from: /2016/03/03/on-people-being-incredible.html
 ---
+
 
 *Content warning: massive kudos.*
 
@@ -14,7 +17,10 @@ subtitle: 👏 👏
 
 Like all good tweet storms, I need to use a free-form blog with less character restrictions to explain myself better. 
 
+
+redirect_from: /2016/03/03/on-people-being-incredible.html
 ---
+
 
 I follow some amazing people on Twitter; people I've met in person, or accounts that are of interest to me. 
 
@@ -22,7 +28,10 @@ But recently, I've found that I've been in the middle of writing talks (currentl
 
 As with not directly referencing wikipedia, the resources I'm linked to via Twitter are the stem of, or the direct source, of information I use in presentations[1]. But during presentations I don't often acknowledge the people who send me off on these tangents, so here's that blog post. 
 
+
+redirect_from: /2016/03/03/on-people-being-incredible.html
 ---
+
 
 ### JavaScript
 
@@ -55,7 +64,10 @@ I follow some amazing people who make conferences happen. They are also awful pe
 
 And I absolutely love all of them for it. [Carina](twitter.com/cczona), [Vicky](https://twitter.com/vmbrasseur), [Josh](https://twitter.com/joshsimmons), [Russell](https://twitter.com/freakboy3742), [Chris](https://twitter.com/chrisjrn), [Jack](https://twitter.com/developerjack), [Ben](https://twitter.com/bendechrai), [Paul](https://twitter.com/pjf) - I hate you all &lt;3
 
+
+redirect_from: /2016/03/03/on-people-being-incredible.html
 ---
+
 
 I follow too many people, and so the flag at the top of this page is a note to say that I probably have forgotten someone, so this page will be updated to add more. If you're not listed on here, I still think you're incredible.
 

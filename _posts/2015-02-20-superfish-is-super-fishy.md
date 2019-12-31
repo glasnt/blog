@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Superfish is super fishy, alright
+
+redirect_from: /2015/02/20/superfish-is-super-fishy.html
 ---
+
 
 Update: Oh, and the [password has been cracked. FUN.](http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html)
 

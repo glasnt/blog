@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hacking up a Talk Recording
+
+redirect_from: /2015/06/20/hacking-up-a-talk-recording.html
 ---
+
 
 I'm always thankful when a conference is able to organise recording of their videos and release them shortly after a conference has ended, if not in real time. Companies like [Tim Videos](http://timvideos.us/) and [Next Day Video](http://nextdayvideo.com/) are brilliant at this. 
 

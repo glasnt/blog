@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Composer doesnt like semver? 
+
+redirect_from: /2014/11/23/Composer-doesnt-like-semver.html
 ---
+
 
 
 Task: get [color-extractor](https://github.com/thephpleague/color-extractor) demo code working. 

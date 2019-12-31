@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On memorable presentations
+
+redirect_from: /2016/07/17/on-memorable-presentations.html
 ---
+
 
 **Content warning: sarcasm and ranting**
 

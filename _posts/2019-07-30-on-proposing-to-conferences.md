@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On proposing to conferences
+
+redirect_from: /2019/07/30/on-proposing-to-conferences.html
 ---
+
 
 DevRel: _n._ those in Developer Relations. Titles range from Developer Advocate, Developer Evangelist, Developer Programs Engineer. 
 
@@ -68,6 +71,9 @@ We all want what is best for our communities.
 Let's have mutual empathy, and work towards the shared goal of continued learning and teaching. 
 
 
+
+redirect_from: /2019/07/30/on-proposing-to-conferences.html
 ---
+
 
 I'm glad we had this talk. 

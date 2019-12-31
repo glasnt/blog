@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Djangocontiki wrap-up
+
+redirect_from: /2017/09/03/djangocontiki-wrap-up.html
 ---
+
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I thought <a href="https://twitter.com/hashtag/djangocontiki?src=hash">#djangocontiki</a> was a cool term but then I saw the actual boat outside of the <a href="https://twitter.com/hashtag/pyconau?src=hash">#pyconau</a> venue ⚓ <a href="https://t.co/jPuxIxsk0m">pic.twitter.com/jPuxIxsk0m</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/895393207332126720">August 9, 2017</a></blockquote>

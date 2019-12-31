@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Puppet, Overrides, and AOE
+
+redirect_from: /2015/11/26/puppet-overrides-and-aoe.html
 ---
+
 
 A nice little titbit I picked up in regards to Puppet, overrides, and Area of Effect ([source](https://docs.puppetlabs.com/puppet/latest/reference/lang_defaults.html)):
 

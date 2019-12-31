@@ -1,7 +1,10 @@
 ---
 layout: post
 title: HTML5 Presentation Software
+
+redirect_from: /2014/11/20/html5-presentation-software.html
 ---
+
 
 I've been playing a little[0] with [projection](https://github.com/afcowie/projection) as a slides-engine, but after having used it a few times, I'm feeling a bit sad that it doesn't include nice things like.. speakernotes. Powerpoint totally has speaker notes. As does keynote. But given I'd be fired if I used either of those, or there associated operating systems, I went looking for something webbased. 
 

@@ -2,7 +2,10 @@
 layout: post
 title: On the live-tweeting of talks
 subtitle: 🐦
+
+redirect_from: /2015/10/13/on-the-live-tweeting-of-talks.html
 ---
+
 
 > "Are you ever not at a conference?" - twitter
 > 

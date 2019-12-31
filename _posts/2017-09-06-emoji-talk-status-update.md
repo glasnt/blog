@@ -2,7 +2,10 @@
 layout: post
 title: Emoji talk status update
 subtitle: So I've been speaking about emoji a lot...
+
+redirect_from: /2017/09/06/emoji-talk-status-update.html
 ---
+
 
 [*Now with postscript*](#postscript)
 

@@ -2,7 +2,10 @@
 layout: post
 title: Hacking the LCA Lanyard
 subtitle: Spoilers!
+
+redirect_from: /2016/02/07/hacking-the-lca-lanyard.html
 ---
+
 
 > Major Epic Spoilers
 >
@@ -311,7 +314,10 @@ And the product on the day.
 
 So what about that Haiku? Since LCA 2012 was in Ballart, it seems like that input just wasn't altered. It's the same in the lca2016 branch as well. If I had to go diving for that input, it'd be a much harder hack. However, that's where [social engineering](https://twitter.com/dtbell91/status/656680629656907776) could come in handy :)
 
+
+redirect_from: /2016/02/07/hacking-the-lca-lanyard.html
 ---
+
 Bare in mind that this is a software hack. There's always the option of hacking the hardware itself (i.e. just draw on it)
 
 <img src="https://pbs.twimg.com/media/CaRWkAWVIAA2wML.jpg">

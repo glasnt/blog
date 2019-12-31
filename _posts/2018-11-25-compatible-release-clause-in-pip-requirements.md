@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Compatible Release clause in Pip Requirements
+
+redirect_from: /2018/11/25/compatible-release-clause-in-pip-requirements.html
 ---
+
 
 TIL this exists. 
 

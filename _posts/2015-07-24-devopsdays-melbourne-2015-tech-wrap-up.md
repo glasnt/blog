@@ -1,7 +1,10 @@
 ---
 layout: post
 title: DevOpsDays Melbourne 2015 Tech Wrap Up
+
+redirect_from: /2015/07/24/devopsdays-melbourne-2015-tech-wrap-up.html
 ---
+
 
 A few of the key take aways from the two days: 
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "GitHub Actions: Event data, it exists!"
+
+redirect_from: /2019/09/10/github-actions-event-data.html
 ---
+
 
 With beta access to [GitHub Actions](https://github.com/features/actions) slowly being gained by the open source community, [BeeWare](https://beeware.org/) sought to try and migrate our [bespoke continuous integration system](https://youtu.be/bJmx0tcVubY?t=734) to Actions, for at least some of our smaller projects. 
 

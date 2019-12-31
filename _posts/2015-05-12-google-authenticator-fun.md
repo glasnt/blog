@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Google Authenticator fun
+
+redirect_from: /2015/05/12/google-authenticator-fun.html
 ---
+
 
 *Any methods of security avoidance or workarounds mentioned in this post are not supported by the author. Rooting your phone is a process you undertake at your own risk*
 

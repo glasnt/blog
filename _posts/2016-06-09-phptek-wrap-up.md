@@ -1,7 +1,10 @@
 ---
 layout: post
 title: php[tek] Wrap-up
+
+redirect_from: /2016/06/09/phptek-wrap-up.html
 ---
+
 
 In late May I was fortunate enough to be invited to speak at [php[tek]](https://tek.phparch.com), PHP's homecoming conference, held in St Louis, Missouri. 
 

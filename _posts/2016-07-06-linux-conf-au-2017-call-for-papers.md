@@ -1,7 +1,10 @@
 ---
 layout: post
 title: linux.conf.au 2017 call for papers
+
+redirect_from: /2016/07/06/linux-conf-au-2017-call-for-papers.html
 ---
+
 
 I've blogged a [few](http://glasnt.com/blog/2015/01/17/lca2015-wrap-up.html) different [times](http://glasnt.com/blog/2016/02/07/hacking-the-lca-lanyard.html) about linux.conf.au, or LCA. If you've read the posts you'll have a general understanding of what LCA is and how it's a little bit awesome. 
 

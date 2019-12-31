@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Duck Debugging
+
+redirect_from: /2014/11/27/duck-debugging.html
 ---
+
 
 If you're not across the concept of "Rubber Duck Debugging", I suggest you [brush up](http://blog.codinghorror.com/rubber-duck-problem-solving/) on your knowledge.
 

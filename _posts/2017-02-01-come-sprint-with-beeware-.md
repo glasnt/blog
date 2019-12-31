@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Come Sprint with BeeWare!
+
+redirect_from: /2017/02/01/come-sprint-with-beeware-.html
 ---
+
 
 **The tickets for PyCon US 2017 have been given away. We look forward to seeing everyone who can make it to the conference at Booth 103!**
 

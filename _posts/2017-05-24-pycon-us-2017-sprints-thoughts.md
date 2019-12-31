@@ -1,7 +1,10 @@
 ---
 layout: post
 title: PyCon US 2017 Sprints - thoughts
+
+redirect_from: /2017/05/24/pycon-us-2017-sprints-thoughts.html
 ---
+
 
 
 I don't normally live-blog -- heck, I'm still several wrap ups behind at this point -- but I thought I'd note down some thoughts live from the sprints, because I'm having an ... interesting day. 
@@ -20,7 +23,10 @@ Evening events are much enjoyed opportunities to quietly hang out. I had some mo
 
 People are slowly leaving. Making sure you can give them one last hug before they leave is a thing. It hurts to miss doing that. But most of us will see each other again soon, so we have that to look forward to. 
 
+
+redirect_from: /2017/05/24/pycon-us-2017-sprints-thoughts.html
 ---
+
 
 Also, all the talks have already [been published online](https://www.youtube.com/c/pycon2017). There are also lists of recommended talks appearing, including one from Lacey, [specifically for brushing up skills](https://www.laceyhenschel.com/blog/2017/5/24/pycon-2017-talks-to-brush-up-on-skills)
 

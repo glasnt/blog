@@ -1,7 +1,10 @@
 ---
 layout: post
 title: GitHub Pinned Repos
+
+redirect_from: /2016/06/17/github-pinned-repos.html
 ---
+
 
 
 ![pinned repos]({{site.BASE_PATH}}/assets/media/pinned_repos.png)

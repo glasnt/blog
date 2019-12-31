@@ -1,6 +1,9 @@
 ---
 layout: post
+
+redirect_from: /2009/07/06/handwriting.html
 ---
+
 
 How many people actually have ledgiable handwriting? How hard is it to be able to take a pen and be able to draw a series of symbols that another person can interpret and understand their meaning?
 

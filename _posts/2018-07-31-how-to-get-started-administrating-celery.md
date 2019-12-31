@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to get started administrating Celery
+
+redirect_from: /2018/07/31/how-to-get-started-administrating-celery.html
 ---
+
 
 *Normally my posts start with a story or a scoping, but I'm unable to create one of those today. So instead, you get rough notes. I apoligise for any confusion*
 

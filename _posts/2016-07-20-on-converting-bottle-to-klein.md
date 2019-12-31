@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On converting Bottle to Klein
+
+redirect_from: /2016/07/20/on-converting-bottle-to-klein.html
 ---
+
 
 In the python world, you can use micro-frameworks like [Bottle](https://github.com/Bottlepy/Bottle) and [Flask](https://github.com/pallets/Flask) to make small website without having to go full [Django](https://www.djangoproject.com)
 

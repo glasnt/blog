@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Solve for emoji
+
+redirect_from: /2016/08/06/solve-for-emoji.html
 ---
+
 
 # Solve for Emoji
 

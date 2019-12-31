@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Quick Tip: Ansible Library Debugging"
+
+redirect_from: /2018/10/31/quick-tip-ansible-library-debugging.html
 ---
+
 
 If you're in a pinch trying to work out why your Ansible library scripts aren't working, you may be somewhat displeased when you finally work out that `print()` doesn't work inline. 
 

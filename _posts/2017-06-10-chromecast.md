@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Streaming arbitrary content to Chromecast
+
+redirect_from: /2017/06/10/chromecast.html
 ---
+
 
 **This post contains information based on my own setup, and may not work for all environments. See footnotes**
 

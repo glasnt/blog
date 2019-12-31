@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Gosh, another year of public speaking
+
+redirect_from: /2018/10/27/gosh-another-year-of-public-speaking.html
 ---
+
 
 [Last time, on my Public Speaking summaries...](https://glasnt.com/blog/2017/10/28/yet-another-year-of-public-speaking.html)
 

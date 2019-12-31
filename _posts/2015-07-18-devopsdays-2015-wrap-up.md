@@ -1,7 +1,10 @@
 ---
 layout: post
 title: DevOpsDays Melbourne 2015 Wrap-Up
+
+redirect_from: /2015/07/18/devopsdays-2015-wrap-up.html
 ---
+
 
 Wow. 
 

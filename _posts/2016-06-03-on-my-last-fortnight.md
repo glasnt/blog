@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On my last fortnight
+
+redirect_from: /2016/06/03/on-my-last-fortnight.html
 ---
+
 
 I've had an incredible trip the last fortnight. Before I write up a technical overview of the conferences I went to, I thought I'd do a light recollection post.
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: PyCon AU 2015 Wrap Up
+
+redirect_from: /2015/08/04/pycon-au-2015-wrap-up.html
 ---
+
 
 So technically this isn't a wrap up, because there's still one day of Sprints to go, but that's what happens when you have a room full of power, internet, *ridiculously* smart people, and all the yaks in the world to shave. 
 

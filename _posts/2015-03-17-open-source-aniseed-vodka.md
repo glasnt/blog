@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Open Source Aniseed Vodka
+
+redirect_from: /2015/03/17/open-source-aniseed-vodka.html
 ---
+
 
 *A story relayed to me by Michael Widenius*
 

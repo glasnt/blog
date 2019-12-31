@@ -2,7 +2,13 @@
 layout: post
 title: Teaching infrastructure is hard.
 description: In which I have feelings about how automation hinders learning.
+
+redirect_from: /2019/11/01/teaching-infrastructure-is-hard.html
+
+redirect_from: /2019/11/01/teaching-infrastructure-is-hard.html
 ---
+
+
 
 Teaching code is relatively straight forward (in comparison). 
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On wearing the wrong t-shirt
+
+redirect_from: /2016/08/01/on-wearing-the-wrong-t-shirt.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I wore <a href="https://twitter.com/hashtag/djangocon?src=hash">#djangocon</a> and <a href="https://twitter.com/hashtag/pycon?src=hash">#pycon</a> shirts to <a href="https://twitter.com/hashtag/phptek?src=hash">#phptek</a> last week, and have done similar at other conferences. Blog post writeup pending.</p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/737649211345244164">May 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -29,6 +32,9 @@ And I've not gotten called up on it before. I've had slow claps, giggles and the
 
 And it's not just my wardrobe. There's more than a few Python developers with PHP framework stickers, and PHP developers with Python project stickers on their laptops.
 
+
+redirect_from: /2016/08/01/on-wearing-the-wrong-t-shirt.html
 ---
+
 
 If anyone has an Internet Explorer shirt, or a Microsoft Shirt, in a ladies XL, please let me know. [linux.conf.au](https://linux.conf.au) is coming up :)

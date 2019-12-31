@@ -1,7 +1,10 @@
 ---
 layout: post
 title: BuzzConf Wrap Up
+
+redirect_from: /2016/12/28/buzzconf-wrap-up.html
 ---
+
 
 `#haveyouheardaboutbuzzconf`?
 
@@ -37,6 +40,9 @@ Not only were there incredible talks, the workshops were also fun as well. I eve
 
 BuzzConf is an amazing family friendly tech festival that I encourage you to participate in next year. Even if camping is not your thing, just packing some warm clothes and cash for the food tents made for an amazing weekend of learning and fun. 
 
+
+redirect_from: /2016/12/28/buzzconf-wrap-up.html
 ---
+
 
 See my [entire tweet stream from BuzzConf 2016](https://twitter.com/search?f=tweets&vertical=default&q=buzzconf%20from%3Aglasnt%20since%3A2016-11-22%20until%3A2016-11-30&src=typd)

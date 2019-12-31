@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On multiple submissions
+
+redirect_from: /2015/07/04/on-multiple-submissions.html
 ---
+
 
 So around this time of year there are a heap of conference Call for Proposals out. 
 

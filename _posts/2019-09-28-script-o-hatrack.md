@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Script-o-hatrack
+
+redirect_from: /2019/09/28/script-o-hatrack.html
 ---
+
 
 The amount of work that [octohatrack](https://github.com/LABHR/octohatrack) does to manipulate the GitHub API to get a list of contributors to a repo is verbose compared to scripting hacks on the `git` cli. 
 
@@ -14,7 +17,10 @@ These scripts must be run within:
  * the cloned `git@github.com:django/django` directory, or 
  * `git -C path/to/django/django`.
 
+
+redirect_from: /2019/09/28/script-o-hatrack.html
 ---
+
 
 The formatting: 
 
@@ -24,7 +30,10 @@ The formatting:
 
 The `--pretty` [formats](https://git-scm.com/docs/pretty-formats) for Author Name and Author Email (noting that users who commit via GitHub can choose to hide their email, but their username can be parsed from the placeholder email), returning unique lisings sorted alphabetically ignoring case. 
 
+
+redirect_from: /2019/09/28/script-o-hatrack.html
 ---
+
 
 Results from this will only show the committers that have made it to master within the confines defined. It will not include: 
 

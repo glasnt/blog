@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On assumed knowledge
+
+redirect_from: /2016/10/12/on-assumed-knowledge.html
 ---
+
 
 > My big discovery from making an open offer to mentor open source contributors: How much knowledge that I take for granted isn’t widespread. [[1]](https://twitter.com/freakboy3742/status/786017538584956928)
 >

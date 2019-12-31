@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Kiwi PyCon 2015 Wrap Up
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chrisjrn">@chrisjrn</a> <a href="https://twitter.com/glasnt">@glasnt</a> Well, we are talking about contributions, to FLOSS.</p>&mdash; Tom Eastman (@tveastman) <a href="https://twitter.com/tveastman/status/640013338911490048">September 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,7 +18,10 @@ The community around Python is amazing, and I was stoked to be accepted to prese
 
 ### Talks of Note
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **How to think like a non-programmer - Katie Bell**
 
@@ -29,25 +35,37 @@ One outstanding audience suggestion was to use the 'atom model' to teach kids ab
 
 This model could be used for teaching children the concepts of programming - building layers and sometimes replacing concepts with more well formed versions in order to create a richer understanding of the problem place, without just throwing vim at them and saying "Have at it".
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **Connascence in Python - Thomi Richards**
 
 Connascence is the taxonomy of coupling. Strength is static, locality and degree are code base independent. Check out http://connascence.io/ for more concepts
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **A practical guide to web security - Jeremy Stott**
 
 Another one for video, if only for his amazing slides.
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **Python in Classrooms - Martin Henschke, Eloise "Ducky" Macdonald-Meyer**
 
 "There is a culture of devaluing education, and that makes me sad." - @ducky_tape
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **Why Python is awesome – and some other languages are cool too - Lee Symes**
 
@@ -55,7 +73,10 @@ Another one for video, if only for his amazing slides.
 
 This was Lee's first talk ever, and she was absolutely brilliant. Seeing the issues with legacy systems through her eyes is one thing, but Lee actually presented reasonable alternatives to the issues that roadblock a lot of new developers. Also, her comparison of packaging systems in Python to say the npm was incredibly brave. I literally don't think I'd have the courage to say such things, but she did :)
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 **Effective Learning - Allison Kaptur**
 
@@ -63,7 +84,10 @@ This was yet another brilliant keynote for the conference. The conceptualisation
 
 "Why can't we identify that we could improve ourselves to the point of being as good as those who we idolise?"
 
+
+redirect_from: /2015/09/10/kiwi-pycon-2015-wrap-up.html
 ---
+
 
 Videos are being uploaded to the [NZ PUG](https://www.youtube.com/channel/UCJ_gIPLffA7ZTYc5gOV6MgA) account
 

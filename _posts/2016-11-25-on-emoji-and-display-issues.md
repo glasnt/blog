@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On emoji and display issues
+
+redirect_from: /2016/11/25/on-emoji-and-display-issues.html
 ---
+
 
 For the last few months I've been travelling about and doing a talk on emoji at various conferences. 
 

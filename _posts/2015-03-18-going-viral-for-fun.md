@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Going Viral for Fun, Not Profit
+
+redirect_from: /2015/03/18/going-viral-for-fun.html
 ---
+
 
 Update: The video for this talk is [now available](https://www.youtube.com/watch?t=346&v=ZCwbILP_drA)
 

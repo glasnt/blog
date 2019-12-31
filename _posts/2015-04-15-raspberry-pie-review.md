@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Raspberry Pie - Review
+
+redirect_from: /2015/04/15/raspberry-pie-review.html
 ---
+
 
 Over the Easter long weekend, I was lucky enough to get my hands on a raspberry. A few in fact. Here is my review: 
 

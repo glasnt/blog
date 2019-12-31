@@ -2,7 +2,10 @@
 layout: post
 title: On Brainstorming and Crayons
 subtitle: Scribble scribble scribble...
+
+redirect_from: /2015/10/19/on-brainstorming-and-crayons.html
 ---
+
 
 > TFW you yo-yo between not having enough to talk about and having too much to talk about for an upcoming presentation?
 > 

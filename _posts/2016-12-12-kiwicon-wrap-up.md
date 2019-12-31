@@ -1,7 +1,10 @@
 ---
 layout: post
 title: kiwicon Wrap Up
+
+redirect_from: /2016/12/12/kiwicon-wrap-up.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/kiwicon?src=hash">#kiwicon</a> <a href="https://t.co/QY2ixbEmsJ">pic.twitter.com/QY2ixbEmsJ</a></p>&mdash; Katie McLaughlin ✨ (@glasnt) <a href="https://twitter.com/glasnt/status/798984176980533248">November 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -2,7 +2,10 @@
 layout: post
 title: Goodbye, octohat
 subtitle: Hello octohatrack
+
+redirect_from: /2015/11/21/goodbye-octohat.html
 ---
+
 
 So I've been working on this project called octohat for a few months now. For those who haven't heard my spiel, based on the wonderful work [Leslie Hawthorn](hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/) started with the `#LABHR` project, octohat crawls a GitHub repo and provides a full list of code contributors -- people who have committed code into master -- and non-code contributors -- everyone else who's interacted with the repo.
 

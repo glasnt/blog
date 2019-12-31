@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Testing SMTP message creation locally
+
+redirect_from: /2015/05/04/testing-smtp-message-creation-locally.html
 ---
+
 
 Testing SMTP can be a pain. However, I found that [MailCatcher](http://mailcatcher.me/) is a pretty great tool for testing SMTP messages locally and quicker than waiting for real messages to arrive. 
 

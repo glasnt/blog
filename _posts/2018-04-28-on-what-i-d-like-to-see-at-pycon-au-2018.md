@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On what I'd like to see at PyCon AU 2018
+
+redirect_from: /2018/04/28/on-what-i-d-like-to-see-at-pycon-au-2018.html
 ---
+
 
 The [Call For Proposals for PyCon AU 2018](https://2018.pycon-au.org/speak/) is open right now, closing May 28, 2018.
 
@@ -31,7 +34,10 @@ An absolute pet topic of mine, I'd love to see more Wats around the place: thing
 
 F-Strings, mypy, 3.7, all the new shiny stuff that some of us haven't heard of -- if you have been playing around (or helping to develop!) these new functions, I want to hear all about it. 
 
+
+redirect_from: /2018/04/28/on-what-i-d-like-to-see-at-pycon-au-2018.html
 ---
+
 
 **Important Note**: These are topics that I would like to see *as an attendee*. I am an organiser of PyCon AU, but I am not a voting member of the review group. These are helpful suggestions rather than fast-lane tickets to the stage. 
 

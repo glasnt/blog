@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On El Capitan Niggles
+
+redirect_from: /2016/07/04/on-el-capitan-niggles.html
 ---
+
 
 *note: I currently use OSX on my work machine, and because buildchains, I'm a few months late in upgrading. So I didn't have to live through the apparent patching and repatching of El Cap. But as a late adopter, this should have "just worked", right?*
 

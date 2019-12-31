@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Quick Tip: Advanced Workflow Hacks with CircleCI"
+
+redirect_from: /2018/11/09/quick-tip-advanced-workflow-hacks-with-circleci.html
 ---
+
 
 
 The two major Continuous Integration services I use a the moment are [TravisCI](https://travis-ci.org/) and [CircleCI](https://circleci.com). They both have features that are very useful (Travis are spinning up [Windows build hosts](https://blog.travis-ci.com/2018-10-11-windows-early-release)! So cool!), but there is one major difference that perplexed me at first: Travis has a [build matrix](https://docs.travis-ci.com/user/customizing-the-build/#build-matrix), but CircleCI doesn't. 

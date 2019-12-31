@@ -1,7 +1,10 @@
 ---
 layout: post
 title: DjangoCon Europe 2016
+
+redirect_from: /2016/04/03/djangocon-europe.html
 ---
+
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

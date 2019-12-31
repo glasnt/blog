@@ -2,7 +2,10 @@
 layout: post
 title: A tale of three confs
 subtitle: I had a *very* busy week
+
+redirect_from: /2015/09/11/a-tale-of-three-confs.html
 ---
+
 
 
 So you may have noticed that I had three conference wrap-up posts yesterday. 

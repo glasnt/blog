@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Contempt Culture
+
+redirect_from: /2015/12/16/on-contempt-culture.html
 ---
+
 
 Recently [Aurynn Shaw](https://twitter.com/aurynn) wrote about [Contempt Culture](http://blog.aurynn.com/86/contempt-culture), and she makes some extremely important points. I implore you to go read the entire thing, and then come back here.
 

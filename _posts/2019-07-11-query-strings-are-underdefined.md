@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Query Strings are underdefined
+
+redirect_from: /2019/07/11/query-strings-are-underdefined.html
 ---
+
 
 Far too many moons ago in early 2015, in one of the first talks I ever gave[0], in between talking about a web-based data visualistation I built from scratch, I had a bit of a rant about query strings. 
 
@@ -95,11 +98,17 @@ In the recording I did mention that I was going to start looking changing the ba
 
 I also had issues where different part of my stack had different limits as to how long a URI could be. Rails development mode has a default limit of 1024 characters, while nginx has 4096; but these settings can be changed. 
 
+
+redirect_from: /2019/07/11/query-strings-are-underdefined.html
 ---
+
 
 ~~ feels inbound ~~
 
+
+redirect_from: /2019/07/11/query-strings-are-underdefined.html
 ---
+
 
 ## Reflection
 

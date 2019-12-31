@@ -2,7 +2,10 @@
 layout: post
 title: On Family Tech Support
 subtitle: "No, grandpa, double click!"
+
+redirect_from: /2016/01/03/on-family-tech-support.html
 ---
+
 
 > Family tech support services seasonal discount: malware removed and Chrome installed the low price of a cup of tea and Christmas cake.
 > 

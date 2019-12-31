@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On audible notification of long running commands
+
+redirect_from: /2018/09/17/on-audible-notification-of-long-running-commands.html
 ---
+
 
 I often find that while doing sysadmin-based development tasks (like building AMIs with Packer, this last week), that if I have a command that runs for minutes that I'm running often, I'd love to have a notification when the command is done. If I'm focussed in another window, or even if I'm making myself a cup of tea while wearing my bluetooth headphones, having an audible notification works well for me. 
 

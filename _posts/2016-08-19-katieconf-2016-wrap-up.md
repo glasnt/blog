@@ -1,7 +1,10 @@
 ---
 layout: post
 title: KatieConf 2016 Wrap up
+
+redirect_from: /2016/08/19/katieconf-2016-wrap-up.html
 ---
+
 
 *This post serves as an accompaniment to my [lightning talk from PyCon AU 2016](https://www.youtube.com/watch?v=xJ1-QdatS9Q&feature=youtu.be&t=1680)*
 

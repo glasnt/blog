@@ -1,7 +1,10 @@
 ---
 layout: post
 title: PyCon AU 2016 Wrap Up
+
+redirect_from: /2016/08/15/pycon-au-2016-wrap-up.html
 ---
+
 
 [(See my PyCon AU 2015 Wrapup Post)](http://glasnt.com/blog/2015/08/04/pycon-au-2015-wrap-up.html))
 

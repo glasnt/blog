@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Legacy DevOps
+
+redirect_from: /2015/05/30/legacy-devops.html
 ---
+
 
 
  > [@joshsimmons](https://twitter.com/joshsimmons/status/566770904483368960) Perl folk, I'm prepping a talk: Becoming a Web Dev. Why might a newbie go Perl? TY! context [https://t.co/4NdlUCBUAL](https://t.co/4NdlUCBUAL)
@@ -10,7 +13,10 @@ title: Legacy DevOps
  >
  > [@joshsimmons](https://twitter.com/joshsimmons/status/566774855282880514) @glasnt Ah ha! Exactly what I was looking for, thank you :-)
 
+
+redirect_from: /2015/05/30/legacy-devops.html
 ---
+
 
 This conversation is a few months old now, but it was the seed of what I'm calling "Legacy DevOps". The old rhetoric that COBOL and FORTRAN programmers will always have work trying to keep critical systems online is not as unfamiliar to me any more. 
 
@@ -18,13 +24,19 @@ In the last week I've updates process that interface with a [16 year old monitor
 
 But here's the pinch: we're coming to a point where *Perl* is legacy. Yes yes, I'm sure Python programmers already know, and joke, about this; but how long until Python code becomes synonymous with Legacy? Ask a node.js developer, I'm sure they'll tell you that time is now. 
 
+
+redirect_from: /2015/05/30/legacy-devops.html
 ---
+
 
 ![lisp]({{site.BASE_PATH}}/assets/media/lisp_cycles.png)
 
 _I've just received word that the Emperor has dissolved the MIT computer science program permanently._ - [xkcd #297 "Lisp Cycles"](http://xkcd.com/297/)
 
+
+redirect_from: /2015/05/30/legacy-devops.html
 ---
+
 
 I've programmed in Lisp before. Not only academically, but in the work place. And I'm not that old. (Hush you.) But it just stands that systems and the languages they are coded upon come and go. But some don't go, and then you get legacy systems. 
 

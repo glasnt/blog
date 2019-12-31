@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On stickers and finite reality
+
+redirect_from: /2015/08/10/on-stickers-and-finite-reality.html
 ---
+
 
 I love stickers. 
 

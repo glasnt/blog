@@ -1,7 +1,10 @@
 ---
 layout: post
 title: LCA 2015 Diversity Funding
+
+redirect_from: /2014/11/26/lca-2015-diversity-funding.html
 ---
+
 
 Linux Conf in 2015 is going to be a blast, but if you can't make it, and need some help funding, then you might be interested in the below press release about the Diversity Fund initiative. Check out the website for more details.
 

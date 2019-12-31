@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On Collecting No's
+
+redirect_from: /2017/04/11/on-collecting-nos.html
 ---
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Frequent conference speakers: We all should start doing this. Help show new presenters that even seasoned pros get rejected. And it&#39;s OK. <a href="https://t.co/hOL7zfyiUU">https://t.co/hOL7zfyiUU</a></p>&mdash; VM (Vicky) Brasseur (@vmbrasseur) <a href="https://twitter.com/vmbrasseur/status/851590284068519937">April 11, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

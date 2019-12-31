@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On xargs and deprecated flags
+
+redirect_from: /2016/05/13/on-xargs-and-deprecated-flags.html
 ---
+
 
 Having a long-lived CLI means that there is some functionality that's going to change over time. One of these is usually flag changes.
 

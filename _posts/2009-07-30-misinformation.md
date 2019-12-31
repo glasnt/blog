@@ -1,7 +1,10 @@
 ---
 title: Misinformation
 layout: post
+
+redirect_from: /2009/07/30/misinformation.html
 ---
+
 
 Over the last few days, a great number of people have passed away. If you believe twitter, then Farrah Fawcett, Michael Jackson, Jeff Goldblum and many other big name stars have left this earth.
 

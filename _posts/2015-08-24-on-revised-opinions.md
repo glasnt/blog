@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On revised opinions
+
+redirect_from: /2015/08/24/on-revised-opinions.html
 ---
+
 
 
 A [wise man](https://twitter.com/developerjack) once said, "An opinion is time and context bound".

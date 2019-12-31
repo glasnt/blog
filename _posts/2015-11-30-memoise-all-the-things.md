@@ -2,7 +2,10 @@
 layout: post
 title: Memoise All The Things
 subtitle: On python caching strategies
+
+redirect_from: /2015/11/30/memoise-all-the-things.html
 ---
+
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/glasnt">@glasnt</a> Memoise all the things</p>&mdash; contraurynnian (@aurynn) <a href="https://twitter.com/aurynn/status/670742232526249984">November 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

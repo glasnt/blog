@@ -1,7 +1,10 @@
 ---
 layout: post
 title: InfluxDB and Nulls
+
+redirect_from: /2015/05/08/influxdb-and-nulls.html
 ---
+
 
 I asked a question on StackOverflow yesterday, but I ended up working out the answer myself, and it was a little weird. 
 

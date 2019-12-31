@@ -2,7 +2,10 @@
 layout: post
 title: Half a decade of public speaking
 description: The fifth in a series of summaries of my year of giving conference talks.
+
+redirect_from: /2019/11/04/half-a-decade-of-public-speaking.html
 ---
+
 
 Previous articles: [2015](https://glasnt.com/blog/2015/11/04/a-year-of-public-speaking.html), [2016](https://glasnt.com/blog/2016/10/24/another-year-of-public-speaking.html), [2017](https://glasnt.com/blog/2017/10/28/yet-another-year-of-public-speaking.html), [2018](https://glasnt.com/blog/2018/10/27/gosh-another-year-of-public-speaking.html)
 
@@ -10,11 +13,17 @@ Last time on Public Speaking Summaries:
 
 > I am looking forward to a break coming up soon. It’s sorely needed. 
 
+
+redirect_from: /2019/11/04/half-a-decade-of-public-speaking.html
 ---
+
 
 Five years ago today I gave my first conference presentation. 
 
+
+redirect_from: /2019/11/04/half-a-decade-of-public-speaking.html
 ---
+
 
 > Talk 81, Being kind to 3am you, Christchurch, NZ, Jan 2019
 > 

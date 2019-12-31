@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Emoji Bookmarks
+
+redirect_from: /2018/05/11/emoji-bookmarks.html
 ---
+
 
 
 I find that the longer I'm on a laptop, the more customised I make it. 

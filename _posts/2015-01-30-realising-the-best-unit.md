@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Realising the best unit
+
+redirect_from: /2015/01/30/realising-the-best-unit.html
 ---
+
 
 
 Sometimes, you want to visualise things, but you get a weird unit and a less than ideal number. 100000 bytes? What does that even mean in "human" terms?

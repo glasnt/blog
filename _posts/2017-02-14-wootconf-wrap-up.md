@@ -1,7 +1,10 @@
 ---
 layout: post
 title: WOOTConf Wrap up
+
+redirect_from: /2017/02/14/wootconf-wrap-up.html
 ---
+
 
 The WOOTConf 2017 Wrap Up article that would normally be here is over on OpenSource.org!
 

@@ -1,7 +1,10 @@
 ---
 title: Teacher says - No software is free
 layout: post
+
+redirect_from: /2009/12/11/teacher-says-no-software-is-free.html
 ---
+
 
 A teacher from an undisclosed school has threatened legal action against the HeliOS Project, a distribution of Linux, after a student of hers tried to distribute copies of the OS on discs to his classmates. [The full letter can be found here.](http://linuxlock.blogspot.com.au/2008/12/linux-stop-holding-our-kids-back.html)
 

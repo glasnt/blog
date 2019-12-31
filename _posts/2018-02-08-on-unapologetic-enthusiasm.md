@@ -1,7 +1,10 @@
 ---
 layout: post
 title: On unapologetic enthusiasm
+
+redirect_from: /2018/02/08/on-unapologetic-enthusiasm.html
 ---
+
 
 **Content warning: mental health, mild descriptions of abuse**
 

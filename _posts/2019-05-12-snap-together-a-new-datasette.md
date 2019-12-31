@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Snap together a new datasette
+
+redirect_from: /2019/05/12/snap-together-a-new-datasette.html
 ---
+
 
 **TL;DR**:
 ```shell
@@ -11,7 +14,10 @@ datasette serve SQLITE_DB.db
 ```
 lets you introspect a JSON file in datasette, like magic ✨🎩✨
 
+
+redirect_from: /2019/05/12/snap-together-a-new-datasette.html
 ---
+
 
 [Simon Willison](https://twitter.com/simonw) gave a wonderful talk at PyCon US 2019 entitled [Instant serverless APIs, powered by SQLite](https://www.youtube.com/watch?v=pTr1uLQTJNE), where he demonstrated taking SQLite databases and visualising them with his project [datasette](https://github.com/simonw/datasette). 
 
