@@ -31,16 +31,20 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <!-- Twitter Cards! -->
+    <!-- social media cards -->
     <meta name="twitter:site" content="@glasnt" />
     <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="og:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{%if page.description%}{{page.description}}{%else%}{{ page.content | strip_html | truncate: 100 }}{%endif%}" />
+    <meta name="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
     {% if page.card %}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="https://cards-hkkw5geraq-uc.a.run.app/blog{{page.id}}.png" />
+    <meta name="og:image" content="https://cards-hkkw5geraq-uc.a.run.app/blog{{page.id}}.png" />
     {% else %}
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
+    <meta name="og:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
     {% endif %}
     {% if site.google_analytics %}
     <!-- Asynchronous Google Analytics snippet -->
