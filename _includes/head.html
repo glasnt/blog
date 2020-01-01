@@ -37,7 +37,7 @@
     <meta name="twitter:description" content="{%if page.description%}{{page.description}}{%else%}{{ page.content | strip_html | truncate: 100 }}{%endif%}" />
     {% if page.card %}
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="{% if page.card%}{{page.card}}{%else%}http://glasnt.com/blog/img/header-thumbnail.png{%endif%}" />
+    <meta name="twitter:image" content="https://cards-hkkw5geraq-uc.a.run.app/blog{{page.id}}.png" />
     {% else %}
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:image" content="http://glasnt.com/blog/img/header-thumbnail.png" />
