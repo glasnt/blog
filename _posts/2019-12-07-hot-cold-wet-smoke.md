@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Packing for anything: Hot, Cold, Wet, and Smoke."
-card: true
 redirect_from: /2019/12/07/hot-cold-wet-smoke.html
 ---
 

@@ -4,6 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <meta name="og:description" content="{{ site.description }}">
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -37,7 +38,7 @@
     <meta name="og:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{%if page.description%}{{page.description}}{%else%}{{ page.content | strip_html | truncate: 100 }}{%endif%}" />
     <meta name="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
-    {% if page.card %}
+    {% if page.layout == "post" %}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="https://cards-hkkw5geraq-uc.a.run.app/blog{{page.id}}.png" />
     <meta name="og:image" content="https://cards-hkkw5geraq-uc.a.run.app/blog{{page.id}}.png" />
