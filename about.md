@@ -105,10 +105,12 @@ DjangoCon Europe
  - 2018
    - Paper Reviewer
    - Session Chair
-   - Co-Lightning talk Host (one session)
+   - Co-Lightning talk Host
 
 DjangoCon US
 
+ - 2019
+   - Deep Dive Track MC
  - 2018
    - Mentor
    - Session Chair
@@ -166,6 +168,11 @@ PurpleCon
  - 2018
    - Volunteer
 
+PyCascades
+
+ - 2020
+   - Speaker Mentor
+
 PyCon AU
 
  - 2019
@@ -186,6 +193,8 @@ PyCon AU
 
 PyCon US
 
+ - 2020
+   - Proposal Mentor
  - 2019
    - PyLadies Auction - Guest Auctioneer
    - BeeWare Booth Co-organiser
