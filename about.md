@@ -2,7 +2,7 @@
 layout: page 
 title: "About" 
 description: "Oh hi!" 
-header-img: "img/about-bg.jpg" 
+header-img: "../img/about-bg.jpg" 
 ---
 
 <style>.row a{text-decoration: underline !important}</style>
