@@ -1,3 +1,3 @@
-[glasnt's blog](http://glasnt.com/blog)
+# blog
 
-jekyll powered, github hosted. 
+[jekyll](https://jekyllrb.com/), [myrtle](https://github.com/glasnt/myrtle) theme.
