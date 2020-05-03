@@ -7,9 +7,9 @@ header-img: "../img/about-bg.jpg"
 
 <style>.row a{text-decoration: underline !important}</style>
 
-## TLDR
+## TL;DR:
 
-[International Keynote Speaker](https://tw.pycon.org/2018/en-us/events/keynotes/). [PSF Fellow](https://www.python.org/psf/members/#fellows). [Award-winning writer](https://opensource.com/article/19/2/community-awards-2019). `cat` Lady. Adorkable. Verifiable Cutie. 
+[International Keynote Speaker](https://tw.pycon.org/2018/en-us/events/keynotes/). [PSF Fellow](https://www.python.org/psf/members/#fellows). [Award-winning writer](https://opensource.com/article/19/2/community-awards-2019). Adorkable.
 
 ## Speaker Bio
 
@@ -23,6 +23,8 @@ header-img: "../img/about-bg.jpg"
 > [cooking](https://twitter.com/glasnt/status/698302985806327808), [making
 > tapestries](https://twitter.com/jairtrejo/status/866164545303203842),
 > and seeing just how well various application stacks handle emoji.
+
+<small>*[Photo](https://glasnt.com/katie.png), photographer [@HelloMelanieC](https://twitter.com/HelloMelanieC), taken at DjangoCon US 2018*</small>
 
 ------------------------------------------------------------------------
 
@@ -233,8 +235,13 @@ What does 'glasnt' mean?
 > see how far down the rabbit hole goes...
 >
 > -- thicknavyrain, [xkcd
-> forums](http://forums.xkcd.com/viewtopic.php?p=2459622&sid=d80eabca0b4c6d72037037def2bb8ad3#p2459622)
+> forums](http://web.archive.org/web/20170821022213/http://forums.xkcd.com/viewtopic.php?p=2459622#p2459622)
  
+No really, what does "glasnt" mean?
+
+*It was a word that came up on my Nokia 3310's predictive text, when I entered in the last 6 digits of my (now defunct) mobile number. It wasn't used anywhere on the internet at the time, so I used it as my handle when during the early GMail beta (2004), and [the rest is history](https://glasnt.com/blog/feelings-about-unique-usernames-on-the-internet). In it's original numeric form cast as a hexcode, it's a [very pretty colour of deep purple](https://www.google.com/search?&q=%23452768).*
+
+
 
 ------------------------------------------------------------------------
 <sub>Header image by [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/)</sub>
