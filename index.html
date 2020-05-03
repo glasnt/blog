@@ -1,9 +1,8 @@
 ---
 layout: page
-description: musings
+description: in which glasnt has thoughts
 ---
-
-{% for post in paginator.posts %}
+{% for post in site.posts limit:10  %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">{{ post.title }}</h2>
@@ -16,18 +15,7 @@ description: musings
 <hr>
 {% endfor %}
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+<a href="/archive">Archive</a>
+    </div>
+  </div>
+</div>
