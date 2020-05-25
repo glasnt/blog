@@ -1,6 +1,6 @@
 remote_theme: glasnt/myrtle
 base_url: /blog
-BASEPATH: /blog
+BASE_PATH: /blog
 
 permalink: "/:title" #:categories/:year/:month/:day/:title.html"
 
