@@ -1,4 +1,5 @@
 from pathlib import Path, PurePath
+import sys
 import click
 import imgkit
 import markdown
@@ -22,7 +23,7 @@ with open(f"{templates}/card.html") as f:
     t = Template(f.read())
 
 def process(post, png):
-    print(post)
+    print(f"Generating card: {post}")
     md = markdown.Markdown(extensions=['meta'])
     with open(post) as f:
         _ = md.convert(f.read())
@@ -35,23 +36,34 @@ def process(post, png):
         width=WIDTH, 
     )
     img = imgkit.from_string(render, png, options={"width": WIDTH, "quiet": ""})
-    print(f"Generated {png}")
+    return (f"Generated {png}")
 
 @click.command()
 @click.option('-i', '--input-folder', default="_posts", help='Output folder')
 @click.option('-o', '--output-folder', default=cards_folder, help='Output folder')
 @click.option('-r', '--refresh', is_flag=True, default=False, help="Force refresh")
-def main(input_folder, output_folder, refresh):
+@click.option('-q', '--quiet', is_flag=True, default=False, help="quiet")
+def main(input_folder, output_folder, refresh, quiet):
+    changes = False
     for post in Path(input_folder).glob("*.md"):
         png = generate_fn(post, output_folder)
         if refresh:
-            process(post, png)
+            resp = process(post, png)
+            if not quiet:
+                print(resp)
         else:
             if Path(png).exists():
-                print(f"Skipping {png}; exists.")
+                if not quiet: 
+                    print(f"Skipping {png}; exists.")
             else:
-                process(post, png)
-
+                resp = process(post, png)
+                changes = True
+                if not quiet:
+                    print(resp)
+    if changes:
+        print("New card made. Make sure you commit it! TODO(glasnt): make this script do that for you")
+        sys.exit(1)
+    
 if __name__ == '__main__':
     main()
 
