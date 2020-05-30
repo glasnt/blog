@@ -42,7 +42,7 @@ def process(post, png):
 @click.option('-o', '--output-folder', default=cards_folder, help='Output folder')
 @click.option('-r', '--refresh', is_flag=True, default=False, help="Force refresh")
 def main(input_folder, output_folder, refresh):
-    for post in Path(input_folder).glob("2020-*.md"):
+    for post in Path(input_folder).glob("*.md"):
         png = generate_fn(post, output_folder)
         if refresh:
             process(post, png)
