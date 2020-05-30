@@ -8,6 +8,7 @@ plugins:
 
 header-img: "../img/header_image.jpg"
 base_author: "Katie McLaughlin"
+cardfolder: "/assets/cards"
 
 future: true
 timezone: "Australia/Sydney"

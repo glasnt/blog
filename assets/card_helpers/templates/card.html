@@ -1,0 +1,14 @@
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+<style>
+.background {background-image: url("{{ background }}"); height: {{height}}px; width: {{width}}px; position: relative; padding: 0}
+.title, .tagline { color: white; font-family: "Bitter"; padding: 10px; }
+.title { font-size: 48px; padding-top: 148px; padding-left: 20px; font-weight: 700; letter-spacing: 3px }
+.tagline { position:absolute; right: 0; bottom: 0; font-size: 28px; }
+.tagline::after { content: "glasnt.com/blog"}
+body { margin: 0}
+</style>
+
+<div class="background">
+<div class="title">{{title | safe}}</div>
+<div class="tagline">
+</div>
