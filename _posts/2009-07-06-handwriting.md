@@ -1,4 +1,5 @@
 ---
+title: Handwriting
 layout: post
 
 redirect_from: /2009/07/06/handwriting.html

@@ -47,7 +47,7 @@ def main(input_folder, output_folder, refresh):
         if refresh:
             process(post, png)
         else:
-            if Path(png).exists:
+            if Path(png).exists():
                 print(f"Skipping {png}; exists.")
             else:
                 process(post, png)
