@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generate a pseudorandom string in your terminal
+title: "Generating a pseudorandom string: the what and the how"
 ---
 
 
