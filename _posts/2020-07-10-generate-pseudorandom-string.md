@@ -7,7 +7,7 @@ title: "Generating a pseudorandom string: the what and the how"
 In a macOS/Linux environment, the following command will generate a randomish 30-character long string: 
 
 ```shell
-cat /dev/urandom|LC_ALL=C tr -dc '[:alpha:]'| fold -w 30 | head -n1
+cat /dev/urandom | LC_ALL=C tr -dc '[:alpha:]' | fold -w 30 | head -n1
 ```
 
 But just what is all this doing? And how is it doing it?
