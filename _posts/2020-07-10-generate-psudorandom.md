@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post
 title: Generate a psudo-random string in your terminal
 ---
 
