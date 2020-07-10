@@ -10,7 +10,7 @@ In a macOS/Linux environment, the following command will generate a randomish 30
 cat /dev/urandom|LC_ALL=C tr -dc '[:alpha:]'| fold -w 30 | head -n1
 ```
 
-But just what is all this doing? And why?
+But just what is all this doing? And how is it doing it?
 
 ## What is this command for?
 
