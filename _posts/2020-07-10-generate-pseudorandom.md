@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generate a psudo-random string in your terminal
+title: Generate a pseudorandom string in your terminal
 ---
 
 
@@ -41,11 +41,11 @@ Another of the fundamental concepts of UNIX is "Everything is a file.". When you
 > /dev/urandom is the preferred source of cryptographic randomness on UNIX-like systems.
  - Thomas Hühn, [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/)
 
-urandom is a special file that serve as psudo-random number generators. This is an important term -- **psudo**random -- as this output isn't truly random, since it starts from known seed values. [Hühn's article](https://www.2uo.de/myths-about-urandom/#estimate) describes this in more detail.
+urandom is a special file that serve as pseudorandom number generators. This is an important term -- **pseudo**random -- as this output isn't truly random, since it starts from known seed values. [Hühn's article](https://www.2uo.de/myths-about-urandom/#estimate) describes this in more detail.
 
 However, for the purposes of generating a seemingly random sequences of characters, this is a good place to start. 
 
-However, do not just concatenate the contents of urandom to stdout. It is infinite, and full of unprintable characters. The output a psudo-random sequence of bytes, only a subset of which are valid Unicode characters. Your terminal will interpret these in strange ways, with replacement characters and other not-very-pleasent-looking output. Which is where the next part comes in. 
+However, do not just concatenate the contents of urandom to stdout. It is infinite, and full of unprintable characters. The output a pseudorandom sequence of bytes, only a subset of which are valid Unicode characters. Your terminal will interpret these in strange ways, with replacement characters and other not-very-pleasent-looking output. Which is where the next part comes in. 
 
 ### `tr`
 
