@@ -7,7 +7,7 @@ header-img: ../img/archive-bg.jpg
 <div class="container">
 {%for post in site.posts %}
   <div class="row">
-    <div class="col-lg-2">{{ post.date | date:"%Y-%m-%d" }}</div>
+    <div class="col-lg-2">{{ post.date | date: "%B %-d, %Y" }}</div>
     <div class="col-lg-10"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
  </div>
 {% endfor %}
