@@ -27,7 +27,7 @@ But here's the pinch: we're coming to a point where *Perl* is legacy. Yes yes, I
 ---
 
 
-![lisp]({{site.BASE_PATH}}/assets/media/lisp_cycles.png)
+![lisp]({{site.media}}/lisp_cycles.png)
 
 _I've just received word that the Emperor has dissolved the MIT computer science program permanently._ - [xkcd #297 "Lisp Cycles"](http://xkcd.com/297/)
 

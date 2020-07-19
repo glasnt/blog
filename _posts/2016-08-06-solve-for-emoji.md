@@ -47,7 +47,7 @@ The observed JavaScript manipulations in the comment field is:
   * when more characters are entered, filter the selections
   * once the string is completed with another `:`, if it's an available emoji, *replace the full colon-delimited text with the emoji selected*
 
-![github comments]({{site.BASE_PATH}}/assets/media/sparkles.png)
+![github comments]({{site.media}}/sparkles.png)
 
 At this point, the string is raw Unicode. The emoji character uses the operating system default representation, and the string is able to be copy-pasted into other applications.
 
@@ -67,7 +67,7 @@ For example, [iOS 5.0](http://emojipedia.org/apple/ios-5.0/) supports "emoji" in
 
 The same Unicode version support updates with Android. Unlike Apple, the emoji representations in Android vary *greatly* between versions. Starting out with black and white emoji in [Android 4.3](http://emojipedia.org/google/android-4.3/), the implementations in [Android 4.4](http://emojipedia.org/google/android-4.4/) were.. suboptimal
 
-![green heart]({{site.BASE_PATH}}/assets/media/green_heart.png)
+![green heart]({{site.media}}/green_heart.png)
 *Image from [Emojipedia's Green Heart entry](http://emojipedia.org/green-heart/)*
 
 This has improved over time, with more recent versions of Android consolidating on representations more in-line with the Apple "standard" (and the Unicode standard. Which helps.) Also, more recent versions of Android support more recent versions of Unicode. [Android 5.0](http://emojipedia.org/google/android-5.0/) supports a better representation of Unicode 6.0, and [Android 6.0.1](http://emojipedia.org/google/android-6.0.1/) supports up to and including Unicode 8.
@@ -96,7 +96,7 @@ You can see the resulting HTML using this method below
 <img src="img/1f643.png" alt="🙃" title="Upside Down Face" aria-label="Emoji: Upside Down Face">
 ```
 
-Here is an example of this implemenation: <img src="{{site.BASE_PATH}}/assets/media/upsidedown.png" alt="🙃" title="Upside Down Face" aria-label="Emoji: Upside Down Face" style="display: inline-block; height: 24px">, the upside down face.
+Here is an example of this implemenation: <img src="{{site.media}}/upsidedown.png" alt="🙃" title="Upside Down Face" aria-label="Emoji: Upside Down Face" style="display: inline-block; height: 24px">, the upside down face.
 
 The benefits of using this method include:
 

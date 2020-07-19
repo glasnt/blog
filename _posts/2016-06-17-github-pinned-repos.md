@@ -7,13 +7,13 @@ redirect_from: /2016/06/17/github-pinned-repos.html
 
 
 
-![pinned repos]({{site.BASE_PATH}}/assets/media/pinned_repos.png)
+![pinned repos]({{site.media}}/pinned_repos.png)
 
 There have been a few recent changes to GitHub profiles recently. You can now [optionally show your private contributions](https://github.com/blog/2173-more-contributions-on-your-profile) on your profile. You can also add a custom biography to your profile. 
 
 But now, you no longer have to rely on The Algorithms choosing what repos you display on your profile
 
-![old repos]({{site.BASE_PATH}}/assets/media/old_repos.png)
+![old repos]({{site.media}}/old_repos.png)
 
 You used to have two lists. One of your 'popular' repos, by star count, and the other based on repos you'd contributed code to in some order based on recent contributions and the popularity of the repo you contributed to. 
 

@@ -11,7 +11,7 @@ LinkedIn allows two separate ways of endorsing or recommending someone. They are
 
 Endorsements are the list of skills that one or more people have clicked to say 'Yes, person X knows thing Y". 
 
-<img src="{{site.BASE_PATH}}/assets/media/skills.jpg" />
+<img src="{{site.media}}/skills.jpg" />
 
 Recommendations are free-form text-based recommendations which can be attributed to some elements of a LinkedIn profile, but not all. 
 

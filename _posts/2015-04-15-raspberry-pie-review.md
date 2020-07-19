@@ -27,11 +27,11 @@ These little nuggets of goodness are just as good as they look. If you aren't ca
 ## Pictures
 <style>.pie_pictures { width: 50%;} .pie_pictures img { margin: 10px }</style>
 <div class="pie_pictures">
-<img src="{{site.BASE_PATH}}/assets/media/pie/piecasing.png"/>
-<img src="{{site.BASE_PATH}}/assets/media/pie/pie0.png"/>
-<img src="{{site.BASE_PATH}}/assets/media/pie/pie1.png"/>
-<img src="{{site.BASE_PATH}}/assets/media/pie/pie2.png"/>
-<img src="{{site.BASE_PATH}}/assets/media/pie/pie.png"/>
+<img src="{{site.media}}/pie/piecasing.png"/>
+<img src="{{site.media}}/pie/pie0.png"/>
+<img src="{{site.media}}/pie/pie1.png"/>
+<img src="{{site.media}}/pie/pie2.png"/>
+<img src="{{site.media}}/pie/pie.png"/>
 </div>
 
 ## Build specs

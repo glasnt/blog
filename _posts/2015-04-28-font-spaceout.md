@@ -12,7 +12,7 @@ There was just one major problem.
 
 I lost the ability to display monospace font. 
 
-<img src="{{site.BASE_PATH}}/assets/media/fontspaceout_1.png">
+<img src="{{site.media}}/fontspaceout_1.png">
 
 I do a little bit of web work in my travels. I like being able to see monospaced fonts. Stuff like Chrome's `view-source:` was showing in some sort of serif. It was a little bit unsettling.
 
@@ -32,11 +32,11 @@ It turns out that this may or may not be cinnamon very over zealous with it's th
 
 My problem (for now) appears to be mostly the browser. Luckily, Chrome is able to assert itself, and you can manually change the default fonts. 
 
-<img src="{{site.BASE_PATH}}/assets/media/fontspaceout_2.png">
+<img src="{{site.media}}/fontspaceout_2.png">
 
 As you can see, the monospace font isn't exactly monospaced. 
 
-<img src="{{site.BASE_PATH}}/assets/media/fontspaceout_3.png">
+<img src="{{site.media}}/fontspaceout_3.png">
 
 Selecting a monospace font I have prepared earlier, this is not at least displaying sorta-kinda properly, and I can now see monospace fonts again where I like them. 
 

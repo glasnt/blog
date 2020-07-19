@@ -14,7 +14,7 @@ I've found too many times I'll be part way through a Stack Overflow post only to
 
 But this was solved once I acquired my own duck.
 
-<img src="{{site.BASE_PATH}}/assets/media/duck_small.jpg">
+<img src="{{site.media}}/duck_small.jpg">
 
 I love my duck.
 
