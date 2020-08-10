@@ -20,7 +20,7 @@ header-img: "../img/about-bg.jpg"
 > multiple operating systems, and speaker on many different topics.
 >
 > When she's not changing the world, she enjoys
-> [cooking](https://twitter.com/glasnt/status/698302985806327808), [making
+> [cooking](https://glasnt.com/foods/), [making
 > tapestries](https://twitter.com/jairtrejo/status/866164545303203842),
 > and seeing just how well various application stacks handle emoji.
 
