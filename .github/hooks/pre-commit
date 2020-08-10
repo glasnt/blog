@@ -1,3 +1,0 @@
-#!/bin/sh
-
-/Users/glasnt/git/glasnt/blog/venv/bin/python assets/card_helpers/generate.py --quiet
