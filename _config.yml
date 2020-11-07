@@ -14,7 +14,7 @@ cardfolder: "/assets/cards"
 future: true
 timezone: "Australia/Sydney"
 
-google_analytics: "UA-18568982-1"
+google_analytics: "G-265B4NHGG0"
 
 rss_path: "feed.xml"
 categories_path: "categories.html"
