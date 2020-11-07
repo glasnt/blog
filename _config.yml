@@ -1,4 +1,4 @@
-remote_theme: glasnt/myrtle
+remote_theme: glasnt/myrtle@latest
 base_url: /blog
 BASE_PATH: /blog
 media: /blog/assets/media
@@ -6,6 +6,7 @@ media: /blog/assets/media
 permalink: "/:title"
 plugins: 
  - jekyll-redirect-from
+ - jekyll-remote-theme
 
 header-img: "../img/header_image.jpg"
 base_author: "Katie McLaughlin"
