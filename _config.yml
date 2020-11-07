@@ -3,7 +3,7 @@ base_url: /blog
 BASE_PATH: /blog
 media: /blog/assets/media
 
-permalink: "/:title" #:categories/:year/:month/:day/:title.html"
+permalink: "/:title"
 plugins: 
  - jekyll-redirect-from
 

@@ -22,7 +22,7 @@ header-img: "../img/about-bg.jpg"
 > When she's not changing the world, she enjoys
 > [cooking](https://glasnt.com/foods/), [making
 > tapestries](https://glasnt.com/stitch/),
-> and seeing just how well various application stacks handle emoji.
+> and seeing just how well [various application stacks handle emoji](https://www.youtube.com/watch?v=caTk9n0LdZM).
 
 <small>*[Photo](https://glasnt.com/katie.png), photographer [@HelloMelanieC](https://twitter.com/HelloMelanieC), taken at DjangoCon US 2018*</small>
 
