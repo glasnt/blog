@@ -99,6 +99,8 @@ DevOpsDays Sydney
 
 DjangoCon AU
  
+ - 2020
+   - Organiser
  - 2017 
    - Organiser
 
@@ -176,7 +178,10 @@ PyCascades
    - Speaker Mentor
 
 PyCon AU
-
+ 
+ - 2020
+   - Sponsor Liaison
+   - Speaker Mentor
  - 2019
    - Conference Director
  - 2018
@@ -209,6 +214,11 @@ PyCon US
    - BeeWare Booth Co-organiser
    - Session Chair
 
+SheCodes
+
+ - 2020
+   - Mentor - Flash Geraldton, June 2020
+   - Mentor - Plus Brisbane, August 2020 
 
 ------------------------------------------------------------------------
 

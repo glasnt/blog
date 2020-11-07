@@ -6,6 +6,7 @@ subtitle: Tips and or Tricks
 redirect_from: /2015/09/19/download-youtube-captions.html
 ---
 
+*2020 update: this method no longer works. Services like downsub.com may work instead.*
 
 The automatic transcription of YouTube vidoes is pretty amazing, and sometimes histerical at times. 
 
