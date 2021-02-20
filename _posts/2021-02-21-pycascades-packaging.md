@@ -20,9 +20,9 @@ Visual Studio Code
 Debuggers
 
  * `pdb` should be taught early
- * [Nina](https://twitter.com/nnja) debugging talk https://youtu.be/5AYIe-3cD-s 
+ * [Nina's](https://twitter.com/nnja) debugging talk https://youtu.be/5AYIe-3cD-s 
  * https://github.com/microsoft/debugpy 
- * See also at PyCascades [Let’s Rethink Debugging](https://2021.pycascades.com/program/talks/lets-rethink-debugging) by laike9m
+ * See also at PyCascades 2021 [Let’s Rethink Debugging](https://2021.pycascades.com/program/talks/lets-rethink-debugging) by laike9m
 
 PyPI
  
