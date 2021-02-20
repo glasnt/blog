@@ -140,6 +140,8 @@ KiwiPyCon
 
 linux.conf.au
 
+ - 2021
+   - Session Selection Committee
  - 2020
    - Session Selection Committee
    - Containers Miniconf organiser
@@ -174,11 +176,16 @@ PurpleCon
 
 PyCascades
 
+ - 2021
+   - Speaker Mentor
+   - Q & A Helpers
  - 2020
    - Speaker Mentor
 
 PyCon AU
  
+ - 2021
+   - Communications Director
  - 2020
    - Sponsor Liaison
    - Speaker Mentor
