@@ -35,7 +35,7 @@ Static Typing
 Formatters
 
  * Black
- * OH: "back in spaaaaace" https://github.com/nasa/fprime/blob/devel/.pre-commit-config.yaml 
+ * OH: "back in spaaaaace" https://github.com/nasa/fprime/blob/devel/.pre-commit-config.yaml (uses https://pre-commit.com/)
 
 CLI Helpers
 
