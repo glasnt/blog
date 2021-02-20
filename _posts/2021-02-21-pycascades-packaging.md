@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Notes from fireside Łukasz Langa and Dustin Ingram from PyCascades 2021
+title: Notes from fireside chat with Łukasz Langa and Dustin Ingram from PyCascades 2021
 description: Łukasz and Dustin spoke about their favourite tools, packages, and workflows. Here are some links and notes
-
 ---
 
 Notes from the [PyCascades 2021 talk - Fireside chat with Łukasz Langa and Dustin Ingram about their favorite tools, packages, and workflows for advanced Python development](https://2021.pycascades.com/program/talks/fireside-chat-with-%25c5%2582ukasz-langa-and-dustin-ingram-about-their-favorite-tools-packages-and-workflows-for-advanced-python-development/) (Video should be available on [YouTube](https://www.youtube.com/c/PyCascades) within a week of post date). 
