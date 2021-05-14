@@ -87,3 +87,20 @@ Summary: Flask 2.0...
  * still a wsgi framework, for asgi consider [`quart`](https://pypi.org/project/Quart/)
  * short method route decorators
 
+
+### Developer Owned code security
+
+Speaker: Clint
+
+A live(!) SonarCloud demo
+
+### Load django settings with one magic line of code
+
+Speaker: Daniel J Dufour
+
+[https://pypi.org/project/djenv/](https://pypi.org/project/djenv/)
+
+Pulls `DJANGO_VALUE` environment variables into `VALUE` within Django settings
+
+(Not to be confused with, but see also [https://django-environ.readthedocs.io/](https://django-environ.readthedocs.io/) for file-based loading of variables)
+
