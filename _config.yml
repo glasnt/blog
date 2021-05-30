@@ -30,7 +30,7 @@ navbar:
     title: writing
   - slug: /blog/
     title: blog
-  - slug: /now/
+  - slug: /blog/now/
     title: now
   - slug: /blog/archive/
     title: archive
