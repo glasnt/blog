@@ -1,24 +1,36 @@
-remote_theme: glasnt/myrtle@latest
-base_url: /blog
-BASE_PATH: /blog
+remote_theme: glasnt/myrtle@thinkspace
+repository: glasnt/blog
+
+description       : "in which glasnt has thoughts"     
+baseurl           : "/blog"
+
+title_left         : "glasnt.com"
+url                : "https://glasnt.com"
+cover              : "" # image uri like logo/cover image for site seo
+google_analytics   : G-265B4NHGG0
+twitter_username   : "glasnt"     
+postshare_enabled  : true
+
+permalink          : /:title/
+markdown           : kramdown
+highlighter        : rouge
+
+# special settings for blog
 media: /blog/assets/media
+cardfolder: /assets/cards
 
-permalink: "/:title"
-plugins: 
- - jekyll-redirect-from
- - jekyll-remote-theme
-
-header-img: "../img/header_image.jpg"
-base_author: "Katie McLaughlin"
-cardfolder: "/assets/cards"
-
-future: true
-timezone: "Australia/Sydney"
-
-google_analytics: "G-265B4NHGG0"
-
-rss_path: "feed.xml"
-categories_path: "categories.html"
-archive_path: "archive.html"
-
-title: "musings"
+navbar:
+  - slug : /
+    title: home
+  - slug : /blog/about/
+    title: about
+  - slug: /talks/
+    title: talks
+  - slug: /writing/
+    title: writing
+  - slug: /blog/
+    title: blog
+  - slug: /now/
+    title: now
+  - slug: /blog/archive/
+    title: archive

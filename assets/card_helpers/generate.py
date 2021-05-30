@@ -31,7 +31,7 @@ def process(post, png):
         
     render = t.render(
         title=title,
-        background=f"{static}/background.png",
+        #background=f"{static}/background.png",
         height=HEIGHT, 
         width=WIDTH, 
     )
