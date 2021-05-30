@@ -6,7 +6,6 @@ baseurl           : "/blog"
 
 title_left         : "glasnt.com"
 url                : "https://glasnt.com"
-cover              : "" # image uri like logo/cover image for site seo
 google_analytics   : G-265B4NHGG0
 twitter_username   : "glasnt"     
 postshare_enabled  : true
