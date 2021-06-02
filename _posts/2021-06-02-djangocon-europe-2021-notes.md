@@ -18,6 +18,12 @@ Highly recommend watching the playback.
 From the Q&A: "I'd hate people to think I'm "anti-fun". I mean, I am, but I don't want people to think that!"
 
 
+## React, GraphQL, and Django
+
+[Abstract](https://cfp.2021.djangocon.eu/2021/talk/LMWU8L/)
+
+Resources and references from the speaker: [gist](https://gist.github.com/aaronbassett/dbf4b0d4c2c5d49e35b6d1093a6b2070)
+
 ## real time chat clients
 
 [Abstract](https://cfp.2021.djangocon.eu/2021/talk/ECY3JD/)
