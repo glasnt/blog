@@ -11,7 +11,7 @@ description: in which glasnt has thoughts
 
 <div class="index-post">
 <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title">{{ post.title }}</h2></a>
+<a href="{{ post.url | prepend: site.baseurl }}"><div>{{ post.title }}</div></a>
     {% if post.subtitle %}{{ post.subtitle }}{% endif %}
     {% if post.description %}{{ post.description }}{% endif %}
     
