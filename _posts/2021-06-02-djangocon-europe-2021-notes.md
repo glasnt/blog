@@ -44,5 +44,42 @@ Basically pickling for javascript objets
 
 [Telepath demo, including bouncing emoji](https://github.com/gasman/djangocon-telepath-demo/commit/ac8106155b3028f3246e517a6405cc0417ae622d)
 
+## Django and Sphinx
+
+`pip install myst-parser` - use markdown with your sphinx
+
+`pip insall django-sphinx-view` - get sphinx in django
 
 
+## Writing Safe Database migrations
+
+[Abstract](https://cfp.2021.djangocon.eu/2021/talk/F9J8CU/)
+
+As an engineer, you know more about your project than Django does. Use that knowledge, and edit your generated migrations if you think you should!
+
+
+When do you deploy migrations? Right before you start deploying your code. You cannot remove a model or a field from a model in the same release as the one that contains the migration. Migrations run first, so you could remove database elements while some front ends will still use it. Make two releases: one that removes the model field from your code, then you remove the field from the database with the migrations. (Yes this means you'll have model changes without makemigrations so `migrations --check` will fail. This is okay.)
+
+Loosen constraints? Do that before the deployment. 
+
+How do you do updates when you have rolling updates? You must have two releases: the first one that works with the new constraints, then the second one that updates the database. 
+
+How do you rename a field? You don't. 
+
+Having rollback migrations is good for development, but going backwards in production is difficult. You can't restore data in a dropped table, for example. 
+
+Adding a nullable column is nothing more than a metadata update. Adding a new column with a default value may lock a large table as it updates all the records (unless you are using Postgres 11+ which has fancy work arounds, but you are writing reusable apps aren't you?) You can also use chunked updates to ensure the site continues to be operational while you update. 
+
+Be careful with indexes, postgres index creation in a transaction can table lock. set `atomic = false` to make the index run async. (not required for mysql, as they are default async)
+
+Summary: 
+
+ * apply migrations before you deploy
+ * only go forwards & never look back
+ * only add nullable fields
+ * populate default value with management command
+ * add indexes conncurrently
+ * use meaningful index names
+ * have working backups of your database
+ * test complex migrations on production-life data
+ 
