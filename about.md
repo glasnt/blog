@@ -45,9 +45,11 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
- * Python Software Foundation - Director, 2018 - Present
- * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
- * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - Present
+ * DevOpsDays Global - Core Organiser, 2020 - Present
+ * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
+ * Python Software Foundation - Director, 2018 - 2021
+ * KatieConf - [Founder](https://katieconf.xyz), 2016 - 2019
+ * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - 2019
  * Meetup Mixup - Co-founder, Organiser, 2015 - 2018
  * PyCon AU - [Conference Director](http://2018.pycon-au.org), 2018 - 2019
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - 2019
