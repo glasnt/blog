@@ -15,7 +15,7 @@ header-img: "../img/about-bg.jpg"
 
 <a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
 
-> Katie has worn many different hats over the years. She has been a
+> Katie has worn many different <a href="https://glasnt.com/hats/">hats</a> over the years. She has been a
 > software developer for many languages, systems administrator for
 > multiple operating systems, and speaker on many different topics.
 >
