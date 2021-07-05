@@ -15,7 +15,7 @@ header-img: "../img/about-bg.jpg"
 
 <a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
 
-> Katie has worn many different hats over the years. She has been a
+> Katie has worn many different <a href="https://glasnt.com/hats/">hats</a> over the years. She has been a
 > software developer for many languages, systems administrator for
 > multiple operating systems, and speaker on many different topics.
 >
@@ -45,9 +45,11 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
- * Python Software Foundation - Director, 2018 - Present
- * KatieConf - [Founder](https://katieconf.xyz), 2016 - Present
- * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - Present
+ * DevOpsDays Global - Core Organiser, 2020 - Present
+ * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
+ * Python Software Foundation - Director, 2018 - 2021
+ * KatieConf - [Founder](https://katieconf.xyz), 2016 - 2019
+ * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - 2019
  * Meetup Mixup - Co-founder, Organiser, 2015 - 2018
  * PyCon AU - [Conference Director](http://2018.pycon-au.org), 2018 - 2019
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - 2019

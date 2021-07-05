@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On Miniconfs and Specialist Tracks
 
 redirect_from: /2017/11/20/on-miniconfs-and-specialist-tracks.html

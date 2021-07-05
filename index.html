@@ -2,20 +2,21 @@
 layout: page
 description: in which glasnt has thoughts
 ---
-{% for post in site.posts limit:10  %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-</div>
-<hr>
-{% endfor %}
+<style>
+    .index-post .post-title { margin: 0}
+    .index-post { margin-bottom: 2em }
+</style>
 
-<a href="https://glasnt.com/blog/archive">Archive</a>
-    </div>
-  </div>
+{% for post in site.posts limit: 10  %}
+
+<div class="index-post">
+<p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+<a href="{{ post.url | prepend: site.baseurl }}"><div>{{ post.title }}</div></a>
+    {% if post.subtitle %}{{ post.subtitle }}{% endif %}
+    {% if post.description %}{{ post.description }}{% endif %}
+    
 </div>
+{% endfor %}
+<br>
+<p>Read more in the <a href="archive">Archive</a>.</p>
+

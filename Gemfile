@@ -1,3 +1,10 @@
 source "https://rubygems.org"
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-redirect-from'
+
+gem 'jekyll'
+
+group :jekyll_plugins do
+    gem "jekyll-sitemap"
+    gem "jekyll-paginate"
+    gem 'github-pages'
+    gem 'jekyll-redirect-from'
+end
