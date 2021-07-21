@@ -115,6 +115,8 @@ DjangoCon Europe
 
 DjangoCon US
 
+ - 2021
+   - Paper Review Group
  - 2019
    - Deep Dive Track MC
  - 2018
