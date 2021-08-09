@@ -6,6 +6,8 @@ subtitle: Tips and or Tricks
 redirect_from: /2015/09/19/download-youtube-captions.html
 ---
 
+*2021 update: On YouTube, click the three dots "..." to the right of the Share, Save items, and click 'Open Transcript'. ✨*
+
 *2020 update: this method no longer works. Services like downsub.com may work instead.*
 
 The automatic transcription of YouTube vidoes is pretty amazing, and sometimes histerical at times. 
