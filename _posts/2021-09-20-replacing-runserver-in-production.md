@@ -44,7 +44,7 @@ is now
 
 #### Passing on parameters
 
-While the standard interface for these webservers is to just call them by name (e.g. `uwsgi`) they often can be refined by extra parameters, for example a port number or the number of worker processes. django-webserver just passes those along to the process, without having to 
+While the standard interface for these webservers is to just call them by name (e.g. `uwsgi`) they often can be refined by extra parameters, for example a port number or the number of worker processes. django-webserver just passes those along to the process, without having to know about how any of that stuff works. This means that the package will continue to work no matter the underlying webserver configuration changes (in theory)!
 
 
 #### Working out your WSGI app
