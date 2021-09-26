@@ -15,12 +15,12 @@ const path = require("path");
     for (const preview of previews) {
         console.log('ping')
         const box = await preview.boundingBox();
-        const title = await preview.$eval(
-            '.title', node => node.innerText.replaceAll(" ", "-").toLowerCase().replaceAll(/[^a-z0-9 -]/g, '')
+        const slug = await preview.$eval(
+            '.slug', node => node.innerText
         )
-        console.log(title)
+        console.log(slug)
         await page.screenshot({
-            path: `./assets/cards/${title}.png`,
+            path: `./assets/cards/${slug}.png`,
             type: "png",
             clip: { x: box['x'], y: box['y'], 
                     width: box['width'], height: box['height'] }
