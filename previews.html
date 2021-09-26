@@ -1,0 +1,24 @@
+---
+layout: default
+title: Social Card Previews
+description: Based on https://mikkelhartmann.dk/2021/01/17/socal-media-images.html
+---
+
+<link rel="stylesheet" href="{{site.baseurl}}/assets/css/previews.css" />
+
+<div class='preview-grid'>
+    {% for entry in site.posts %}
+    <div class='preview'>
+        <div class='inner-grid'>
+            <div class='title'>{{ entry.title}}</div>
+            <div class='graphic'>
+                <img src='{{"sparkles.png" | prepend: "/assets/images/" | prepend: site.baseurl}}' />
+            </div>
+
+            <div class='footer'>
+                <h1 class="logo" style="float:none;"><span>{{ site.title_left }}</span>{{ site.baseurl }}</h1>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
