@@ -3,7 +3,6 @@ repository: glasnt/blog
 
 description       : "in which glasnt has thoughts"     
 baseurl           : "/blog"
-
 title_left         : "glasnt.com"
 url                : "https://glasnt.com"
 google_analytics   : G-5Q2WPZ8NN3
