@@ -1,4 +1,14 @@
+/*
 
+# generate card previews
+
+requires running jekyll to load previews.html, which puppeteer take screenshots of. 
+
+generates files in reverse date order, so running should backfill until first existing file found.
+
+to re-generate, delete existing files. 
+
+*/
 const chromium = require('puppeteer');
 const fs = require("fs");
 const path = require("path");
@@ -13,12 +23,16 @@ const path = require("path");
 
     const previews = await page.$$('.preview')
     for (const preview of previews) {
-        console.log('ping')
         const box = await preview.boundingBox();
         const slug = await preview.$eval(
             '.slug', node => node.innerText
         )
         console.log(slug)
+        var path = `./assets/cards/${slug}.png`
+        if (fs.existsSync(path)) { 
+            console.log(path + " exists! Exiting.")
+            process.exit(0);
+        } 
         await page.screenshot({
             path: `./assets/cards/${slug}.png`,
             type: "png",

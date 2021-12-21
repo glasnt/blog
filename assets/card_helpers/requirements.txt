@@ -1,5 +1,0 @@
-imgkit
-click
-Flask
-jinja2
-markdown
