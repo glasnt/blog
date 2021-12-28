@@ -5,6 +5,7 @@ description: "Oh hi!"
 header-img: "../img/about-bg.jpg" 
 ---
 
+
 <style>.row a{text-decoration: underline !important}</style>
 
 ## TL;DR:
@@ -13,7 +14,7 @@ header-img: "../img/about-bg.jpg"
 
 ## Speaker Bio
 
-<a href="http://glasnt.com/katie.png"><img style="float: right" src="http://glasnt.com/katie.png" width="200px"></a>
+<a href="https://glasnt.com/katie.png"><img style="float: right" src="https://glasnt.com/katie.png" width="200px"></a>
 
 > Katie has worn many different <a href="https://glasnt.com/hats/">hats</a> over the years. She has been a
 > software developer for many languages, systems administrator for
@@ -26,6 +27,8 @@ header-img: "../img/about-bg.jpg"
 
 <small>*[Photo](https://glasnt.com/katie.png), photographer [@HelloMelanieC](https://twitter.com/HelloMelanieC), taken at DjangoCon US 2018*</small>
 
+<img src="../img/about-bg.jpg">
+<small>Header image by [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/)</small>
 ------------------------------------------------------------------------
 
 ## Simple Speaker Bio
@@ -265,4 +268,3 @@ No really, what does "glasnt" mean?
 
 
 ------------------------------------------------------------------------
-<sub>Header image by [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/)</sub>
