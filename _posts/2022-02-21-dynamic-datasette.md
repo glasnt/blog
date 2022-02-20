@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamic Datasette
+title: Using Workflows to dynamically update a Datasette website
 ---
 
 A while ago I spoke with [Simon Willison](https://twitter.com/simonw) about the sorts of things he'd like to have in a cloud provider in order to deploy [Datasette](https://datasette.io/) nicely and repeatedly. A few of the things mentioned were being able to attach to object storage, especially when databases were particularly large and it didn't make sense to mount them into the container image itself. 
