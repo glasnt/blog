@@ -13,7 +13,7 @@ This works very well when you have one database that you want to serve. However,
 
 There are few ways we can work around this issue. You could have the process within the container restart when the mounted filesystem changes, using something like `inotify` (`fsevent` on macOS). You could also consider periodically starting, but that may mean restarting when not required, or not often enough. For a sufficiently low traffic system, you'd end up automatically booting from cold after a time of inactivity, anyway. 
 
- \
+
 The way I chose to solve this was to use the event of an object being uploaded to the bucket to trigger an update of the service, thus restarting Datasette (albeit dramatically). 
 
 And since I was now listening to the upload event, I thought, why not do more processing while I'm here?
