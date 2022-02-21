@@ -18,7 +18,7 @@ const path = require("path");
 
     const page = await browser.newPage();
     await page.setViewport({ width: 1200, height: 100000 }); 
-    await page.goto('http://localhost:4000/blog/previews/')
+    await page.goto(`file://${__dirname}/_site/previews/index.html`)
     await page.waitForSelector('.preview');
 
     const previews = await page.$$('.preview')
