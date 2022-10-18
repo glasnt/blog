@@ -65,6 +65,7 @@ Why Python?
  - was payroll, found use case for pandas
 
 
+Also, this speaker had used Django for 12 days total. Their presentation **was made in Django** https://github.com/tataraba/django-slideshow 
 
 ## Lightning talks
 
