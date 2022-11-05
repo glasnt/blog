@@ -3,10 +3,6 @@ layout: post
 title: DjangoCon 2022 Day One - Notes
 ---
 
-# DjangoCon 2022 Day one notes
-
-
-
 `#selfcaresprint` is a thing! It's okay to not be in every talk. 
 
 ## Django Admin with Adrienne Franke
@@ -35,7 +31,7 @@ class Meta:
 
 `migrate --database [name]` + custom database routing (non "default" `DATABASE`, e.g. `sandbox`). 
 
-`TEMPLATES` folder, `templates/admin/[model]/changeform.html`, `{%extends ..}`. 
+`TEMPLATES` folder, `templates/admin/[model]/changeform.html`, `{\% extends ..}`. 
 
 Also, Dynamic Help Text, Custom Actions. 
 
