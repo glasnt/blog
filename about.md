@@ -53,7 +53,7 @@ Writer](http://xkcd.com/simplewriter/))
  * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
  * Python Software Foundation - Director, 2018 - 2021
  * KatieConf - [Founder](https://katieconf.xyz), 2016 - 2019
- * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - 2019
+ * BeeWare - [Senior Apiarist](http://pybee.org/community/team/), 2016 - 2019, 2022 - Present
  * Meetup Mixup - Co-founder, Organiser, 2015 - 2018
  * PyCon AU - [Conference Director](http://2018.pycon-au.org), 2018 - 2019
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2018/jan/06/results-dsf-board-election/), 2018 - 2019
@@ -72,6 +72,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Awards
 
+ * Honorary lifetime member of the [New Zealand Python User's Group](https://python.nz/) (NZPUG), [2022](https://twitter.com/anitsirk/status/1561211712342085632).
  * [OpenSource.com 2019 People's Choice Award](https://opensource.com/article/19/2/community-awards-2019)
  * Finalist [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
  * Nominated [2017 Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/)
@@ -112,6 +113,9 @@ DjangoCon AU
 
 DjangoCon Europe
 
+ - 2022
+   - Session Chair
+   - Speaker Mentor
  - 2018
    - Paper Reviewer
    - Session Chair
@@ -119,6 +123,9 @@ DjangoCon Europe
 
 DjangoCon US
 
+ - 2022
+  - Deep Dive Track MC
+  - Speaker Mentor
  - 2021
    - Paper Review Group
  - 2019
@@ -133,13 +140,11 @@ DjangoCon US
  - 2016
    - Paper Review Group
 
-KiwiCon
- 
- - 2018
-   - Volunteer
 
 KiwiPyCon
 
+ - 2022
+   - Compere (MC), honorary organiser
  - 2016
    - Track Co-ordinator
  - 2015
@@ -214,7 +219,9 @@ PyCon AU
    - Diversity Staff
 
 PyCon US
-
+ 
+ - 2022
+   - Program Committee
  - 2020
    - Proposal Mentor
  - 2019
