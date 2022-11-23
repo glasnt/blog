@@ -16,11 +16,11 @@ However, what if those secrets are required for your tests to run?
 
 You can use the Firebase CLI to help you set this up, which includes using the Firebase GitHub app to add a secret
 containing the credentials Firebase needs to act on your behalf, which is added as a secret on the repo. The GitHub
-action https://github.com/FirebaseExtended/action-hosting-deploy then uses this secret to deploy previews. 
+action [github.com/FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy) then uses this secret to deploy previews. 
 
 This will only work for pull requests based on branches on your repo, but not forks. The reason is the same as above. 
 
-This has been a known issue for a while, as logged in https://github.com/FirebaseExtended/action-hosting-deploy/issues/17. 
+This has been a known issue for a while, as logged in [github.com/FirebaseExtended/action-hosting-deploy/issues/17](https://github.com/FirebaseExtended/action-hosting-deploy/issues/17)
 
 ---
 
@@ -38,9 +38,9 @@ This is bad.
 
 But also what's bad is that the `ref` line in the "INSECURE. Provided as an example only." yaml example doesn't work for me. 
 
-They suggest using `ref: ${{ github.event.pull_request.head.sha }}`
+They suggest using `{% raw %}ref: ${{ github.event.pull_request.head.sha }}{% endraw %}`
 
-I found that `ref: "refs/pull/${{ github.event.number }}/merge"` worked as intended.
+I found that `{% raw %}ref: "refs/pull/${{ github.event.number }}/merge"{% endraw %}` worked as intended.
 
 They do suggest a work around where you limit an action that runs on users code in an elevated environment to be gatekepted by a maintainer tagging the 
 pull request with a label, **keeping in mind** this can allow for race conditions, such as changes to the code between when the PR is approved and the code is run. 
@@ -49,7 +49,7 @@ pull request with a label, **keeping in mind** this can allow for race condition
 ---
 
 BeeWare was using Netlify for web hosting previews, but due to changes in the free tier it was no longer possible to not incur costs for previews.
-The site itself is hosted on GitHub pages, which at the time of writing does not offer it's own pull request preview option, and is not on the roadmap (https://github.com/community/community/discussions/7730#discussioncomment-1885967). 
+The site itself is hosted on GitHub pages, which at the time of writing does not offer it's own pull request preview option, and is not on the roadmap ([github.com/community/community/discussions/7730#discussioncomment-1885967](https://github.com/community/community/discussions/7730#discussioncomment-1885967)). 
 
 Using Firebase Hosting Previews only works by default for branch based pull requests, but forks wouldn't run. 
 
@@ -58,15 +58,15 @@ implement previews within an acceptable level of risk.
 
 ---
 
-You can see the evolution of this code in a testing repo over at https://github.com/glasnt/pull_request_target_demo. 
+You can see the evolution of this code in a testing repo over at [https://github.com/glasnt/pull_request_target_demo](https://github.com/glasnt/pull_request_target_demo). 
 
- * https://github.com/glasnt/pull_request_target_demo/pull/1
+ * [https://github.com/glasnt/pull_request_target_demo/pull/1](https://github.com/glasnt/pull_request_target_demo/pull/1)
    - Using `pull_request_target`, the submitted code doesn't run. 
- * https://github.com/glasnt/pull_request_target_demo/pull/2
+ * [https://github.com/glasnt/pull_request_target_demo/pull/2](https://github.com/glasnt/pull_request_target_demo/pull/2)
    - Using the security article `ref: ${{ github.event.pull_request.head.sha }}`, there are build failures. 
- * https://github.com/glasnt/pull_request_target_demo/pull/3
+ * [https://github.com/glasnt/pull_request_target_demo/pull/3](https://github.com/glasnt/pull_request_target_demo/pull/3)
    - Using `ref: "refs/pull/${{ github.event.number }}/merge"`, the code runs, but this method is insecure. 
- * https://github.com/glasnt/pull_request_target_demo/pull/4
+ * [https://github.com/glasnt/pull_request_target_demo/pull/4](https://github.com/glasnt/pull_request_target_demo/pull/4)
    - Adding label-based action gatekeeping, we're able to assesss code before it's run. 
    
    
