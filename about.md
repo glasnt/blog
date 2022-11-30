@@ -48,6 +48,7 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Positions Held
 
+ * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2022/nov/29/2023-dsf-board-election-results/), 2023-2024
  * PyCon AU Steering Committee - Member - 2022 - Present
  * DevOpsDays Global - Core Organiser, 2020 - Present
  * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
