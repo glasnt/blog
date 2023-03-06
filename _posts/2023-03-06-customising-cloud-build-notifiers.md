@@ -54,20 +54,19 @@ _Be sure to delete your Cloud Function once you're finished with it!_
 
 ## Customising templates
 
-The template format uses Go's template functionality, where the values in your payload are accessible via `{{.Build}}`. 
+The template format uses Go's template functionality, where the values in your payload are accessible via `{%raw%}{{.Build}}{%endraw%}`. 
 
 For example, if you want the title of your notification to include the trigger name, falling back to the trigger ID, and then the build status:  
-
-```
-{
-  "title": "Build 
-  		{{if .Build.Substitutions.TRIGGER_NAME}}
-  			{{.Build.Substitutions.TRIGGER_NAME}}
-  		{{else}}
-  			{{.Build.BuildTriggerId}}
-  		{{end}}: {{.Build.Status}}",
-  ...
-```
+```{%raw%}
+{ 
+ "title": "Build 
+  {{if .Build.Substitutions.TRIGGER_NAME}}
+    {{.Build.Substitutions.TRIGGER_NAME}}
+  {{else}}
+    {{.Build.BuildTriggerId}}
+  {{end}}: {{.Build.Status}}",
+...
+{% endraw %}```
 
 All these values were available in the payload information. 
 

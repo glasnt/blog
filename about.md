@@ -16,33 +16,33 @@ header-img: "../img/about-bg.jpg"
 
 <a href="https://glasnt.com/katie.png"><img style="float: right" src="https://glasnt.com/katie.png" width="200px"></a>
 
-> Katie has worn many different <a href="https://glasnt.com/hats/">hats</a> over the years. She has been a
+> Katie has worn many different <a href="https://glasnt.com/hats/">hats</a> over the years. They have been a
 > software developer for many languages, systems administrator for
 > multiple operating systems, and speaker on many different topics.
 >
-> When she's not changing the world, she enjoys
+> When they're not changing the world, they enjoy
 > [cooking](https://glasnt.com/foods/), [making
 > tapestries](https://glasnt.com/stitch/),
 > and seeing just how well [various application stacks handle emoji](https://www.youtube.com/watch?v=caTk9n0LdZM).
 
 <small>*[Photo](https://glasnt.com/katie.png), photographer [@HelloMelanieC](https://twitter.com/HelloMelanieC), taken at DjangoCon US 2018*</small>
 
+---
+
+
 <img src="../img/about-bg.jpg">
-<small>Header image by [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/)</small>
-------------------------------------------------------------------------
+<small>*Photographer [Bartek Pawlik](https://www.flickr.com/photos/140681500@N07/27775749137/in/album-72157694580278202/), taken at DjangoCon Europe 2018.*</small>
+
+---
 
 ## Simple Speaker Bio
 
 (generated via [Simple
 Writer](http://xkcd.com/simplewriter/))
 
-> This lady has worn many different hats over the years. She has been a
-> thinking-box fixer for many languages, systems doer for many thinking
-> box systems, and speaker on many different things.
->
-> When she's not changing the world, she enjoys creating food, making
-> pretty wall things, and seeing just how well thinking boxes can work
-> with picture-words.
+> This human has worn many different hats over the years. They have been a thinking-box talker for many languages, thinking-box fixer for many different systems, and speaker on many different things.
+> 
+> When they're not changing the world, they enjoy creating food, making pretty wall art, and seeing just how well thinking boxes can work with picture-words.
 
 ------------------------------------------------------------------------
 
@@ -50,6 +50,7 @@ Writer](http://xkcd.com/simplewriter/))
 
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2022/nov/29/2023-dsf-board-election-results/), 2023-2024
  * PyCon AU Steering Committee - Member - 2022 - Present
+ * DevOpsDays Global - Co-chair, 2022 - 2024
  * DevOpsDays Global - Core Organiser, 2020 - Present
  * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
  * Python Software Foundation - Director, 2018 - 2021
