@@ -7,7 +7,7 @@ title_left         : "glasnt.com"
 url                : "https://glasnt.com"
 google_analytics   : G-5Q2WPZ8NN3
 twitter_username   : "glasnt"     
-postshare_enabled  : true
+postshare_enabled  : false
 
 permalink          : /:title/
 markdown           : kramdown
