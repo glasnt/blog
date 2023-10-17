@@ -16,8 +16,11 @@ The git commands to do this are:
 
 * `git fetch --unshallow`
   * fetches all of the information
-* `git diff origin/${_BASE_BRANCH}..origin/${_HEAD_BRANCH} --name-only`
-  * gives the names of the files that have been changed between the base branch and the branch of the pull request. 
+* `git diff origin/${_BASE_BRANCH} --name-only`
+  * gives the names of the files that have been changed between the base branch and the (implied) current branch.
+
+(Update 2023-10-17: A previous version of the blog psot used `origin/${_BASE_BRANCH}..origin/${_HEAD_BRANCH}`, which won't work for forks. [H/T to Roger](https://github.com/terraform-google-modules/terraform-docs-samples/pull/514) for the fix!)
+
 
 From there, you can do your own logic to work out which tests need to be run. 
 
@@ -38,7 +41,7 @@ steps:
         git fetch --unshallow
         
         # get the changed files
-        git diff origin/${_BASE_BRANCH}..origin/${_HEAD_BRANCH} --name-only > _changed_files
+        git diff origin/${_BASE_BRANCH} --name-only > _changed_files
         
         # parse out the folders that have changed
         cat _changed_files  | grep '/' | cut -d '/' -f1 | sort | uniq | tr '\n' ' ' > _changed_folders
