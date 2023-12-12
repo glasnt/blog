@@ -14,8 +14,7 @@ Recently I've been having issues where I'd have to deploy 'noop' changes just to
 But as of today, I seem to have been succesfully able to use a [new beta functionality](https://github.com/orgs/community/discussions/301139), where
 my action can build the site, then I let `actions/upload-pages-artifact` and `actions/deploy-pages` take care of the rest.
 
-
-I'm using a combination of the [jekyll](https://github.com/actions/starter-workflows/blob/a0a25cc2d4b6bd5d9870c18c04159dbe4e599e31/pages/jekyll.yml) and [jekyll-gh-pages](https://github.com/actions/starter-workflows/blob/a0a25cc2d4b6bd5d9870c18c04159dbe4e599e31/pages/jekyll-gh-pages.yml) starter workflows. (These are the suggestions that show up if you go to Actions > New Workflow on a repo).
+I'm using a combination of the [jekyll](https://github.com/actions/starter-workflows/blob/a0a25cc2d4b6bd5d9870c18c04159dbe4e599e31/pages/jekyll.yml) and [jekyll-gh-pages](https://github.com/actions/starter-workflows/blob/a0a25cc2d4b6bd5d9870c18c04159dbe4e599e31/pages/jekyll-gh-pages.yml) starter workflows. (These are the suggestions that show up if you go to Actions > New Workflow on a repo). You can see the setup I'm using in [.github/workflows/publish.yml](https://github.com/glasnt/blog/blob/main/.github/workflows/publish.yml) (this may be further refined).
 
 When changing from the existing method, I needed to go to Settings > Pages > Build and deployment, then change my Source from "Deploy from branch" to "GitHub Actions (beta)", otherwise I'd get permissions errors on deployment. I also had to change the (inherited? defaulted? legacy'd?) branch protection on the `github-pages` environment, but I'm unsure if that was a configuration I made, or one that migrated with me. 
 
