@@ -38,6 +38,7 @@ steps:
     args: 
       - -c
       - | 
+        set -e
         git fetch --unshallow
         
         # get the changed files
