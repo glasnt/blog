@@ -23,12 +23,7 @@ So there's a number of things I do to make sure my logs aren't just the rambley 
 
 ---
 
-<img src="{{site.media}}/frictionlog-legend.jpg" width="70%"/>
-
-_Text highlighting I use to show my feelings on topics._
-
-
-On the topic of highlights, I use the colour scheme above: 
+On the topic of highlights, I use the colour scheme above:
 
 * <span style="background-color: rgb(182,215,172)">Green</span>: This is great!
 * <span style="background-color: rgb(252,202,160)">Orange</span>: This could be improved. 
