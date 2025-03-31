@@ -1,5 +1,5 @@
 ---
-title: Announcement: New paper
+title: Announcement - New paper
 ---
 
 Happy to announce that after learning my way around research papers with [ACROSS](https://whodoesthe.dev/about/),
