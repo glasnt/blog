@@ -183,7 +183,7 @@ OSCON
 OSDC
 
  - 2014
-   - Volunter
+   - Volunteer
 
 
 PurpleCon
