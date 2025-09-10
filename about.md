@@ -1,8 +1,8 @@
 ---
-layout: page 
-title: "About" 
-description: "Oh hi!" 
-header-img: "../img/about-bg.jpg" 
+layout: page
+title: "About"
+description: "Oh hi!"
+header-img: "../img/about-bg.jpg"
 ---
 
 
@@ -41,7 +41,7 @@ header-img: "../img/about-bg.jpg"
 Writer](http://xkcd.com/simplewriter/))
 
 > This human has worn many different hats over the years. They have been a thinking-box talker for many languages, thinking-box fixer for many different systems, and speaker on many different things.
-> 
+>
 > When they're not changing the world, they enjoy creating food, making pretty wall art, and seeing just how well thinking boxes can work with picture-words.
 
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ Writer](http://xkcd.com/simplewriter/))
 ## Positions Held
 
  * Django Software Foundation - [Director](https://www.djangoproject.com/weblog/2022/nov/29/2023-dsf-board-election-results/), 2023-2024
- * PyCon AU Steering Committee - Member - 2022 - Present
+ * PyCon AU Steering Committee - Member - 2022 - 2024
  * DevOpsDays Global - Co-chair, 2022 - 2024
  * DevOpsDays Global - Core Organiser, 2020 - Present
  * PyCon AU - [Communications Director](http://2021.pycon.org.au), 2021
@@ -74,6 +74,8 @@ Writer](http://xkcd.com/simplewriter/))
 
 ## Awards
 
+ * [PSF Community Service Award, 2025](https://www.python.org/community/awards/psf-awards/#august-2025)
+ * PyLadies Award 2025
  * Honorary lifetime member of the [New Zealand Python User's Group](https://python.nz/) (NZPUG), [2022](https://twitter.com/anitsirk/status/1561211712342085632).
  * [OpenSource.com 2019 People's Choice Award](https://opensource.com/article/19/2/community-awards-2019)
  * Finalist [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
@@ -96,7 +98,7 @@ See [glasnt.com/talks](http://glasnt.com/talks)
 _In alphabetical order_
 
 All Things Open
-  
+
   - 2018
     - OpenSource.com Booth helper
 
@@ -107,10 +109,10 @@ DevOpsDays Sydney
     - Master of Ceremonies
 
 DjangoCon AU
- 
+
  - 2020
    - Organiser
- - 2017 
+ - 2017
    - Organiser
 
 DjangoCon Europe
@@ -126,8 +128,8 @@ DjangoCon Europe
 DjangoCon US
 
  - 2022
-  - Deep Dive Track MC
-  - Speaker Mentor
+   - Deep Dive Track MC
+   - Speaker Mentor
  - 2021
    - Paper Review Group
  - 2019
@@ -135,7 +137,7 @@ DjangoCon US
  - 2018
    - Mentor
    - Session Chair
- - 2017 
+ - 2017
    - Mentor
    - Paper Review Group
    - Session Chair
@@ -198,7 +200,7 @@ PyCascades
    - Speaker Mentor
 
 PyCon AU
- 
+
  - 2021
    - Communications Director
  - 2020
@@ -221,7 +223,7 @@ PyCon AU
    - Diversity Staff
 
 PyCon US
- 
+
  - 2022
    - Program Committee
  - 2020
@@ -242,7 +244,7 @@ SheCodes
 
  - 2020
    - Mentor - Flash Geraldton, June 2020
-   - Mentor - Plus Brisbane, August 2020 
+   - Mentor - Plus Brisbane, August 2020
 
 ------------------------------------------------------------------------
 
@@ -270,7 +272,7 @@ What does 'glasnt' mean?
 >
 > -- thicknavyrain, [xkcd
 > forums](http://web.archive.org/web/20170821022213/http://forums.xkcd.com/viewtopic.php?p=2459622#p2459622)
- 
+
 No really, what does "glasnt" mean?
 
 *It was a word that came up on my Nokia 3310's predictive text, when I entered in the last 6 digits of my (now defunct) mobile number. It wasn't used anywhere on the internet at the time, so I used it as my handle when during the early GMail beta (2004), and [the rest is history](https://glasnt.com/blog/feelings-about-unique-usernames-on-the-internet). In it's original numeric form cast as a hexcode, it's a [very pretty colour of deep purple](https://www.google.com/search?&q=%23452768).*
