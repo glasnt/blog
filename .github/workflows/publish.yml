@@ -2,7 +2,8 @@ name: Publish website
 
 on:
   push:
-    branches: [$default-branch]
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -14,21 +15,24 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
 
   deploy:
     environment:
