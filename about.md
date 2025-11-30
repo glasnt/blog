@@ -75,7 +75,7 @@ Writer](http://xkcd.com/simplewriter/))
 ## Awards
 
  * [PSF Community Service Award, 2025](https://www.python.org/community/awards/psf-awards/#august-2025)
- * PyLadies Award 2025
+ * [PyLadies Award 2025](https://pyladies.com/blog/Celebrating-the-Recipients-of-the-Outstanding-PyLady-Awards-2025/outstanding-pylady-winners/)
  * Honorary lifetime member of the [New Zealand Python User's Group](https://python.nz/) (NZPUG), [2022](https://twitter.com/anitsirk/status/1561211712342085632).
  * [OpenSource.com 2019 People's Choice Award](https://opensource.com/article/19/2/community-awards-2019)
  * Finalist [2018 Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
