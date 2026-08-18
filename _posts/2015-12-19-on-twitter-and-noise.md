@@ -9,7 +9,9 @@ redirect_from: /2015/12/19/on-twitter-and-noise.html
 
 Yesterday I posted a screenshot of a [dinky app](http://www.starwars.com/games-apps/star-wars-crawl-creator) on [Twitter](https://twitter.com/glasnt/status/677632129224822784). It was a little bit popular. 
 
-![Star Work Force](https://pbs.twimg.com/media/CWdu1IbWUAEmpM5.png)
+![Star Work Force]({{site.media}}/star-work-force.png)
+
+_Historical note: this tweet was made on December 18, 2015, on a platform that no longer exists. It received 2.3K "retweets" and 2.5K "likes"._
 
 This has caused me all sorts of annoyances with the Twitter platform, which I will describe below. 
 
