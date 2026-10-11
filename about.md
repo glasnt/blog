@@ -110,6 +110,8 @@ DevOpsDays Sydney
 
 DjangoCon AU
 
+ - 2023
+   - Organiser
  - 2020
    - Organiser
  - 2017
@@ -201,6 +203,9 @@ PyCascades
 
 PyCon AU
 
+ - 2026
+   - Volunteer
+   - DevRel Track Organiser
  - 2021
    - Communications Director
  - 2020
